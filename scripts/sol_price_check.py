@@ -1,30 +1,35 @@
-cat <<EOF > scripts/sol_price_check.py
-import requests
-from datetime import datetime
+import pandas as pd
+import matplotlib.pyplot as plt
 import os
 
-def get_crypto_prices():
-    # Adding Jupiter (JUP) to the tracker
-    url = "https://api.coingecko.com/api/v3/simple/price?ids=solana,jupiter-exchange-solana&vs_currencies=usd"
-    try:
-        response = requests.get(url)
-        data = response.json()
-        sol_price = data['solana']['usd']
-        jup_price = data['jupiter-exchange-solana']['usd']
-        
-        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        log_entry = f"{timestamp} - SOL: \${sol_price} | JUP: \${jup_price}\n"
-        
-        # Ensure the data folder exists
-        os.makedirs('data', exist_ok=True)
-        
-        with open("data/price_log.txt", "a") as f:
-            f.write(log_entry)
-            
-        print(f"✅ Logged: {log_entry}")
-    except Exception as e:
-        print(f"❌ Error: {e}")
+def run_production_analytics():
+    print("🚀 JOSH-Collectibles: Running Production Analytics...")
+    data_path = 'data/'
+    files = [f for f in os.listdir(data_path) if f.endswith('.csv')]
+    
+    if not files:
+        print("⚠️ No data found.")
+        return
+
+    df = pd.read_csv(os.path.join(data_path, files[0]))
+    
+    # 1. Export the 'Top 50' for an airdrop whitelist
+    top_50 = df.nlargest(50, 'total_droplets')
+    top_50.to_csv('top_50_whitelist.csv', index=False)
+    print("📝 Whitelist saved: 'top_50_whitelist.csv' (Ready for airdrop!)")
+
+    # 2. Visualizing the 'Supporter Gap'
+    plt.figure(figsize=(12, 6))
+    # Plotting top 20 to see the distribution
+    top_20 = df.nlargest(20, 'total_droplets')
+    plt.bar(top_20['username'], top_20['total_droplets'], color='purple')
+    plt.xticks(rotation=45, ha='right')
+    plt.title('Top 20 Supporter Distribution')
+    plt.ylabel('Total Droplets')
+    
+    plt.tight_layout()
+    plt.savefig('droplet_distribution.png')
+    print("🎨 Distribution chart saved: 'droplet_distribution.png'")
 
 if __name__ == "__main__":
-    get_crypto_prices()
-EOF
+    run_production_analytics()
