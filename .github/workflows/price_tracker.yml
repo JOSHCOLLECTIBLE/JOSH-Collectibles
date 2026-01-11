@@ -1,35 +1,9 @@
 name: Solana Price Autopilot
-
 on:
-  schedule:
-    - cron: '0 * * * *'
   workflow_dispatch:
-
-permissions:
-  contents: write
-
 jobs:
-  track_price:
+  test_job:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.9'
-
-      - name: Install Dependencies
-        run: pip install requests
-
-      - name: Run Tracker
-        run: python3 coinGecko/sol_price_check.py
-
-      - name: Save Changes
-        run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
-          git add -A
-          git commit -m "Autopilot: Updated SOL Price" || echo "No changes to commit"
-          git push
+      - name: Simple Test
+        run: echo "Starting script..."
