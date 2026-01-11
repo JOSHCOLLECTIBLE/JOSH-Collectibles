@@ -1,36 +1,30 @@
+cat <<EOF > scripts/sol_price_check.py
 import requests
-import os  # Added to allow Mac to speak
 from datetime import datetime
+import os
 
-# --- SETTINGS ---
-TARGET_PRICE = 150.00  # Set the price you want to be alerted for
-# ----------------
-
-def get_sol_price():
-    url = "https://api.coingecko.com/api/v3/simple/price?ids=solana&vs_currencies=usd&include_24hr_change=true"
+def get_crypto_prices():
+    # Adding Jupiter (JUP) to the tracker
+    url = "https://api.coingecko.com/api/v3/simple/price?ids=solana,jupiter-exchange-solana&vs_currencies=usd"
     try:
         response = requests.get(url)
         data = response.json()
-        price = data['solana']['usd']
-        change = data['solana']['usd_24h_change']
+        sol_price = data['solana']['usd']
+        jup_price = data['jupiter-exchange-solana']['usd']
+        
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        log_entry = f"{timestamp} - SOL: \${sol_price} | JUP: \${jup_price}\n"
         
-        output = f"[{timestamp}] SOL: ${price:,.2f} ({change:.2f}%)"
-        print(output)
+        # Ensure the data folder exists
+        os.makedirs('data', exist_ok=True)
         
-        # 1. Save to log
-        with open('/Users/joshuadenouden/JOSH-Collectibles/data/price_log.txt', 'a') as f:
-            f.write(output + "\n")
-
-        # 2. TRIGGER ALERT IF TARGET MET
-        if price >= TARGET_PRICE:
-            # This makes the Mac speak
-            os.system(f'say "Solana hit {price} dollars. Time to moon."')
-            # This plays a system sound (Submarine/Ping)
-            os.system('afplay /System/Library/Sounds/Ping.aiff')
+        with open("data/price_log.txt", "a") as f:
+            f.write(log_entry)
             
+        print(f"✅ Logged: {log_entry}")
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"❌ Error: {e}")
 
 if __name__ == "__main__":
-    get_sol_price()
+    get_crypto_prices()
+EOF
