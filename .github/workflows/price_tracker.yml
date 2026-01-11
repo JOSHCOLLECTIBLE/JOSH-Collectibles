@@ -2,11 +2,11 @@ name: Solana Price Autopilot
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs at the start of every hour
-  workflow_dispatch:     # Allows you to click a button to run it manually
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 permissions:
-  contents: write        # Gives GitHub permission to save the log file back to your repo
+  contents: write
 
 jobs:
   track_price:
@@ -30,6 +30,6 @@ jobs:
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git add data/price_log.txt
+          git add -A
           git commit -m "Autopilot: Updated SOL Price" || echo "No changes to commit"
           git push
