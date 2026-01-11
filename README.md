@@ -1,5 +1,7 @@
 # 🚀 Solana Price Autopilot
 
+[![Solana Price Autopilot](https://github.com/JOSHCOLLECTIBLE/JOSH-Collectibles/actions/workflows/price_tracker.yml/badge.svg)](https://github.com/JOSHCOLLECTIBLE/JOSH-Collectibles/actions/workflows/price_tracker.yml)
+
 An automated data funnel that tracks Solana (SOL) prices in real-time using GitHub Actions.
 
 ## 🛠️ The Funnel
