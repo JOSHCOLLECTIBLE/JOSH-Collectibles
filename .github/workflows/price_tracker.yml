@@ -2,34 +2,34 @@ name: Solana Price Autopilot
 
 on:
   schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:      # <--- THIS ENABLES THE MANUAL BUTTON
+  push:
+    branches:
+      main
 
 jobs:
   track_price:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
-      - name: Install Dependencies
+      - name: Install dependencies
         run: pip install requests
 
       - name: Run Tracker
         run: python3 scripts/sol_price_check.py
 
-      - name: Save Changes
+      - name: Commit and Push
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git add -A
-          git commit -m "Autopilot: Updated SOL Price" || echo "No changes to commit"
+          git add data/price_log.txt
+          git commit -m "Automated price log update" || exit 0
           git push
