@@ -16,24 +16,14 @@ jobs:
       - name: Send Photo to Telegram
         run: |
           FILE=$(ls -t uploads/ | grep -E '\.(jpg|jpeg|png|JPG|PNG|gif)$' | head -1)
-          
           if [ -z "$FILE" ]; then
             echo "No image found"
             exit 1
           fi
-
           curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendPhoto" \
             -F chat_id="${{ secrets.TELEGRAM_CHAT_ID }}" \
             -F photo="@uploads/$FILE" \
-            -F parse_mode="Markdown" \
-            -F caption="🔥 *NEW JOSH2.18 DROP* 🔥
-
-Check out the latest photography piece from The JOSH Collection. 
-
-📸 *Artist:* JOSH
-🔗 *Instagram:* [Click Here](https://instagram.com/joshuadenouden)
-
-🚀 _More drops coming soon!_"
+            -F caption="🔥 NEW JOSH COLLECTIBLE DROP 🔥 Check it out on Instagram: https://instagram.com/joshuadenouden"
 
       - name: Cleanup Uploads Folder
         run: |
@@ -42,5 +32,5 @@ Check out the latest photography piece from The JOSH Collection.
           rm -rf uploads/*
           touch uploads/.gitkeep
           git add uploads/
-          git commit -m "Cleanup: Image moved to Telegram"
+          git commit -m "Cleanup after drop"
           git push
