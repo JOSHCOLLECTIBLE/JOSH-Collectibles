@@ -2,18 +2,28 @@ name: Telegram Photo Drop
 on:
   push:
     paths:
-      - 'uploads/**' # This triggers when you add a photo to the "uploads" folder
+      - 'uploads/**'
 
 jobs:
   post:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
       - name: Send Photo to Telegram
         run: |
-          # This line automatically sends the newest photo in your uploads folder
-          FILE=$(ls -t uploads/*.jpg | head -1)
+          # This version finds the newest image regardless of extension
+          FILE=$(ls -t uploads/ | grep -E '\.(jpg|jpeg|png|JPG|PNG|gif)$' | head -1)
+          
+          if [ -z "$FILE" ]; then
+            echo "No image found in uploads folder"
+            exit 1
+          fi
+
+          echo "Found file: $FILE"
+          
           curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendPhoto" \
             -F chat_id="${{ secrets.TELEGRAM_CHAT_ID }}" \
-            -F photo="@$FILE" \
+            -F photo="@uploads/$FILE" \
             -F caption="📸 New Collectible Drop! 🚀"
