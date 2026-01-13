@@ -44,8 +44,3 @@ Check out the latest photography piece from The JOSH Collection.
           git add uploads/
           git commit -m "Cleanup: Image moved to Telegram"
           git push
-          
-          curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendPhoto" \
-            -F chat_id="${{ secrets.TELEGRAM_CHAT_ID }}" \
-            -F photo="@uploads/$FILE" \
-            -F caption="📸 New Collectible Drop! 🚀"
