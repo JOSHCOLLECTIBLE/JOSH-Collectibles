@@ -10,18 +10,40 @@ jobs:
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Send Photo to Telegram
         run: |
-          # This version finds the newest image regardless of extension
           FILE=$(ls -t uploads/ | grep -E '\.(jpg|jpeg|png|JPG|PNG|gif)$' | head -1)
           
           if [ -z "$FILE" ]; then
-            echo "No image found in uploads folder"
+            echo "No image found"
             exit 1
           fi
 
-          echo "Found file: $FILE"
+          curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendPhoto" \
+            -F chat_id="${{ secrets.TELEGRAM_CHAT_ID }}" \
+            -F photo="@uploads/$FILE" \
+            -F parse_mode="Markdown" \
+            -F caption="🔥 *NEW JOSH2.18 DROP* 🔥
+
+Check out the latest photography piece from The JOSH Collection. 
+
+📸 *Artist:* JOSH
+🔗 *Instagram:* [Click Here](https://instagram.com/joshuadenouden)
+
+🚀 _More drops coming soon!_"
+
+      - name: Cleanup Uploads Folder
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          rm -rf uploads/*
+          touch uploads/.gitkeep
+          git add uploads/
+          git commit -m "Cleanup: Image moved to Telegram"
+          git push
           
           curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendPhoto" \
             -F chat_id="${{ secrets.TELEGRAM_CHAT_ID }}" \
