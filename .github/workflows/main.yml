@@ -1,4 +1,4 @@
-name: Telegram Photo Drop
+name: JOSH Photography Bot
 on:
   push:
     paths:
