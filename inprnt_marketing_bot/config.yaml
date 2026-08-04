@@ -1,0 +1,102 @@
+# ==============================================================================
+# INPRNT MULTI-CHANNEL ART MARKETING BOT - CONFIGURATION
+# ==============================================================================
+# Styled after luxury avant-garde editorial copywriting: architectural,
+# high-fashion art curation, bridging on-chain identity (JOSHSHOOT.SOL) & INPRNT.
+
+artist:
+  name: "JOSH SHOOT"
+  full_name: "Joshua den Ouden"
+  solana_domain: "JOSHSHOOT.SOL"
+  drip_url: "https://drip.haus/josh"
+  twitter_handle: "@joshuadenouden"
+  location: "Cairo, Egypt"
+  profile_url: "https://www.inprnt.com/profile/joshuadenouden/"
+  gallery_url: "https://www.inprnt.com/gallery/joshuadenouden/"
+  bio: "Creator of The JOSH Archive. Avant-garde architectural photography and Phygital fine art, bridging on-chain provenance (JOSHSHOOT.SOL) with tactile archival materiality."
+  style_keywords:
+    - "Phygital Art"
+    - "Architectural Geometry"
+    - "Brutalist Monoliths"
+    - "Archival Permanence"
+    - "Urban Choreography"
+    - "Kinetic Stillness"
+    - "Tactile Provenance"
+
+promotion:
+  tone: "joshshoot_editorial"  # Elevated, avant-garde gallery curatorial prose
+  default_discount_note: "20% OFF Limited Edition Archival Pricing ($12.00)"
+  call_to_action: "Explore museum-grade archival fine art prints on INPRNT • Verified on-chain via JOSHSHOOT.SOL"
+  
+  hashtags:
+    pinterest:
+      - "#PhygitalArt"
+      - "#ArchitecturalPhotography"
+      - "#BrutalistArchitecture"
+      - "#FineArtPrint"
+      - "#JOSHSHOOTPRINTS"
+      - "#WallArtDecor"
+      - "#ContemporaryPhotography"
+      - "#MinimalistArt"
+      - "#INPRNT"
+      - "#ArtCollector"
+    twitter_bluesky:
+      - "#PhygitalArt"
+      - "#SolanaArt"
+      - "#ArtCollector"
+      - "#ArchitecturalPhotography"
+      - "#INPRNT"
+      - "#FineArtPrint"
+    instagram:
+      - "#joshshoot"
+      - "#joshshootprints"
+      - "#joshshoot_sol"
+      - "#inprnt"
+      - "#fineartphotography"
+      - "#architecturalphotography"
+      - "#brutalistarchitecture"
+      - "#phygitalart"
+      - "#onchainart"
+      - "#solanaart"
+      - "#contemporarycollector"
+      - "#archivalprint"
+      - "#urbangeometry"
+      - "#artcurator"
+      - "#minimalistphotography"
+
+  target_subreddits:
+    - "r/Artstore"
+    - "r/artprints"
+    - "r/photographicprints"
+    - "r/artcollectors"
+    - "r/streetphotography"
+
+  channels_enabled:
+    - "pinterest"
+    - "twitter_bluesky"
+    - "instagram"
+    - "reddit"
+    - "newsletter"
+
+output:
+  directory: "output"
+  history_file: "output/history.json"
+  save_json: true
+  save_markdown: true
+  save_html_report: true
+  save_pinterest_csv: true
+
+notifications:
+  discord_webhook_env: "DISCORD_WEBHOOK_URL"
+  telegram_bot_token_env: "TELEGRAM_BOT_TOKEN"
+  telegram_chat_id_env: "TELEGRAM_CHAT_ID"
+
+social_apis:
+  twitter:
+    api_key_env: "TWITTER_API_KEY"
+    api_secret_env: "TWITTER_API_SECRET"
+    access_token_env: "TWITTER_ACCESS_TOKEN"
+    access_secret_env: "TWITTER_ACCESS_SECRET"
+  bluesky:
+    handle_env: "BLUESKY_HANDLE"
+    password_env: "BLUESKY_PASSWORD"

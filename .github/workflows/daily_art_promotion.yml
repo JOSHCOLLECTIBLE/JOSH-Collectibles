@@ -1,0 +1,67 @@
+name: 🎨 Daily INPRNT Art Promotion (100% Free Cloud Automation)
+
+on:
+  schedule:
+    # Runs automatically every day at 14:00 UTC (customizable cron)
+    - cron: '0 14 * * *'
+  workflow_dispatch:
+    # Allows you to trigger the workflow manually from the GitHub Actions tab anytime!
+
+permissions:
+  contents: write
+
+jobs:
+  promote_art:
+    name: 🚀 Generate & Send Art Promotion
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 📦 Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+        working-directory: ./inprnt_marketing_bot
+        # Note: If this bot is at the root of your repo, remove the 'working-directory: ./inprnt_marketing_bot' lines.
+
+      - name: 🎨 Run INPRNT Daily Promotion Bot
+        working-directory: ./inprnt_marketing_bot
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
+        run: |
+          python -m src.main --action daily-promo --config config.yaml
+
+      - name: 📤 Upload Daily Marketing Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-inprnt-marketing-pack
+          path: |
+            inprnt_marketing_bot/output/latest_campaign_report.html
+            inprnt_marketing_bot/output/latest_campaign.md
+            inprnt_marketing_bot/output/latest_campaign.json
+            inprnt_marketing_bot/output/pinterest_queue.csv
+
+      - name: 💾 Commit updated promotion history
+        working-directory: ./inprnt_marketing_bot
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/history.json output/latest_campaign.md output/latest_campaign_report.html
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🏛️ [Automated] Daily Numéro editorial promotion run ($(date +'%Y-%m-%d'))" && git push)

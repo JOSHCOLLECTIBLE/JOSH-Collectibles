@@ -1,0 +1,39 @@
+{
+  "promoted_ids": [
+    "josh1-222-the-dutch-blue-man",
+    "josh1-221-i-think-56-nights-crazy",
+    "josh1-220-the-mall-of-asia",
+    "josh1-219-36-hours-in-turkey"
+  ],
+  "last_promoted_date": "2026-08-04T07:19:17.454110",
+  "history_log": [
+    {
+      "date": "2026-08-04 07:03:39",
+      "artwork_id": "josh1-222-the-dutch-blue-man",
+      "title": "JOSH1-222: The Dutch Blue Man",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-222-the-dutch-blue-man/",
+      "image_url": "https://cdn.inprnt.com/thumbs/74/b7/74b70fe8f76742d2cf8df9976a8b703a.jpg"
+    },
+    {
+      "date": "2026-08-04 07:03:48",
+      "artwork_id": "josh1-221-i-think-56-nights-crazy",
+      "title": "JOSH1-221: I Think 56 Nights Crazy",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-221-i-think-56-nights-crazy/",
+      "image_url": "https://cdn.inprnt.com/thumbs/ed/f3/edf3621d6449d3c63836639747d60c6d.jpg"
+    },
+    {
+      "date": "2026-08-04 07:10:10",
+      "artwork_id": "josh1-220-the-mall-of-asia",
+      "title": "JOSH1-220: The Mall of Asia",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-220-the-mall-of-asia/",
+      "image_url": "https://cdn.inprnt.com/thumbs/01/3c/013c167b4f6b2d6b20c08f3c7b36975b.jpg"
+    },
+    {
+      "date": "2026-08-04 07:19:17",
+      "artwork_id": "josh1-219-36-hours-in-turkey",
+      "title": "JOSH1-219: 36 hours in Turkey",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-219-36-hours-in-turkey/",
+      "image_url": "https://cdn.inprnt.com/thumbs/1b/7f/1b7f10e3b0551cc6be92d115fef4af94.jpg"
+    }
+  ]
+}
