@@ -13,9 +13,10 @@
     "josh1-196-damstraatjes-amsterdam",
     "josh1-195-scheepmakerskade-135",
     "josh1-194-van-gogh-museum",
-    "josh1-193-praise-the-lord"
+    "josh1-193-praise-the-lord",
+    "josh1-192-mono-closing-party-22"
   ],
-  "last_promoted_date": "2026-08-04T13:04:35.523432",
+  "last_promoted_date": "2026-08-04T13:28:03.496910",
   "history_log": [
     {
       "date": "2026-08-04 07:03:39",
@@ -114,6 +115,13 @@
       "title": "JOSH1-193: Praise The Lord",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-193-praise-the-lord/",
       "image_url": "https://cdn.inprnt.com/thumbs/c9/60/c9600baaedd080234941b8162bec669a.jpg"
+    },
+    {
+      "date": "2026-08-04 13:28:03",
+      "artwork_id": "josh1-192-mono-closing-party-22",
+      "title": "JOSH1-192: Mono Closing Party 22'",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-192-mono-closing-party-22/",
+      "image_url": "https://cdn.inprnt.com/thumbs/a9/3c/a93cf3d0c8a257a61f72519f122664fb.jpg"
     }
   ]
 }
