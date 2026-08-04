@@ -3,6 +3,7 @@
 # ==============================================================================
 # Configured specifically for JOSH SHOOT (Joshua den Ouden)
 # Bridging Solana blockchain provenance (JOSHSHOOT.SOL) & physical INPRNT prints.
+# Grid Math Verified: Post 143 = #197 (Middle Column below 3 Pinned Reels) -> Descending to #1.
 
 artist:
   name: "JOSH SHOOT"
@@ -21,10 +22,10 @@ artist:
 
 promotion:
   tone: "joshshoot_archive"  # Clean, authoritative JOSH¹ Archive curatorial metadata tone
-  start_from_number: 197           # Start sequential focus from JOSH1-#197 downwards to #1
-  sequence_direction: "descending" # "descending" (197 -> 1) or "ascending" (199 -> 222)
+  start_from_number: 197           # Starts from JOSH1-#197 (Post 143 on Instagram)
+  sequence_direction: "descending" # "descending" (197 -> 196 -> 195... down to #1)
   default_discount_note: "Exclusively Available as a Limited Edition Phygital Art piece ($12.00)"
-  call_to_action: "Collect the archive & explore global shipping via INPRNT [joshuadenouden21-hiuos.wordpress.com]"
+  call_to_action: "Collect the archive via INPRNT [joshuadenouden21-hiuos.wordpress.com]"
   
   hashtags:
     pinterest:
@@ -70,7 +71,6 @@ promotion:
 
 instagram_automation:
   enabled: true
-  # Official Meta Graph API (requires INSTAGRAM_ACCESS_TOKEN and INSTAGRAM_ACCOUNT_ID in GitHub secrets)
   method: "graph_api"
 
 output:

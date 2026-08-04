@@ -1,85 +1,93 @@
-# 🎨 Marketing Campaign: JOSH1-190: Leeds University
+# 🎨 Marketing Campaign: JOSH1 197 • Maritime Museum, Rotterdam
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-190-leeds-university/](https://www.inprnt.com/gallery/joshuadenouden/josh1-190-leeds-university/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-197-maritime-museum-rotterdam/](https://www.inprnt.com/gallery/joshuadenouden/josh1-197-maritime-museum-rotterdam/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
-**Rarity:** `💎 Common` | **Origin:** `📍 Leeds (LBA) 🇬🇧` | **Device:** `📸 iPhone 12 / Archival Capture`
+**Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1-190: Leeds University](https://cdn.inprnt.com/thumbs/cf/81/cf815e5dceefd6359ede7173c6efe4dd.jpg)
+![JOSH1 197 • Maritime Museum, Rotterdam](https://cdn.inprnt.com/thumbs/0c/2b/0c2b504067590379c2c6e9866a469358@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1-190: Leeds University | JOSH¹ Archive Brutalist Photography & Fine Art Print`
+- **Title:** `JOSH1 197 • Maritime Museum, Rotterdam | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Educational brutalism. Concrete geometry and functional symmetry in the university landscape. Common rarity asset in the JOSH¹ Archive ('JOSH1-190: Leeds University'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery-quality physical print. Captured in Leeds (LBA) 🇬🇧. Crafted on museum-grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-190-leeds-university/ • #SolanaArt #Industrial #UrbanGeometry #PhygitalArt
+Rotterdam Maritime Museum • Brutalist mass against maritime history • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 197 • Maritime Museum, Rotterdam'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-197-maritime-museum-rotterdam/ • #StreetPhotography #WallArtDecor #Industrial #ArchitecturalPhotography
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1-190: Leeds University 」
-Educational brutalism. Concrete geometry and functional symmetry in the university landscape.
+「 JOSH1 197 • Maritime Museum, Rotterdam 」
 
-JOSH¹ Archive — Limited Edition Phygital Art Piece
-Bridging Solana blockchain provenance & museum-grade physical prints.
+  Rotterdam Maritime Museum
+  Brutalist mass against maritime history
+  An archival record of institutional form
+
+THE JOSH¹ ARCHIVE
+Limited Edition Phygital Art Piece
+Bridging Solana blockchain provenance to museum grade physical prints.
 
 Collect the archive via INPRNT (link in bio)
 
 📸 iPhone 12 / Archival Capture
-📍 Leeds (LBA) 🇬🇧
+📍 Rotterdam (RTM) 🇳🇱
 💎 Rarity: Common
-⚡ On-Chain: JOSHSHOOT.SOL
+⚡ On Chain: JOSHSHOOT.SOL
 
-#ArtCollector #StreetPhotography #PhygitalArt #ArchitecturalPhotography
+#SolanaNFT #FineArtPrint #ContemporaryCollector #ArchitecturalPhotography
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high-res photograph ('JOSH1-190: Leeds University')
-• Slide 2: Zoomed-in crop showing cotton rag texture OR brutalist detail
-• Slide 3: On-chain provenance graphic ('💎 Rarity: Common | 📍 Leeds (LBA) 🇬🇧 | JOSHSHOOT.SOL')
+• Slide 1: Full high res photograph ('JOSH1 197 • Maritime Museum, Rotterdam')
+• Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
+• Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1-190: Leeds University
-Educational brutalism. Concrete geometry and functional symmetry in the university landscape.
+JOSH1 197 • Maritime Museum, Rotterdam
 
-JOSH¹ Archive — Limited Edition Phygital Art Piece
-Edition: 100% Cotton Rag Archival Fine-Art Print (300gsm)
-Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) -> Physical exhibition print via INPRNT
+  Rotterdam Maritime Museum
+  Brutalist mass against maritime history
+  An archival record of institutional form
+
+THE JOSH¹ ARCHIVE
+Limited Edition Phygital Art Piece
+Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
+Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition print via INPRNT
 
 Collect the archive via link in bio
 📸 iPhone 12 / Archival Capture
-📍 Leeds (LBA) 🇬🇧
+📍 Rotterdam (RTM) 🇳🇱
 💎 Rarity: Common
-⚡ On-Chain: JOSHSHOOT.SOL
+⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#Industrial #WallArtDecor #SolanaArt #ArchitecturalPhotography
+#ContemporaryCollector #ArtCollector #UrbanGeometry #FineArtPrint
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1-190: Leeds University`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 197 • Maritime Museum, Rotterdam`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1-190: Leeds University"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 197 • Maritime Museum, Rotterdam"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-190-leeds-university/"><img src="https://cdn.inprnt.com/thumbs/cf/81/cf815e5dceefd6359ede7173c6efe4dd.jpg" alt="JOSH1-190: Leeds University" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-197-maritime-museum-rotterdam/"><img src="https://cdn.inprnt.com/thumbs/0c/2b/0c2b504067590379c2c6e9866a469358@2x.jpg" alt="JOSH1 197 • Maritime Museum, Rotterdam" width="600" /></a>
 </p>
 
-> *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) and a Gallery-Quality physical print.*
+> *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
 
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1-190: Leeds University` |
+| **Title** | `JOSH1 197 • Maritime Museum, Rotterdam` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
-| **Location Origin** | `📍 Leeds (LBA) 🇬🇧` |
+| **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
 | **Physical Medium** | `100% Cotton Rag Archival Print via INPRNT` |
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
-| **On-Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
+| **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-190-leeds-university/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-197-maritime-museum-rotterdam/)**
 ```

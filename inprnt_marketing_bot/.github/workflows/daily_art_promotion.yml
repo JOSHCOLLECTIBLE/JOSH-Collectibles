@@ -2,8 +2,9 @@ name: 🎨 Daily INPRNT Art Promotion (100% Free Cloud Automation)
 
 on:
   schedule:
-    # Runs automatically every day at 14:00 UTC (customizable cron)
-    - cron: '0 14 * * *'
+    # 16:30 UTC daily — Peak Global Art Collector Crossover Hour:
+    # 5:30 PM London | 6:30 PM Amsterdam/Rotterdam | 12:30 PM New York | 9:30 AM Los Angeles
+    - cron: '30 16 * * *'
   workflow_dispatch:
     # Allows you to trigger the workflow manually from the GitHub Actions tab anytime!
 
@@ -35,23 +36,39 @@ jobs:
             pip install -r inprnt_marketing_bot/requirements.txt
           fi
 
-      - name: 🎨 Run INPRNT Daily Promotion Bot
+      - name: 🎨 1. Generate Daily Promotion & JPEG Carousel Images
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
-          TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
-          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
-          TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
-          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
-          BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
         run: |
           if [ -d "inprnt_marketing_bot" ]; then
             cd inprnt_marketing_bot
-            python -m src.main --action daily-promo --config config.yaml
+            python -m src.main --action daily-promo --config config.yaml --no-post
           else
-            python -m src.main --action daily-promo --config config.yaml
+            python -m src.main --action daily-promo --config config.yaml --no-post
+          fi
+
+      - name: 💾 2. Push High-Res JPEG Carousel Images to GitHub CDN First
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "🏛️ [Automated] Daily JOSHSHOOT PRINTS promotion run ($(date +'%Y-%m-%d'))" || echo "No changes to commit"
+          git push origin HEAD:main || echo "Push skipped (no changes or permissions restricted)"
+
+      - name: 🚀 3. Trigger 100% Hands-Free Instagram Carousel Post
+        env:
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          INSTAGRAM_ACCOUNT_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID }}
+          MAKE_INSTAGRAM_WEBHOOK_URL: ${{ secrets.MAKE_INSTAGRAM_WEBHOOK_URL }}
+          MAKE_WEBHOOK_API_KEY: ${{ secrets.MAKE_WEBHOOK_API_KEY }}
+        run: |
+          if [ -d "inprnt_marketing_bot" ]; then
+            cd inprnt_marketing_bot
+            python -m src.main --action trigger-instagram --config config.yaml
+          else
+            python -m src.main --action trigger-instagram --config config.yaml
           fi
 
       - name: 📤 Upload Daily Marketing Artifacts
@@ -67,11 +84,3 @@ jobs:
             output/latest_campaign.md
             output/latest_campaign.json
             output/pinterest_queue.csv
-
-      - name: 💾 Commit updated promotion history
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git commit -m "🏛️ [Automated] Daily JOSHSHOOT PRINTS promotion run ($(date +'%Y-%m-%d'))" || echo "No changes to commit"
-          git push origin HEAD:main || echo "Push skipped (no changes or permissions restricted)"
