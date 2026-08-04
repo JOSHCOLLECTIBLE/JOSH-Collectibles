@@ -1,0 +1,1439 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JOSH¹ Archive — First 10 Examples (#197 to #188 Descending) — JOSH SHOOT (JOSHSHOOT.SOL)</title>
+  <style>
+    :root {
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #0f172a;
+      --muted: #475569;
+      --primary: #0f172a;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      margin: 0;
+      padding: 40px 20px;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 1040px;
+      margin: 0 auto;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 50px;
+      border-bottom: 2px solid #0f172a;
+      padding-bottom: 30px;
+    }
+    .editorial-tag {
+      font-size: 11px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      font-weight: 800;
+      color: #64748b;
+      margin-bottom: 8px;
+    }
+    h1 {
+      margin: 0 0 14px 0;
+      font-size: 34px;
+      font-weight: 900;
+      letter-spacing: -1px;
+      color: #0f172a;
+      text-transform: uppercase;
+    }
+    .subtitle {
+      color: var(--muted);
+      font-size: 16px;
+      margin: 0 0 20px 0;
+    }
+    .nav-links {
+      display: flex;
+      justify-content: center;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    .nav-pill {
+      display: inline-block;
+      padding: 6px 14px;
+      background: #f1f5f9;
+      color: #0f172a;
+      text-decoration: none;
+      border-radius: 4px;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+      border: 1px solid var(--border);
+    }
+    .nav-pill:hover {
+      background: #e2e8f0;
+    }
+    .nav-pill.primary {
+      background: #0f172a;
+      color: #ffffff;
+      border-color: #0f172a;
+    }
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      box-shadow: 0 4px 6px -1px rgba(0,0,0,0.03);
+      margin-bottom: 36px;
+      overflow: hidden;
+    }
+    .card-header {
+      display: flex;
+      align-items: center;
+      padding: 28px;
+      border-bottom: 1px solid var(--border);
+      background: #fdfdfe;
+      gap: 24px;
+    }
+    .artwork-thumb {
+      width: 140px;
+      height: 140px;
+      object-fit: cover;
+      border-radius: 2px;
+      border: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+    .meta-tag {
+      font-size: 11px;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      font-weight: 700;
+      color: #64748b;
+      margin-bottom: 6px;
+    }
+    .header-info h2 {
+      margin: 0 0 14px 0;
+      font-size: 24px;
+      font-weight: 800;
+      color: #0f172a;
+    }
+    .badge-row {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+    .badge {
+      display: inline-block;
+      padding: 8px 14px;
+      border-radius: 2px;
+      font-size: 12px;
+      font-weight: 700;
+      text-decoration: none;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    .price-badge {
+      background: #f1f5f9;
+      color: #0f172a;
+      border: 1px solid #cbd5e1;
+    }
+    .device-badge {
+      background: #f8fafc;
+      color: #475569;
+      border: 1px solid #cbd5e1;
+    }
+    .shop-badge {
+      background: var(--primary);
+      color: #ffffff;
+    }
+    .channel-tabs {
+      padding: 28px;
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 28px;
+    }
+    .tab-content {
+      background: #f8fafc;
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 20px;
+    }
+    .tab-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 12px;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .tab-header h3 {
+      margin: 0;
+      font-size: 15px;
+      font-weight: 800;
+      color: #0f172a;
+    }
+    .platform-note {
+      font-size: 12px;
+      color: #64748b;
+      font-weight: 600;
+    }
+    .carousel-note {
+      font-size: 13px;
+      color: #0f172a;
+      background: #f1f5f9;
+      padding: 10px 14px;
+      border-left: 3px solid #0f172a;
+      margin: 0 0 12px 0;
+      white-space: pre-line;
+    }
+    .code-box {
+      position: relative;
+      margin-top: 10px;
+    }
+    pre {
+      background: #ffffff;
+      border: 1px solid var(--border);
+      border-radius: 2px;
+      padding: 16px;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+      font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+      font-size: 13px;
+      color: #1e293b;
+      margin: 0;
+      max-height: 280px;
+      overflow-y: auto;
+      line-height: 1.6;
+    }
+    .copy-btn {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      background: #0f172a;
+      color: #ffffff;
+      border: none;
+      padding: 7px 14px;
+      border-radius: 2px;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+    .copy-btn:hover {
+      background: #334155;
+    }
+    footer {
+      text-align: center;
+      margin-top: 60px;
+      padding-top: 30px;
+      border-top: 1px solid var(--border);
+      color: var(--muted);
+      font-size: 13px;
+    }
+  </style>
+  <script>
+    function copyText(elementId) {
+      const text = document.getElementById(elementId).innerText;
+      navigator.clipboard.writeText(text).then(() => {
+        alert('Copied editorial copy to clipboard!');
+      }).catch(err => {
+        console.error('Could not copy text: ', err);
+      });
+    }
+  </script>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="editorial-tag">JOSH¹ ARCHIVE // Phygital Curation</div>
+      <h1>JOSH¹ Archive — First 10 Examples (#197 to #188 Descending)</h1>
+      <p class="subtitle">
+        Curated by <strong>JOSH SHOOT</strong> (<code>JOSHSHOOT.SOL</code> &bull; <code>joshuadenouden21-hiuos.wordpress.com</code>) &bull; 
+        Tactile Archival Print Collection on INPRNT
+      </p>
+      <div class="nav-links">
+        <a href="https://www.inprnt.com/gallery/joshuadenouden/" target="_blank" class="nav-pill primary">INPRNT Gallery</a>
+        <a href="https://joshuadenouden21-hiuos.wordpress.com" target="_blank" class="nav-pill">joshuadenouden21-hiuos.wordpress.com</a>
+        <a href="https://solana.com/" target="_blank" class="nav-pill">JOSHSHOOT.SOL (On-Chain)</a>
+        <a href="https://drip.haus/josh" target="_blank" class="nav-pill">DRiP Archive</a>
+        <a href="https://x.com/Joshtakesphoto" target="_blank" class="nav-pill">Twitter / X (@Joshtakesphoto)</a>
+        <a href="https://github.com/JOSHCOLLECTIBLE/JOSH-Collectibles" target="_blank" class="nav-pill">GitHub (JOSHCOLLECTIBLE)</a>
+      </div>
+    </header>
+
+    <main>
+      
+        <div class="card" id="artwork-0">
+          <div class="card-header">
+            <img src="https://cdn.inprnt.com/thumbs/0a/9b/0a9b0c37ec23fd973eb1888c3d6ed1b6.jpg" alt="JOSH1-197: Maritime Museum, Rotterdam" class="artwork-thumb" />
+            <div class="header-info">
+              <div class="meta-tag">JOSH¹ ARCHIVE // 💎 RARITY: COMMON &bull; 📍 Rotterdam (RTM) 🇳🇱</div>
+              <h2>JOSH1-197: Maritime Museum, Rotterdam</h2>
+              <div class="badge-row">
+                <span class="badge price-badge">$12.00 &bull; 20% OFF Phygital Release</span>
+                <span class="badge device-badge">📸 iPhone 12 / Archival Capture</span>
+                <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-197-maritime-museum-rotterdam/" target="_blank" class="badge shop-badge">Acquire on INPRNT &rarr;</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="channel-tabs">
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📌 Pinterest Editorial Pin (Evergreen Organic Traffic)</h3>
+                <span class="platform-note">Optimized for interior decor & architectural collectors</span>
+              </div>
+              <p><strong>Title:</strong> JOSH1-197: Maritime Museum, Rotterdam | JOSH¹ Archive Brutalist Photography & Fine Art Print</p>
+              <p><strong>Curated Board:</strong> JOSH¹ Archive // Phygital Photography Prints</p>
+              <div class="code-box">
+                <pre id="pin-desc-0">Rotterdam's Maritime Museum. Brutalist mass against maritime history—an archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1-197: Maritime Museum, Rotterdam'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery-quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum-grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-197-maritime-museum-rotterdam/ • #SolanaArt #UrbanGeometry #ArchivalPrint #StreetPhotography</pre>
+                <button class="copy-btn" onclick="copyText('pin-desc-0')">Copy Description</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>🐦 Twitter / X & Bluesky (Solana & Web3 Collector Community)</h3>
+                <span class="platform-note">Featuring JOSHSHOOT.SOL &bull; @Joshtakesphoto</span>
+              </div>
+              <div class="code-box">
+                <pre id="tw-post-0">「 JOSH1-197: Maritime Museum, Rotterdam 」
+Rotterdam's Maritime Museum. Brutalist mass against maritime history—an archival record of institutional form.
+
+JOSH¹ Archive — Limited Edition Phygital Art Piece
+Bridging Solana blockchain provenance & museum-grade physical prints.
+
+Collect the archive via INPRNT (link in bio)
+
+📸 iPhone 12 / Archival Capture
+📍 Rotterdam (RTM) 🇳🇱
+💎 Rarity: Common
+⚡ On-Chain: JOSHSHOOT.SOL
+
+#UrbanGeometry #WallArtDecor #SolanaNFT #ContemporaryCollector</pre>
+                <button class="copy-btn" onclick="copyText('tw-post-0')">Copy Web3 Post</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📸 Instagram / Threads (Sequential Archive Automation)</h3>
+                <span class="platform-note">Technical metadata & carousel hook</span>
+              </div>
+              <p class="carousel-note"><strong>📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
+• Slide 1: Full high-res photograph ('JOSH1-197: Maritime Museum, Rotterdam')
+• Slide 2: Zoomed-in crop showing cotton rag texture OR brutalist detail
+• Slide 3: On-chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')</strong></p>
+              <div class="code-box">
+                <pre id="ig-post-0">JOSH1-197: Maritime Museum, Rotterdam
+Rotterdam's Maritime Museum. Brutalist mass against maritime history—an archival record of institutional form.
+
+JOSH¹ Archive — Limited Edition Phygital Art Piece
+Edition: 100% Cotton Rag Archival Fine-Art Print (300gsm)
+Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) -> Physical exhibition print via INPRNT
+
+Collect the archive via link in bio
+📸 iPhone 12 / Archival Capture
+📍 Rotterdam (RTM) 🇳🇱
+💎 Rarity: Common
+⚡ On-Chain: JOSHSHOOT.SOL
+
+.
+.
+.
+#WallArtDecor #SolanaNFT #JOSHSHOOTPRINTS #INPRNT</pre>
+                <button class="copy-btn" onclick="copyText('ig-post-0')">Copy Caption & Hashtags</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📂 GitHub Archive Journal (README & Releases Feature)</h3>
+                <span class="platform-note">Turn your GitHub repo into an active curatorial catalog!</span>
+              </div>
+              <p><strong>Release Title:</strong> <code>JOSH¹ Asset Release: JOSH1-197: Maritime Museum, Rotterdam</code></p>
+              <div class="code-box">
+                <pre id="gh-post-0">## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1-197: Maritime Museum, Rotterdam"
+
+<p align="center">
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-197-maritime-museum-rotterdam/"><img src="https://cdn.inprnt.com/thumbs/0a/9b/0a9b0c37ec23fd973eb1888c3d6ed1b6.jpg" alt="JOSH1-197: Maritime Museum, Rotterdam" width="600" /></a>
+</p>
+
+> *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) and a Gallery-Quality physical print.*
+
+### 📋 Technical Metadata
+| Asset Classification | Metadata Specification |
+| :--- | :--- |
+| **Title** | `JOSH1-197: Maritime Museum, Rotterdam` |
+| **Rarity Classification** | `💎 Common` |
+| **Capture Device** | `📸 iPhone 12 / Archival Capture` |
+| **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
+| **Physical Medium** | `100% Cotton Rag Archival Print via INPRNT` |
+| **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
+| **On-Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
+
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-197-maritime-museum-rotterdam/)**</pre>
+                <button class="copy-btn" onclick="copyText('gh-post-0')">Copy GitHub Markdown</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="card" id="artwork-1">
+          <div class="card-header">
+            <img src="https://cdn.inprnt.com/thumbs/a9/c0/a9c00a349dac5e4a6f53c8f764bcdbbf.jpg" alt="JOSH1-196: Damstraatjes, Amsterdam" class="artwork-thumb" />
+            <div class="header-info">
+              <div class="meta-tag">JOSH¹ ARCHIVE // 💎 RARITY: COMMON &bull; 📍 Amsterdam (AMS) 🇳🇱</div>
+              <h2>JOSH1-196: Damstraatjes, Amsterdam</h2>
+              <div class="badge-row">
+                <span class="badge price-badge">$12.00 &bull; 20% OFF Phygital Release</span>
+                <span class="badge device-badge">📸 iPhone 12 / Archival Capture</span>
+                <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-196-damstraatjes-amsterdam/" target="_blank" class="badge shop-badge">Acquire on INPRNT &rarr;</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="channel-tabs">
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📌 Pinterest Editorial Pin (Evergreen Organic Traffic)</h3>
+                <span class="platform-note">Optimized for interior decor & architectural collectors</span>
+              </div>
+              <p><strong>Title:</strong> JOSH1-196: Damstraatjes, Amsterdam | JOSH¹ Archive Brutalist Photography & Fine Art Print</p>
+              <p><strong>Curated Board:</strong> JOSH¹ Archive // Phygital Photography Prints</p>
+              <div class="code-box">
+                <pre id="pin-desc-1">Amsterdam's narrow alleyways. Spatial compression and natural light in the European urban grid. Common rarity asset in the JOSH¹ Archive ('JOSH1-196: Damstraatjes, Amsterdam'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery-quality physical print. Captured in Amsterdam (AMS) 🇳🇱. Crafted on museum-grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-196-damstraatjes-amsterdam/ • #INPRNT #PhygitalArt #WallArtDecor #FineArtPrint</pre>
+                <button class="copy-btn" onclick="copyText('pin-desc-1')">Copy Description</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>🐦 Twitter / X & Bluesky (Solana & Web3 Collector Community)</h3>
+                <span class="platform-note">Featuring JOSHSHOOT.SOL &bull; @Joshtakesphoto</span>
+              </div>
+              <div class="code-box">
+                <pre id="tw-post-1">「 JOSH1-196: Damstraatjes, Amsterdam 」
+Amsterdam's narrow alleyways. Spatial compression and natural light in the European urban grid.
+
+JOSH¹ Archive — Limited Edition Phygital Art Piece
+Bridging Solana blockchain provenance & museum-grade physical prints.
+
+Collect the archive via INPRNT (link in bio)
+
+📸 iPhone 12 / Archival Capture
+📍 Amsterdam (AMS) 🇳🇱
+💎 Rarity: Common
+⚡ On-Chain: JOSHSHOOT.SOL
+
+#ArchivalPrint #UrbanGeometry #StreetPhotography #Industrial</pre>
+                <button class="copy-btn" onclick="copyText('tw-post-1')">Copy Web3 Post</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📸 Instagram / Threads (Sequential Archive Automation)</h3>
+                <span class="platform-note">Technical metadata & carousel hook</span>
+              </div>
+              <p class="carousel-note"><strong>📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
+• Slide 1: Full high-res photograph ('JOSH1-196: Damstraatjes, Amsterdam')
+• Slide 2: Zoomed-in crop showing cotton rag texture OR brutalist detail
+• Slide 3: On-chain provenance graphic ('💎 Rarity: Common | 📍 Amsterdam (AMS) 🇳🇱 | JOSHSHOOT.SOL')</strong></p>
+              <div class="code-box">
+                <pre id="ig-post-1">JOSH1-196: Damstraatjes, Amsterdam
+Amsterdam's narrow alleyways. Spatial compression and natural light in the European urban grid.
+
+JOSH¹ Archive — Limited Edition Phygital Art Piece
+Edition: 100% Cotton Rag Archival Fine-Art Print (300gsm)
+Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) -> Physical exhibition print via INPRNT
+
+Collect the archive via link in bio
+📸 iPhone 12 / Archival Capture
+📍 Amsterdam (AMS) 🇳🇱
+💎 Rarity: Common
+⚡ On-Chain: JOSHSHOOT.SOL
+
+.
+.
+.
+#ArchitecturalPhotography #INPRNT #Industrial #WallArtDecor</pre>
+                <button class="copy-btn" onclick="copyText('ig-post-1')">Copy Caption & Hashtags</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📂 GitHub Archive Journal (README & Releases Feature)</h3>
+                <span class="platform-note">Turn your GitHub repo into an active curatorial catalog!</span>
+              </div>
+              <p><strong>Release Title:</strong> <code>JOSH¹ Asset Release: JOSH1-196: Damstraatjes, Amsterdam</code></p>
+              <div class="code-box">
+                <pre id="gh-post-1">## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1-196: Damstraatjes, Amsterdam"
+
+<p align="center">
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-196-damstraatjes-amsterdam/"><img src="https://cdn.inprnt.com/thumbs/a9/c0/a9c00a349dac5e4a6f53c8f764bcdbbf.jpg" alt="JOSH1-196: Damstraatjes, Amsterdam" width="600" /></a>
+</p>
+
+> *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) and a Gallery-Quality physical print.*
+
+### 📋 Technical Metadata
+| Asset Classification | Metadata Specification |
+| :--- | :--- |
+| **Title** | `JOSH1-196: Damstraatjes, Amsterdam` |
+| **Rarity Classification** | `💎 Common` |
+| **Capture Device** | `📸 iPhone 12 / Archival Capture` |
+| **Location Origin** | `📍 Amsterdam (AMS) 🇳🇱` |
+| **Physical Medium** | `100% Cotton Rag Archival Print via INPRNT` |
+| **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
+| **On-Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
+
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-196-damstraatjes-amsterdam/)**</pre>
+                <button class="copy-btn" onclick="copyText('gh-post-1')">Copy GitHub Markdown</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="card" id="artwork-2">
+          <div class="card-header">
+            <img src="https://cdn.inprnt.com/thumbs/0b/0a/0b0a4ed82d9a6698d4e1f7329b55fe05.jpg" alt="JOSH1-195: Scheepmakerskade 135" class="artwork-thumb" />
+            <div class="header-info">
+              <div class="meta-tag">JOSH¹ ARCHIVE // 💎 RARITY: COMMON &bull; 📍 Rotterdam (RTM) 🇳🇱</div>
+              <h2>JOSH1-195: Scheepmakerskade 135</h2>
+              <div class="badge-row">
+                <span class="badge price-badge">$12.00 &bull; 20% OFF Phygital Release</span>
+                <span class="badge device-badge">📸 iPhone 12 / Archival Capture</span>
+                <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-195-scheepmakerskade-135/" target="_blank" class="badge shop-badge">Acquire on INPRNT &rarr;</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="channel-tabs">
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📌 Pinterest Editorial Pin (Evergreen Organic Traffic)</h3>
+                <span class="platform-note">Optimized for interior decor & architectural collectors</span>
+              </div>
+              <p><strong>Title:</strong> JOSH1-195: Scheepmakerskade 135 | JOSH¹ Archive Brutalist Photography & Fine Art Print</p>
+              <p><strong>Curated Board:</strong> JOSH¹ Archive // Phygital Photography Prints</p>
+              <div class="code-box">
+                <pre id="pin-desc-2">Rotterdam waterfront architecture. Structural geometry along the urban harbor. Common rarity asset in the JOSH¹ Archive ('JOSH1-195: Scheepmakerskade 135'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery-quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum-grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-195-scheepmakerskade-135/ • #SolanaArt #OnChainArt #ArchitecturalPhotography #JOSHSHOOTPRINTS</pre>
+                <button class="copy-btn" onclick="copyText('pin-desc-2')">Copy Description</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>🐦 Twitter / X & Bluesky (Solana & Web3 Collector Community)</h3>
+                <span class="platform-note">Featuring JOSHSHOOT.SOL &bull; @Joshtakesphoto</span>
+              </div>
+              <div class="code-box">
+                <pre id="tw-post-2">「 JOSH1-195: Scheepmakerskade 135 」
+Rotterdam waterfront architecture. Structural geometry along the urban harbor.
+
+JOSH¹ Archive — Limited Edition Phygital Art Piece
+Bridging Solana blockchain provenance & museum-grade physical prints.
+
+Collect the archive via INPRNT (link in bio)
+
+📸 iPhone 12 / Archival Capture
+📍 Rotterdam (RTM) 🇳🇱
+💎 Rarity: Common
+⚡ On-Chain: JOSHSHOOT.SOL
+
+#ArchitecturalPhotography #PhygitalArt #ArtCollector #ArchivalPrint</pre>
+                <button class="copy-btn" onclick="copyText('tw-post-2')">Copy Web3 Post</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📸 Instagram / Threads (Sequential Archive Automation)</h3>
+                <span class="platform-note">Technical metadata & carousel hook</span>
+              </div>
+              <p class="carousel-note"><strong>📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
+• Slide 1: Full high-res photograph ('JOSH1-195: Scheepmakerskade 135')
+• Slide 2: Zoomed-in crop showing cotton rag texture OR brutalist detail
+• Slide 3: On-chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')</strong></p>
+              <div class="code-box">
+                <pre id="ig-post-2">JOSH1-195: Scheepmakerskade 135
+Rotterdam waterfront architecture. Structural geometry along the urban harbor.
+
+JOSH¹ Archive — Limited Edition Phygital Art Piece
+Edition: 100% Cotton Rag Archival Fine-Art Print (300gsm)
+Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) -> Physical exhibition print via INPRNT
+
+Collect the archive via link in bio
+📸 iPhone 12 / Archival Capture
+📍 Rotterdam (RTM) 🇳🇱
+💎 Rarity: Common
+⚡ On-Chain: JOSHSHOOT.SOL
+
+.
+.
+.
+#ArchivalPrint #INPRNT #BrutalistArchitecture #JOSHSHOOTPRINTS</pre>
+                <button class="copy-btn" onclick="copyText('ig-post-2')">Copy Caption & Hashtags</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📂 GitHub Archive Journal (README & Releases Feature)</h3>
+                <span class="platform-note">Turn your GitHub repo into an active curatorial catalog!</span>
+              </div>
+              <p><strong>Release Title:</strong> <code>JOSH¹ Asset Release: JOSH1-195: Scheepmakerskade 135</code></p>
+              <div class="code-box">
+                <pre id="gh-post-2">## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1-195: Scheepmakerskade 135"
+
+<p align="center">
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-195-scheepmakerskade-135/"><img src="https://cdn.inprnt.com/thumbs/0b/0a/0b0a4ed82d9a6698d4e1f7329b55fe05.jpg" alt="JOSH1-195: Scheepmakerskade 135" width="600" /></a>
+</p>
+
+> *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) and a Gallery-Quality physical print.*
+
+### 📋 Technical Metadata
+| Asset Classification | Metadata Specification |
+| :--- | :--- |
+| **Title** | `JOSH1-195: Scheepmakerskade 135` |
+| **Rarity Classification** | `💎 Common` |
+| **Capture Device** | `📸 iPhone 12 / Archival Capture` |
+| **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
+| **Physical Medium** | `100% Cotton Rag Archival Print via INPRNT` |
+| **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
+| **On-Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
+
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-195-scheepmakerskade-135/)**</pre>
+                <button class="copy-btn" onclick="copyText('gh-post-2')">Copy GitHub Markdown</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="card" id="artwork-3">
+          <div class="card-header">
+            <img src="https://cdn.inprnt.com/thumbs/ca/8f/ca8fd3f6c99535f43d2d5a6ba3bfa46f.jpg" alt="JOSH1-194: Van Gogh Museum" class="artwork-thumb" />
+            <div class="header-info">
+              <div class="meta-tag">JOSH¹ ARCHIVE // 💎 RARITY: COMMON &bull; 📍 Amsterdam (AMS) 🇳🇱</div>
+              <h2>JOSH1-194: Van Gogh Museum</h2>
+              <div class="badge-row">
+                <span class="badge price-badge">$12.00 &bull; 20% OFF Phygital Release</span>
+                <span class="badge device-badge">📸 iPhone 12 / Archival Capture</span>
+                <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-194-van-gogh-museum/" target="_blank" class="badge shop-badge">Acquire on INPRNT &rarr;</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="channel-tabs">
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📌 Pinterest Editorial Pin (Evergreen Organic Traffic)</h3>
+                <span class="platform-note">Optimized for interior decor & architectural collectors</span>
+              </div>
+              <p><strong>Title:</strong> JOSH1-194: Van Gogh Museum | JOSH¹ Archive Brutalist Photography & Fine Art Print</p>
+              <p><strong>Curated Board:</strong> JOSH¹ Archive // Phygital Photography Prints</p>
+              <div class="code-box">
+                <pre id="pin-desc-3">Institutional architecture and public space. Structural geometry recorded in natural light. Common rarity asset in the JOSH¹ Archive ('JOSH1-194: Van Gogh Museum'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery-quality physical print. Captured in Amsterdam (AMS) 🇳🇱. Crafted on museum-grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-194-van-gogh-museum/ • #ArchivalPrint #FineArtPrint #ContemporaryCollector #PhygitalArt</pre>
+                <button class="copy-btn" onclick="copyText('pin-desc-3')">Copy Description</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>🐦 Twitter / X & Bluesky (Solana & Web3 Collector Community)</h3>
+                <span class="platform-note">Featuring JOSHSHOOT.SOL &bull; @Joshtakesphoto</span>
+              </div>
+              <div class="code-box">
+                <pre id="tw-post-3">「 JOSH1-194: Van Gogh Museum 」
+Institutional architecture and public space. Structural geometry recorded in natural light.
+
+JOSH¹ Archive — Limited Edition Phygital Art Piece
+Bridging Solana blockchain provenance & museum-grade physical prints.
+
+Collect the archive via INPRNT (link in bio)
+
+📸 iPhone 12 / Archival Capture
+📍 Amsterdam (AMS) 🇳🇱
+💎 Rarity: Common
+⚡ On-Chain: JOSHSHOOT.SOL
+
+#SolanaArt #BrutalistArchitecture #UrbanGeometry #INPRNT</pre>
+                <button class="copy-btn" onclick="copyText('tw-post-3')">Copy Web3 Post</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📸 Instagram / Threads (Sequential Archive Automation)</h3>
+                <span class="platform-note">Technical metadata & carousel hook</span>
+              </div>
+              <p class="carousel-note"><strong>📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
+• Slide 1: Full high-res photograph ('JOSH1-194: Van Gogh Museum')
+• Slide 2: Zoomed-in crop showing cotton rag texture OR brutalist detail
+• Slide 3: On-chain provenance graphic ('💎 Rarity: Common | 📍 Amsterdam (AMS) 🇳🇱 | JOSHSHOOT.SOL')</strong></p>
+              <div class="code-box">
+                <pre id="ig-post-3">JOSH1-194: Van Gogh Museum
+Institutional architecture and public space. Structural geometry recorded in natural light.
+
+JOSH¹ Archive — Limited Edition Phygital Art Piece
+Edition: 100% Cotton Rag Archival Fine-Art Print (300gsm)
+Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) -> Physical exhibition print via INPRNT
+
+Collect the archive via link in bio
+📸 iPhone 12 / Archival Capture
+📍 Amsterdam (AMS) 🇳🇱
+💎 Rarity: Common
+⚡ On-Chain: JOSHSHOOT.SOL
+
+.
+.
+.
+#StreetPhotography #ContemporaryCollector #FineArtPrint #Industrial</pre>
+                <button class="copy-btn" onclick="copyText('ig-post-3')">Copy Caption & Hashtags</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📂 GitHub Archive Journal (README & Releases Feature)</h3>
+                <span class="platform-note">Turn your GitHub repo into an active curatorial catalog!</span>
+              </div>
+              <p><strong>Release Title:</strong> <code>JOSH¹ Asset Release: JOSH1-194: Van Gogh Museum</code></p>
+              <div class="code-box">
+                <pre id="gh-post-3">## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1-194: Van Gogh Museum"
+
+<p align="center">
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-194-van-gogh-museum/"><img src="https://cdn.inprnt.com/thumbs/ca/8f/ca8fd3f6c99535f43d2d5a6ba3bfa46f.jpg" alt="JOSH1-194: Van Gogh Museum" width="600" /></a>
+</p>
+
+> *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) and a Gallery-Quality physical print.*
+
+### 📋 Technical Metadata
+| Asset Classification | Metadata Specification |
+| :--- | :--- |
+| **Title** | `JOSH1-194: Van Gogh Museum` |
+| **Rarity Classification** | `💎 Common` |
+| **Capture Device** | `📸 iPhone 12 / Archival Capture` |
+| **Location Origin** | `📍 Amsterdam (AMS) 🇳🇱` |
+| **Physical Medium** | `100% Cotton Rag Archival Print via INPRNT` |
+| **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
+| **On-Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
+
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-194-van-gogh-museum/)**</pre>
+                <button class="copy-btn" onclick="copyText('gh-post-3')">Copy GitHub Markdown</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="card" id="artwork-4">
+          <div class="card-header">
+            <img src="https://cdn.inprnt.com/thumbs/c9/60/c9600baaedd080234941b8162bec669a.jpg" alt="JOSH1-193: Praise The Lord" class="artwork-thumb" />
+            <div class="header-info">
+              <div class="meta-tag">JOSH¹ ARCHIVE // 💎 RARITY: COMMON &bull; 📍 Rotterdam (RTM) 🇳🇱</div>
+              <h2>JOSH1-193: Praise The Lord</h2>
+              <div class="badge-row">
+                <span class="badge price-badge">$12.00 &bull; 20% OFF Phygital Release</span>
+                <span class="badge device-badge">📸 iPhone 12 / Archival Capture</span>
+                <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-193-praise-the-lord/" target="_blank" class="badge shop-badge">Acquire on INPRNT &rarr;</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="channel-tabs">
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📌 Pinterest Editorial Pin (Evergreen Organic Traffic)</h3>
+                <span class="platform-note">Optimized for interior decor & architectural collectors</span>
+              </div>
+              <p><strong>Title:</strong> JOSH1-193: Praise The Lord | JOSH¹ Archive Brutalist Photography & Fine Art Print</p>
+              <p><strong>Curated Board:</strong> JOSH¹ Archive // Phygital Photography Prints</p>
+              <div class="code-box">
+                <pre id="pin-desc-4">Monochromatic depth and low-light atmosphere. Structural brutalism recorded after dark. Common rarity asset in the JOSH¹ Archive ('JOSH1-193: Praise The Lord'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery-quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum-grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-193-praise-the-lord/ • #ArchitecturalPhotography #PhygitalArt #ArtCollector #WallArtDecor</pre>
+                <button class="copy-btn" onclick="copyText('pin-desc-4')">Copy Description</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>🐦 Twitter / X & Bluesky (Solana & Web3 Collector Community)</h3>
+                <span class="platform-note">Featuring JOSHSHOOT.SOL &bull; @Joshtakesphoto</span>
+              </div>
+              <div class="code-box">
+                <pre id="tw-post-4">「 JOSH1-193: Praise The Lord 」
+Monochromatic depth and low-light atmosphere. Structural brutalism recorded after dark.
+
+JOSH¹ Archive — Limited Edition Phygital Art Piece
+Bridging Solana blockchain provenance & museum-grade physical prints.
+
+Collect the archive via INPRNT (link in bio)
+
+📸 iPhone 12 / Archival Capture
+📍 Rotterdam (RTM) 🇳🇱
+💎 Rarity: Common
+⚡ On-Chain: JOSHSHOOT.SOL
+
+#PhygitalArt #FineArtPrint #Industrial #SolanaArt</pre>
+                <button class="copy-btn" onclick="copyText('tw-post-4')">Copy Web3 Post</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📸 Instagram / Threads (Sequential Archive Automation)</h3>
+                <span class="platform-note">Technical metadata & carousel hook</span>
+              </div>
+              <p class="carousel-note"><strong>📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
+• Slide 1: Full high-res photograph ('JOSH1-193: Praise The Lord')
+• Slide 2: Zoomed-in crop showing cotton rag texture OR brutalist detail
+• Slide 3: On-chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')</strong></p>
+              <div class="code-box">
+                <pre id="ig-post-4">JOSH1-193: Praise The Lord
+Monochromatic depth and low-light atmosphere. Structural brutalism recorded after dark.
+
+JOSH¹ Archive — Limited Edition Phygital Art Piece
+Edition: 100% Cotton Rag Archival Fine-Art Print (300gsm)
+Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) -> Physical exhibition print via INPRNT
+
+Collect the archive via link in bio
+📸 iPhone 12 / Archival Capture
+📍 Rotterdam (RTM) 🇳🇱
+💎 Rarity: Common
+⚡ On-Chain: JOSHSHOOT.SOL
+
+.
+.
+.
+#StreetPhotography #JOSHSHOOTPRINTS #UrbanGeometry #ArchitecturalPhotography</pre>
+                <button class="copy-btn" onclick="copyText('ig-post-4')">Copy Caption & Hashtags</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📂 GitHub Archive Journal (README & Releases Feature)</h3>
+                <span class="platform-note">Turn your GitHub repo into an active curatorial catalog!</span>
+              </div>
+              <p><strong>Release Title:</strong> <code>JOSH¹ Asset Release: JOSH1-193: Praise The Lord</code></p>
+              <div class="code-box">
+                <pre id="gh-post-4">## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1-193: Praise The Lord"
+
+<p align="center">
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-193-praise-the-lord/"><img src="https://cdn.inprnt.com/thumbs/c9/60/c9600baaedd080234941b8162bec669a.jpg" alt="JOSH1-193: Praise The Lord" width="600" /></a>
+</p>
+
+> *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) and a Gallery-Quality physical print.*
+
+### 📋 Technical Metadata
+| Asset Classification | Metadata Specification |
+| :--- | :--- |
+| **Title** | `JOSH1-193: Praise The Lord` |
+| **Rarity Classification** | `💎 Common` |
+| **Capture Device** | `📸 iPhone 12 / Archival Capture` |
+| **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
+| **Physical Medium** | `100% Cotton Rag Archival Print via INPRNT` |
+| **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
+| **On-Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
+
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-193-praise-the-lord/)**</pre>
+                <button class="copy-btn" onclick="copyText('gh-post-4')">Copy GitHub Markdown</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="card" id="artwork-5">
+          <div class="card-header">
+            <img src="https://cdn.inprnt.com/thumbs/a9/3c/a93cf3d0c8a257a61f72519f122664fb.jpg" alt="JOSH1-192: Mono Closing Party 22'" class="artwork-thumb" />
+            <div class="header-info">
+              <div class="meta-tag">JOSH¹ ARCHIVE // 💎 RARITY: COMMON &bull; 📍 Rotterdam (RTM) 🇳🇱</div>
+              <h2>JOSH1-192: Mono Closing Party 22'</h2>
+              <div class="badge-row">
+                <span class="badge price-badge">$12.00 &bull; 20% OFF Phygital Release</span>
+                <span class="badge device-badge">📸 iPhone 12 / Archival Capture</span>
+                <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-192-mono-closing-party-22/" target="_blank" class="badge shop-badge">Acquire on INPRNT &rarr;</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="channel-tabs">
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📌 Pinterest Editorial Pin (Evergreen Organic Traffic)</h3>
+                <span class="platform-note">Optimized for interior decor & architectural collectors</span>
+              </div>
+              <p><strong>Title:</strong> JOSH1-192: Mono Closing Party 22' | JOSH¹ Archive Brutalist Photography & Fine Art Print</p>
+              <p><strong>Curated Board:</strong> JOSH¹ Archive // Phygital Photography Prints</p>
+              <div class="code-box">
+                <pre id="pin-desc-5">Monochromatic depth and low-light atmosphere. Structural brutalism recorded after dark. Common rarity asset in the JOSH¹ Archive ('JOSH1-192: Mono Closing Party 22''). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery-quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum-grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-192-mono-closing-party-22/ • #ArtCollector #UrbanGeometry #PhygitalArt #FineArtPrint</pre>
+                <button class="copy-btn" onclick="copyText('pin-desc-5')">Copy Description</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>🐦 Twitter / X & Bluesky (Solana & Web3 Collector Community)</h3>
+                <span class="platform-note">Featuring JOSHSHOOT.SOL &bull; @Joshtakesphoto</span>
+              </div>
+              <div class="code-box">
+                <pre id="tw-post-5">「 JOSH1-192: Mono Closing Party 22' 」
+Monochromatic depth and low-light atmosphere. Structural brutalism recorded after dark.
+
+JOSH¹ Archive — Limited Edition Phygital Art Piece
+Bridging Solana blockchain provenance & museum-grade physical prints.
+
+Collect the archive via INPRNT (link in bio)
+
+📸 iPhone 12 / Archival Capture
+📍 Rotterdam (RTM) 🇳🇱
+💎 Rarity: Common
+⚡ On-Chain: JOSHSHOOT.SOL
+
+#Industrial #OnChainArt #FineArtPrint #JOSHSHOOTPRINTS</pre>
+                <button class="copy-btn" onclick="copyText('tw-post-5')">Copy Web3 Post</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📸 Instagram / Threads (Sequential Archive Automation)</h3>
+                <span class="platform-note">Technical metadata & carousel hook</span>
+              </div>
+              <p class="carousel-note"><strong>📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
+• Slide 1: Full high-res photograph ('JOSH1-192: Mono Closing Party 22'')
+• Slide 2: Zoomed-in crop showing cotton rag texture OR brutalist detail
+• Slide 3: On-chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')</strong></p>
+              <div class="code-box">
+                <pre id="ig-post-5">JOSH1-192: Mono Closing Party 22'
+Monochromatic depth and low-light atmosphere. Structural brutalism recorded after dark.
+
+JOSH¹ Archive — Limited Edition Phygital Art Piece
+Edition: 100% Cotton Rag Archival Fine-Art Print (300gsm)
+Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) -> Physical exhibition print via INPRNT
+
+Collect the archive via link in bio
+📸 iPhone 12 / Archival Capture
+📍 Rotterdam (RTM) 🇳🇱
+💎 Rarity: Common
+⚡ On-Chain: JOSHSHOOT.SOL
+
+.
+.
+.
+#PhygitalArt #FineArtPrint #BrutalistArchitecture #JOSHSHOOTPRINTS</pre>
+                <button class="copy-btn" onclick="copyText('ig-post-5')">Copy Caption & Hashtags</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📂 GitHub Archive Journal (README & Releases Feature)</h3>
+                <span class="platform-note">Turn your GitHub repo into an active curatorial catalog!</span>
+              </div>
+              <p><strong>Release Title:</strong> <code>JOSH¹ Asset Release: JOSH1-192: Mono Closing Party 22'</code></p>
+              <div class="code-box">
+                <pre id="gh-post-5">## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1-192: Mono Closing Party 22'"
+
+<p align="center">
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-192-mono-closing-party-22/"><img src="https://cdn.inprnt.com/thumbs/a9/3c/a93cf3d0c8a257a61f72519f122664fb.jpg" alt="JOSH1-192: Mono Closing Party 22'" width="600" /></a>
+</p>
+
+> *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) and a Gallery-Quality physical print.*
+
+### 📋 Technical Metadata
+| Asset Classification | Metadata Specification |
+| :--- | :--- |
+| **Title** | `JOSH1-192: Mono Closing Party 22'` |
+| **Rarity Classification** | `💎 Common` |
+| **Capture Device** | `📸 iPhone 12 / Archival Capture` |
+| **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
+| **Physical Medium** | `100% Cotton Rag Archival Print via INPRNT` |
+| **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
+| **On-Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
+
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-192-mono-closing-party-22/)**</pre>
+                <button class="copy-btn" onclick="copyText('gh-post-5')">Copy GitHub Markdown</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="card" id="artwork-6">
+          <div class="card-header">
+            <img src="https://cdn.inprnt.com/thumbs/80/3c/803c399de7acca585ff3f764089424d6.jpg" alt="JOSH1-191: A's Station" class="artwork-thumb" />
+            <div class="header-info">
+              <div class="meta-tag">JOSH¹ ARCHIVE // 💎 RARITY: COMMON &bull; 📍 Rotterdam (RTM) 🇳🇱</div>
+              <h2>JOSH1-191: A's Station</h2>
+              <div class="badge-row">
+                <span class="badge price-badge">$12.00 &bull; 20% OFF Phygital Release</span>
+                <span class="badge device-badge">📸 iPhone 12 / Archival Capture</span>
+                <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-191-as-station/" target="_blank" class="badge shop-badge">Acquire on INPRNT &rarr;</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="channel-tabs">
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📌 Pinterest Editorial Pin (Evergreen Organic Traffic)</h3>
+                <span class="platform-note">Optimized for interior decor & architectural collectors</span>
+              </div>
+              <p><strong>Title:</strong> JOSH1-191: A's Station | JOSH¹ Archive Brutalist Photography & Fine Art Print</p>
+              <p><strong>Curated Board:</strong> JOSH¹ Archive // Phygital Photography Prints</p>
+              <div class="code-box">
+                <pre id="pin-desc-6">Urban transit and architectural scale. Kinetic movement recorded inside modern transport terminals. Common rarity asset in the JOSH¹ Archive ('JOSH1-191: A's Station'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery-quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum-grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-191-as-station/ • #UrbanGeometry #Industrial #FineArtPrint #WallArtDecor</pre>
+                <button class="copy-btn" onclick="copyText('pin-desc-6')">Copy Description</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>🐦 Twitter / X & Bluesky (Solana & Web3 Collector Community)</h3>
+                <span class="platform-note">Featuring JOSHSHOOT.SOL &bull; @Joshtakesphoto</span>
+              </div>
+              <div class="code-box">
+                <pre id="tw-post-6">「 JOSH1-191: A's Station 」
+Urban transit and architectural scale. Kinetic movement recorded inside modern transport terminals.
+
+JOSH¹ Archive — Limited Edition Phygital Art Piece
+Bridging Solana blockchain provenance & museum-grade physical prints.
+
+Collect the archive via INPRNT (link in bio)
+
+📸 iPhone 12 / Archival Capture
+📍 Rotterdam (RTM) 🇳🇱
+💎 Rarity: Common
+⚡ On-Chain: JOSHSHOOT.SOL
+
+#SolanaNFT #OnChainArt #ContemporaryCollector #JOSHSHOOTPRINTS</pre>
+                <button class="copy-btn" onclick="copyText('tw-post-6')">Copy Web3 Post</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📸 Instagram / Threads (Sequential Archive Automation)</h3>
+                <span class="platform-note">Technical metadata & carousel hook</span>
+              </div>
+              <p class="carousel-note"><strong>📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
+• Slide 1: Full high-res photograph ('JOSH1-191: A's Station')
+• Slide 2: Zoomed-in crop showing cotton rag texture OR brutalist detail
+• Slide 3: On-chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')</strong></p>
+              <div class="code-box">
+                <pre id="ig-post-6">JOSH1-191: A's Station
+Urban transit and architectural scale. Kinetic movement recorded inside modern transport terminals.
+
+JOSH¹ Archive — Limited Edition Phygital Art Piece
+Edition: 100% Cotton Rag Archival Fine-Art Print (300gsm)
+Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) -> Physical exhibition print via INPRNT
+
+Collect the archive via link in bio
+📸 iPhone 12 / Archival Capture
+📍 Rotterdam (RTM) 🇳🇱
+💎 Rarity: Common
+⚡ On-Chain: JOSHSHOOT.SOL
+
+.
+.
+.
+#OnChainArt #StreetPhotography #SolanaArt #PhygitalArt</pre>
+                <button class="copy-btn" onclick="copyText('ig-post-6')">Copy Caption & Hashtags</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📂 GitHub Archive Journal (README & Releases Feature)</h3>
+                <span class="platform-note">Turn your GitHub repo into an active curatorial catalog!</span>
+              </div>
+              <p><strong>Release Title:</strong> <code>JOSH¹ Asset Release: JOSH1-191: A's Station</code></p>
+              <div class="code-box">
+                <pre id="gh-post-6">## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1-191: A's Station"
+
+<p align="center">
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-191-as-station/"><img src="https://cdn.inprnt.com/thumbs/80/3c/803c399de7acca585ff3f764089424d6.jpg" alt="JOSH1-191: A's Station" width="600" /></a>
+</p>
+
+> *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) and a Gallery-Quality physical print.*
+
+### 📋 Technical Metadata
+| Asset Classification | Metadata Specification |
+| :--- | :--- |
+| **Title** | `JOSH1-191: A's Station` |
+| **Rarity Classification** | `💎 Common` |
+| **Capture Device** | `📸 iPhone 12 / Archival Capture` |
+| **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
+| **Physical Medium** | `100% Cotton Rag Archival Print via INPRNT` |
+| **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
+| **On-Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
+
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-191-as-station/)**</pre>
+                <button class="copy-btn" onclick="copyText('gh-post-6')">Copy GitHub Markdown</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="card" id="artwork-7">
+          <div class="card-header">
+            <img src="https://cdn.inprnt.com/thumbs/cf/81/cf815e5dceefd6359ede7173c6efe4dd.jpg" alt="JOSH1-190: Leeds University" class="artwork-thumb" />
+            <div class="header-info">
+              <div class="meta-tag">JOSH¹ ARCHIVE // 💎 RARITY: COMMON &bull; 📍 Leeds (LBA) 🇬🇧</div>
+              <h2>JOSH1-190: Leeds University</h2>
+              <div class="badge-row">
+                <span class="badge price-badge">$12.00 &bull; 20% OFF Phygital Release</span>
+                <span class="badge device-badge">📸 iPhone 12 / Archival Capture</span>
+                <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-190-leeds-university/" target="_blank" class="badge shop-badge">Acquire on INPRNT &rarr;</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="channel-tabs">
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📌 Pinterest Editorial Pin (Evergreen Organic Traffic)</h3>
+                <span class="platform-note">Optimized for interior decor & architectural collectors</span>
+              </div>
+              <p><strong>Title:</strong> JOSH1-190: Leeds University | JOSH¹ Archive Brutalist Photography & Fine Art Print</p>
+              <p><strong>Curated Board:</strong> JOSH¹ Archive // Phygital Photography Prints</p>
+              <div class="code-box">
+                <pre id="pin-desc-7">Educational brutalism. Concrete geometry and functional symmetry in the university landscape. Common rarity asset in the JOSH¹ Archive ('JOSH1-190: Leeds University'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery-quality physical print. Captured in Leeds (LBA) 🇬🇧. Crafted on museum-grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-190-leeds-university/ • #UrbanGeometry #ArtCollector #SolanaNFT #StreetPhotography</pre>
+                <button class="copy-btn" onclick="copyText('pin-desc-7')">Copy Description</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>🐦 Twitter / X & Bluesky (Solana & Web3 Collector Community)</h3>
+                <span class="platform-note">Featuring JOSHSHOOT.SOL &bull; @Joshtakesphoto</span>
+              </div>
+              <div class="code-box">
+                <pre id="tw-post-7">「 JOSH1-190: Leeds University 」
+Educational brutalism. Concrete geometry and functional symmetry in the university landscape.
+
+JOSH¹ Archive — Limited Edition Phygital Art Piece
+Bridging Solana blockchain provenance & museum-grade physical prints.
+
+Collect the archive via INPRNT (link in bio)
+
+📸 iPhone 12 / Archival Capture
+📍 Leeds (LBA) 🇬🇧
+💎 Rarity: Common
+⚡ On-Chain: JOSHSHOOT.SOL
+
+#INPRNT #MinimalistPhotography #SolanaNFT #PhygitalArt</pre>
+                <button class="copy-btn" onclick="copyText('tw-post-7')">Copy Web3 Post</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📸 Instagram / Threads (Sequential Archive Automation)</h3>
+                <span class="platform-note">Technical metadata & carousel hook</span>
+              </div>
+              <p class="carousel-note"><strong>📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
+• Slide 1: Full high-res photograph ('JOSH1-190: Leeds University')
+• Slide 2: Zoomed-in crop showing cotton rag texture OR brutalist detail
+• Slide 3: On-chain provenance graphic ('💎 Rarity: Common | 📍 Leeds (LBA) 🇬🇧 | JOSHSHOOT.SOL')</strong></p>
+              <div class="code-box">
+                <pre id="ig-post-7">JOSH1-190: Leeds University
+Educational brutalism. Concrete geometry and functional symmetry in the university landscape.
+
+JOSH¹ Archive — Limited Edition Phygital Art Piece
+Edition: 100% Cotton Rag Archival Fine-Art Print (300gsm)
+Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) -> Physical exhibition print via INPRNT
+
+Collect the archive via link in bio
+📸 iPhone 12 / Archival Capture
+📍 Leeds (LBA) 🇬🇧
+💎 Rarity: Common
+⚡ On-Chain: JOSHSHOOT.SOL
+
+.
+.
+.
+#MinimalistPhotography #INPRNT #JOSHSHOOTPRINTS #SolanaArt</pre>
+                <button class="copy-btn" onclick="copyText('ig-post-7')">Copy Caption & Hashtags</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📂 GitHub Archive Journal (README & Releases Feature)</h3>
+                <span class="platform-note">Turn your GitHub repo into an active curatorial catalog!</span>
+              </div>
+              <p><strong>Release Title:</strong> <code>JOSH¹ Asset Release: JOSH1-190: Leeds University</code></p>
+              <div class="code-box">
+                <pre id="gh-post-7">## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1-190: Leeds University"
+
+<p align="center">
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-190-leeds-university/"><img src="https://cdn.inprnt.com/thumbs/cf/81/cf815e5dceefd6359ede7173c6efe4dd.jpg" alt="JOSH1-190: Leeds University" width="600" /></a>
+</p>
+
+> *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) and a Gallery-Quality physical print.*
+
+### 📋 Technical Metadata
+| Asset Classification | Metadata Specification |
+| :--- | :--- |
+| **Title** | `JOSH1-190: Leeds University` |
+| **Rarity Classification** | `💎 Common` |
+| **Capture Device** | `📸 iPhone 12 / Archival Capture` |
+| **Location Origin** | `📍 Leeds (LBA) 🇬🇧` |
+| **Physical Medium** | `100% Cotton Rag Archival Print via INPRNT` |
+| **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
+| **On-Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
+
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-190-leeds-university/)**</pre>
+                <button class="copy-btn" onclick="copyText('gh-post-7')">Copy GitHub Markdown</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="card" id="artwork-8">
+          <div class="card-header">
+            <img src="https://cdn.inprnt.com/thumbs/22/e7/22e7f6a271082f11ef6ae19b8eb72d69.jpg" alt="JOSH1-189: Waterloo Station" class="artwork-thumb" />
+            <div class="header-info">
+              <div class="meta-tag">JOSH¹ ARCHIVE // 💎 RARITY: COMMON &bull; 📍 London (LON) 🇬🇧</div>
+              <h2>JOSH1-189: Waterloo Station</h2>
+              <div class="badge-row">
+                <span class="badge price-badge">$12.00 &bull; 20% OFF Phygital Release</span>
+                <span class="badge device-badge">📸 iPhone 12 / Archival Capture</span>
+                <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-189-waterloo-station/" target="_blank" class="badge shop-badge">Acquire on INPRNT &rarr;</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="channel-tabs">
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📌 Pinterest Editorial Pin (Evergreen Organic Traffic)</h3>
+                <span class="platform-note">Optimized for interior decor & architectural collectors</span>
+              </div>
+              <p><strong>Title:</strong> JOSH1-189: Waterloo Station | JOSH¹ Archive Brutalist Photography & Fine Art Print</p>
+              <p><strong>Curated Board:</strong> JOSH¹ Archive // Phygital Photography Prints</p>
+              <div class="code-box">
+                <pre id="pin-desc-8">Urban transit and architectural scale. Kinetic movement recorded inside modern transport terminals. Common rarity asset in the JOSH¹ Archive ('JOSH1-189: Waterloo Station'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery-quality physical print. Captured in London (LON) 🇬🇧. Crafted on museum-grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-189-waterloo-station/ • #PhygitalArt #INPRNT #Industrial #WallArtDecor</pre>
+                <button class="copy-btn" onclick="copyText('pin-desc-8')">Copy Description</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>🐦 Twitter / X & Bluesky (Solana & Web3 Collector Community)</h3>
+                <span class="platform-note">Featuring JOSHSHOOT.SOL &bull; @Joshtakesphoto</span>
+              </div>
+              <div class="code-box">
+                <pre id="tw-post-8">「 JOSH1-189: Waterloo Station 」
+Urban transit and architectural scale. Kinetic movement recorded inside modern transport terminals.
+
+JOSH¹ Archive — Limited Edition Phygital Art Piece
+Bridging Solana blockchain provenance & museum-grade physical prints.
+
+Collect the archive via INPRNT (link in bio)
+
+📸 iPhone 12 / Archival Capture
+📍 London (LON) 🇬🇧
+💎 Rarity: Common
+⚡ On-Chain: JOSHSHOOT.SOL
+
+#BrutalistArchitecture #ContemporaryCollector #UrbanGeometry #INPRNT</pre>
+                <button class="copy-btn" onclick="copyText('tw-post-8')">Copy Web3 Post</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📸 Instagram / Threads (Sequential Archive Automation)</h3>
+                <span class="platform-note">Technical metadata & carousel hook</span>
+              </div>
+              <p class="carousel-note"><strong>📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
+• Slide 1: Full high-res photograph ('JOSH1-189: Waterloo Station')
+• Slide 2: Zoomed-in crop showing cotton rag texture OR brutalist detail
+• Slide 3: On-chain provenance graphic ('💎 Rarity: Common | 📍 London (LON) 🇬🇧 | JOSHSHOOT.SOL')</strong></p>
+              <div class="code-box">
+                <pre id="ig-post-8">JOSH1-189: Waterloo Station
+Urban transit and architectural scale. Kinetic movement recorded inside modern transport terminals.
+
+JOSH¹ Archive — Limited Edition Phygital Art Piece
+Edition: 100% Cotton Rag Archival Fine-Art Print (300gsm)
+Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) -> Physical exhibition print via INPRNT
+
+Collect the archive via link in bio
+📸 iPhone 12 / Archival Capture
+📍 London (LON) 🇬🇧
+💎 Rarity: Common
+⚡ On-Chain: JOSHSHOOT.SOL
+
+.
+.
+.
+#OnChainArt #ArtCollector #Industrial #INPRNT</pre>
+                <button class="copy-btn" onclick="copyText('ig-post-8')">Copy Caption & Hashtags</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📂 GitHub Archive Journal (README & Releases Feature)</h3>
+                <span class="platform-note">Turn your GitHub repo into an active curatorial catalog!</span>
+              </div>
+              <p><strong>Release Title:</strong> <code>JOSH¹ Asset Release: JOSH1-189: Waterloo Station</code></p>
+              <div class="code-box">
+                <pre id="gh-post-8">## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1-189: Waterloo Station"
+
+<p align="center">
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-189-waterloo-station/"><img src="https://cdn.inprnt.com/thumbs/22/e7/22e7f6a271082f11ef6ae19b8eb72d69.jpg" alt="JOSH1-189: Waterloo Station" width="600" /></a>
+</p>
+
+> *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) and a Gallery-Quality physical print.*
+
+### 📋 Technical Metadata
+| Asset Classification | Metadata Specification |
+| :--- | :--- |
+| **Title** | `JOSH1-189: Waterloo Station` |
+| **Rarity Classification** | `💎 Common` |
+| **Capture Device** | `📸 iPhone 12 / Archival Capture` |
+| **Location Origin** | `📍 London (LON) 🇬🇧` |
+| **Physical Medium** | `100% Cotton Rag Archival Print via INPRNT` |
+| **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
+| **On-Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
+
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-189-waterloo-station/)**</pre>
+                <button class="copy-btn" onclick="copyText('gh-post-8')">Copy GitHub Markdown</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="card" id="artwork-9">
+          <div class="card-header">
+            <img src="https://cdn.inprnt.com/thumbs/84/03/8403c6dfa2930fa70f862abf9336558f.jpg" alt="JOSH1-188: A 2222 2022" class="artwork-thumb" />
+            <div class="header-info">
+              <div class="meta-tag">JOSH¹ ARCHIVE // 💎 RARITY: COMMON &bull; 📍 Rotterdam (RTM) 🇳🇱</div>
+              <h2>JOSH1-188: A 2222 2022</h2>
+              <div class="badge-row">
+                <span class="badge price-badge">$12.00 &bull; 20% OFF Phygital Release</span>
+                <span class="badge device-badge">📸 iPhone 12 / Archival Capture</span>
+                <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-188-a-2222-2022/" target="_blank" class="badge shop-badge">Acquire on INPRNT &rarr;</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="channel-tabs">
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📌 Pinterest Editorial Pin (Evergreen Organic Traffic)</h3>
+                <span class="platform-note">Optimized for interior decor & architectural collectors</span>
+              </div>
+              <p><strong>Title:</strong> JOSH1-188: A 2222 2022 | JOSH¹ Archive Brutalist Photography & Fine Art Print</p>
+              <p><strong>Curated Board:</strong> JOSH¹ Archive // Phygital Photography Prints</p>
+              <div class="code-box">
+                <pre id="pin-desc-9">Architectural geometry and urban stillness. Recorded for archival permanence. Common rarity asset in the JOSH¹ Archive ('JOSH1-188: A 2222 2022'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery-quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum-grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-188-a-2222-2022/ • #ContemporaryCollector #ArtCollector #PhygitalArt #JOSHSHOOTPRINTS</pre>
+                <button class="copy-btn" onclick="copyText('pin-desc-9')">Copy Description</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>🐦 Twitter / X & Bluesky (Solana & Web3 Collector Community)</h3>
+                <span class="platform-note">Featuring JOSHSHOOT.SOL &bull; @Joshtakesphoto</span>
+              </div>
+              <div class="code-box">
+                <pre id="tw-post-9">「 JOSH1-188: A 2222 2022 」
+Architectural geometry and urban stillness. Recorded for archival permanence.
+
+JOSH¹ Archive — Limited Edition Phygital Art Piece
+Bridging Solana blockchain provenance & museum-grade physical prints.
+
+Collect the archive via INPRNT (link in bio)
+
+📸 iPhone 12 / Archival Capture
+📍 Rotterdam (RTM) 🇳🇱
+💎 Rarity: Common
+⚡ On-Chain: JOSHSHOOT.SOL
+
+#ArtCollector #BrutalistArchitecture #ArchitecturalPhotography #StreetPhotography</pre>
+                <button class="copy-btn" onclick="copyText('tw-post-9')">Copy Web3 Post</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📸 Instagram / Threads (Sequential Archive Automation)</h3>
+                <span class="platform-note">Technical metadata & carousel hook</span>
+              </div>
+              <p class="carousel-note"><strong>📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
+• Slide 1: Full high-res photograph ('JOSH1-188: A 2222 2022')
+• Slide 2: Zoomed-in crop showing cotton rag texture OR brutalist detail
+• Slide 3: On-chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')</strong></p>
+              <div class="code-box">
+                <pre id="ig-post-9">JOSH1-188: A 2222 2022
+Architectural geometry and urban stillness. Recorded for archival permanence.
+
+JOSH¹ Archive — Limited Edition Phygital Art Piece
+Edition: 100% Cotton Rag Archival Fine-Art Print (300gsm)
+Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) -> Physical exhibition print via INPRNT
+
+Collect the archive via link in bio
+📸 iPhone 12 / Archival Capture
+📍 Rotterdam (RTM) 🇳🇱
+💎 Rarity: Common
+⚡ On-Chain: JOSHSHOOT.SOL
+
+.
+.
+.
+#ArtCollector #JOSHSHOOTPRINTS #ArchivalPrint #INPRNT</pre>
+                <button class="copy-btn" onclick="copyText('ig-post-9')">Copy Caption & Hashtags</button>
+              </div>
+            </div>
+
+            <div class="tab-content">
+              <div class="tab-header">
+                <h3>📂 GitHub Archive Journal (README & Releases Feature)</h3>
+                <span class="platform-note">Turn your GitHub repo into an active curatorial catalog!</span>
+              </div>
+              <p><strong>Release Title:</strong> <code>JOSH¹ Asset Release: JOSH1-188: A 2222 2022</code></p>
+              <div class="code-box">
+                <pre id="gh-post-9">## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1-188: A 2222 2022"
+
+<p align="center">
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-188-a-2222-2022/"><img src="https://cdn.inprnt.com/thumbs/84/03/8403c6dfa2930fa70f862abf9336558f.jpg" alt="JOSH1-188: A 2222 2022" width="600" /></a>
+</p>
+
+> *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) and a Gallery-Quality physical print.*
+
+### 📋 Technical Metadata
+| Asset Classification | Metadata Specification |
+| :--- | :--- |
+| **Title** | `JOSH1-188: A 2222 2022` |
+| **Rarity Classification** | `💎 Common` |
+| **Capture Device** | `📸 iPhone 12 / Archival Capture` |
+| **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
+| **Physical Medium** | `100% Cotton Rag Archival Print via INPRNT` |
+| **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
+| **On-Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
+
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-188-a-2222-2022/)**</pre>
+                <button class="copy-btn" onclick="copyText('gh-post-9')">Copy GitHub Markdown</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+    </main>
+
+    <footer>
+      <p>
+        <strong>THE JOSH¹ ARCHIVE &bull; JOSHSHOOT.SOL &bull; joshuadenouden21-hiuos.wordpress.com</strong><br/>
+        Phygital Art Copywriting & Curation Engine &bull; 100% Free Automated GitHub Actions Integration
+      </p>
+    </footer>
+  </div>
+</body>
+</html>

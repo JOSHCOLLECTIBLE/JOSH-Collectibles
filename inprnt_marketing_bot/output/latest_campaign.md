@@ -1,84 +1,82 @@
-# 🎨 Marketing Campaign: JOSH1-217: 7 Stars
+# 🎨 Marketing Campaign: JOSH1-199: Overlooker
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-217-7-stars/](https://www.inprnt.com/gallery/joshuadenouden/josh1-217-7-stars/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-199-overlooker/](https://www.inprnt.com/gallery/joshuadenouden/josh1-199-overlooker/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
+**Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1-217: 7 Stars](https://cdn.inprnt.com/thumbs/d1/cd/d1cd7909dceed57fcb65c2d21e4ea558.jpg)
+![JOSH1-199: Overlooker](https://cdn.inprnt.com/thumbs/e7/79/e77989f9b6ddd2d5be21998604d42065.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1-217: 7 Stars | Archival Brutalist Photography & Fine Art Print by JOSH SHOOT`
-- **Board:** `Architectural Photography & Brutalist Art Prints`
+- **Title:** `JOSH1-199: Overlooker | JOSH¹ Archive Brutalist Photography & Phygital Art Print`
+- **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-An exploration of architectural geometry and kinetic stillness. 'JOSH1-217: 7 Stars' by JOSH SHOOT (JOSHSHOOT.SOL) translates brutalist urban space and chromatic depth into museum-grade physical permanence. Bridging on-chain provenance with tactile materiality, each print is rendered on 100% cotton rag archival paper with pigment inks via INPRNT. Curated pricing: $12.00 (20% OFF Limited Archival Release). Available in Gallery Art Prints, Canvas, Acrylic, and Custom Framed editions. Explore contemporary architectural photography for luxury interiors and collectors. On-chain verification: JOSHSHOOT.SOL | https://www.inprnt.com/gallery/joshuadenouden/josh1-217-7-stars/ • #PhygitalArt #ArchitecturalPhotography #BrutalistArchitecture #FineArtPrint #JOSHSHOOTPRINTS #WallArtDecor #ContemporaryPhotography #MinimalistArt #INPRNT #ArtCollector
+This is a Common rarity asset in the JOSH¹ Archive ('JOSH1-199: Overlooker'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery-quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Rendered on 100% cotton rag archival paper with pigment inks via INPRNT. Collect the archive & explore global shipping: joshuadenouden21-hiuos.wordpress.com | https://www.inprnt.com/gallery/joshuadenouden/josh1-199-overlooker/ • #PhygitalArt #SolanaNFT #Industrial #BrutalistArchitecture #ArchitecturalPhotography #FineArtPrint #JOSHSHOOTPRINTS #WallArtDecor #INPRNT #ArtCollector
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-JOSHSHOOT PRINTS • ARCHIVAL RELEASE
+「 JOSH1-199: Overlooker 」
 
-🏛️ "JOSH1-217: 7 Stars" — JOSH SHOOT (JOSHSHOOT.SOL)
+This is a Common rarity asset in the JOSH¹ Archive. Exclusively Available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance and a Gallery-Quality physical print.
 
-Where on-chain provenance meets brutalist materiality. Architectural geometry captured in museum-grade physical permanence.
+Collect the archive & explore global shipping via INPRNT [joshuadenouden21-hiuos.wordpress.com]
 
-✦ Edition Spec: 100% Cotton Rag Archival Print
-✦ Collector Pricing: $12.00 (20% OFF)
+📸 iPhone 12 / Archival Capture
+📍 Rotterdam (RTM) 🇳🇱
+💎 Rarity: Common
+🔗 https://www.inprnt.com/gallery/joshuadenouden/josh1-199-overlooker/
 
-🔗 Acquire Physical Print: https://www.inprnt.com/gallery/joshuadenouden/josh1-217-7-stars/
-⚡ On-Chain Archive: JOSHSHOOT.SOL
-
-#PhygitalArt #SolanaArt #ArtCollector #ArchitecturalPhotography
+#PhygitalArt #SolanaNFT #Industrial #SolanaArt
 ```
 
-## 📸 Instagram / TikTok Caption
+## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
+> **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (How to boost algorithmic reach):
+• Slide 1: High-res full photograph ('JOSH1-199: Overlooker')
+• Slide 2: Zoomed-in crop showing the 100% cotton rag paper texture / brutalist details
+• Slide 3: On-chain provenance graphic showing '💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL'
+
 ```text
-JOSHSHOOT PRINTS // THE PHYGITAL MONOLITH
+JOSH1-199: Overlooker
 
-「 JOSH1-217: 7 Stars 」
-Architectural Photography & Archival Fine Art by JOSH SHOOT (JOSHSHOOT.SOL)
+This is a Common rarity asset in the JOSH¹ Archive. Exclusively Available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance and a Gallery-Quality physical print.
 
-An inquiry into brutalist geometry, urban movement, and tactile permanence. Here, the fleeting moments of architectural choreography are frozen into archival museum-grade tangibility.
+Collect the archive & explore global shipping via INPRNT [joshuadenouden21-hiuos.wordpress.com]
+📸 iPhone 12 / Archival Capture
+📍 Rotterdam (RTM) 🇳🇱
+💎 Rarity: Common
 
-CURATORIAL SPECIFICATIONS:
-━ Physical Medium: 100% Cotton Rag Archival Fine Art Paper
-━ Provenance: On-chain digital archive (JOSHSHOOT.SOL) &rarr; INPRNT Physical Release
-━ Available Editions: Standard Print, Gallery Canvas, Acrylic Monolith, Custom Framed
-━ Current Collector Pricing: $12.00 (20% OFF Limited Archival Release)
-━ Worldwide Shipping & Packaging via INPRNT
-
-🔗 Acquire the physical edition via link in bio or directly:
-https://www.inprnt.com/gallery/joshuadenouden/josh1-217-7-stars/
-
-⚡ Verified On-Chain Identity: JOSHSHOOT.SOL
+🔗 Link in bio to explore the gallery release (https://www.inprnt.com/gallery/joshuadenouden/josh1-199-overlooker/)
 
 .
 .
 .
-#joshshoot #joshshootprints #joshshoot_sol #inprnt #fineartphotography #architecturalphotography #brutalistarchitecture #phygitalart #onchainart #solanaart #contemporarycollector #archivalprint #urbangeometry #artcurator #minimalistphotography
+#PhygitalArt #Industrial #SolanaNFT #joshshoot #joshshoot_sol #inprnt #fineartphotography #architecturalphotography #brutalistarchitecture #onchainart #solanaart #contemporarycollector #archivalprint #urbangeometry #artcurator
 ```
 
-## 🔴 Reddit Artist Showcase
-- **Suggested Title:** `[FOR SALE] "JOSH1-217: 7 Stars" — Archival Brutalist Photography & Fine Art Print by JOSH SHOOT (JOSHSHOOT.SOL) | $12.00 (20% OFF on INPRNT)`
-- **Target Subreddits:** r/Artstore, r/artprints, r/photographicprints, r/artcollectors, r/streetphotography
-- **Post Body:**
+## 📂 GitHub Archive Journal (README & Releases Feature)
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1-199: Overlooker`
+- **Markdown Block:**
 ```markdown
-### Curatorial Release: "JOSH1-217: 7 Stars" by JOSH SHOOT (`JOSHSHOOT.SOL`)
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1-199: Overlooker"
 
-Hello everyone in the collector community. I'm sharing an archival photographic release from my studio and on-chain catalog: **"JOSH1-217: 7 Stars"**.
+<p align="center">
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-199-overlooker/"><img src="https://cdn.inprnt.com/thumbs/e7/79/e77989f9b6ddd2d5be21998604d42065.jpg" alt="JOSH1-199: Overlooker" width="600" /></a>
+</p>
 
-#### 🏛️ Editorial & Artistic Focus
-My practice as **JOSH SHOOT** (`JOSHSHOOT.SOL`) investigates **architectural geometry, brutalist monoliths, and urban stillness**. Rather than viewing digital and physical art as separate realms, my work bridges the gap between decentralized on-chain archives and physical, museum-grade tangibility.
+> *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) and a Gallery-Quality physical print.*
 
-#### 📐 Physical Print Specifications (INPRNT)
-- **Materiality:** 300gsm 100% cotton rag archival fine-art paper with custom pigment inks for lifetime chromatic preservation.
-- **Available Formats:** Archival Art Prints, Gallery-Wrapped Canvas, Acrylic, Metal Prints, and Custom Framed Editions.
-- **Collector Pricing:** **$12.00** *(20% OFF promotional pricing for the archival release)*.
-- **Provenance & Verification:** Digital origin verified via **JOSHSHOOT.SOL**; physical exhibition print fulfilled via **INPRNT**.
+### 📋 Technical Metadata
+| Asset Classification | Metadata Specification |
+| :--- | :--- |
+| **Title** | `JOSH1-199: Overlooker` |
+| **Rarity Classification** | `💎 Common` |
+| **Capture Device** | `📸 iPhone 12 / Archival Capture` |
+| **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
+| **Physical Medium** | `100% Cotton Rag Archival Print via INPRNT` |
+| **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
+| **On-Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-#### 🔗 Links & Acquisition
-- **Acquire Physical Print on INPRNT:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-217-7-stars/](https://www.inprnt.com/gallery/joshuadenouden/josh1-217-7-stars/)
-- **Browse Complete Archival Gallery:** [https://www.inprnt.com/gallery/joshuadenouden/](https://www.inprnt.com/gallery/joshuadenouden/)
-- **Web3 Provenance & Digital Archive:** `JOSHSHOOT.SOL` | [DRiP Archive](https://drip.haus/josh)
-
-*Thank you to the independent art collectors supporting tangible archival print releases. I welcome any discussions regarding brutalist photography, sizing, or framing.*
+🔗 **[Collect the archive & explore global shipping via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-199-overlooker/)**  
+🌐 **Official Archive:** [https://joshuadenouden21-hiuos.wordpress.com](https://joshuadenouden21-hiuos.wordpress.com)
 ```

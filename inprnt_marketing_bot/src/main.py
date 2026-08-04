@@ -1,7 +1,7 @@
 """
 Main CLI entrypoint for INPRNT Marketing Bot.
-Produces JOSHSHOOT PRINTS avant-garde editorial campaigns, visual HTML dashboards,
-and zero-cost GitHub Actions cloud automation.
+Produces JOSH¹ Archive technical metadata campaigns, visual HTML dashboards,
+and zero-cost GitHub Actions cloud automation with Instagram Direct Posting support.
 """
 
 import os
@@ -16,6 +16,7 @@ from src.scraper import InprntScraper
 from src.content_generator import ContentGenerator
 from src.storage import HistoryManager
 from src.notifier import Notifier
+from src.instagram_bot import InstagramGraphAPI
 
 def load_config(config_path: str = "config.yaml") -> Dict[str, Any]:
     """Loads YAML configuration file."""
@@ -27,14 +28,15 @@ def load_config(config_path: str = "config.yaml") -> Dict[str, Any]:
 
 def generate_html_report(campaigns: List[Dict[str, Any]], title: str, output_path: str, config: Dict[str, Any]) -> None:
     """
-    Generates a standalone, JOSHSHOOT PRINTS luxury editorial styled HTML dashboard
+    Generates a standalone, JOSH¹ Archive luxury editorial styled HTML dashboard
     with inline CSS, on-chain identity links (JOSHSHOOT.SOL), and copy buttons.
     """
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     artist_name = config.get("artist", {}).get("name", "JOSH SHOOT")
     sol_domain = config.get("artist", {}).get("solana_domain", "JOSHSHOOT.SOL")
+    domain = config.get("artist", {}).get("domain", "joshuadenouden21-hiuos.wordpress.com")
     drip_url = config.get("artist", {}).get("drip_url", "https://drip.haus/josh")
-    twitter_handle = config.get("artist", {}).get("twitter_handle", "@joshuadenouden")
+    twitter_handle = config.get("artist", {}).get("twitter_handle", "@Joshtakesphoto")
     shop_url = config.get("artist", {}).get("gallery_url", "https://www.inprnt.com/gallery/joshuadenouden/")
 
     cards_html = []
@@ -43,20 +45,25 @@ def generate_html_report(campaigns: List[Dict[str, Any]], title: str, output_pat
         art_img = camp.get("artwork_image", "")
         art_url = camp.get("artwork_url", "")
         price = camp.get("price", "$12.00")
+        rarity = camp.get("rarity", "Common")
+        location = camp.get("location", "Rotterdam (RTM) 🇳🇱")
+        device = camp.get("device", "iPhone 12")
+
         pin = camp.get("pinterest", {})
         twitter = camp.get("twitter_bluesky", {})
         ig = camp.get("instagram", {})
-        reddit = camp.get("reddit", {})
+        gh_journal = camp.get("github_journal", {})
 
         card = f"""
         <div class="card" id="artwork-{i}">
           <div class="card-header">
             <img src="{art_img}" alt="{art_title}" class="artwork-thumb" />
             <div class="header-info">
-              <div class="meta-tag">ARCHIVAL PRINT EDITION // {sol_domain}</div>
+              <div class="meta-tag">JOSH¹ ARCHIVE // 💎 RARITY: {rarity.upper()} &bull; 📍 {location}</div>
               <h2>{art_title}</h2>
               <div class="badge-row">
-                <span class="badge price-badge">{price} &bull; 20% OFF Limited Archival Release</span>
+                <span class="badge price-badge">{price} &bull; 20% OFF Phygital Release</span>
+                <span class="badge device-badge">📸 {device}</span>
                 <a href="{art_url}" target="_blank" class="badge shop-badge">Acquire on INPRNT &rarr;</a>
               </div>
             </div>
@@ -65,8 +72,8 @@ def generate_html_report(campaigns: List[Dict[str, Any]], title: str, output_pat
           <div class="channel-tabs">
             <div class="tab-content">
               <div class="tab-header">
-                <h3>📌 Pinterest Editorial Pin (SEO & Aesthetics)</h3>
-                <span class="platform-note">Optimized for interior decor & art collectors</span>
+                <h3>📌 Pinterest Editorial Pin (Evergreen Organic Traffic)</h3>
+                <span class="platform-note">Optimized for interior decor & architectural collectors</span>
               </div>
               <p><strong>Title:</strong> {pin.get('title')}</p>
               <p><strong>Curated Board:</strong> {pin.get('board')}</p>
@@ -78,35 +85,36 @@ def generate_html_report(campaigns: List[Dict[str, Any]], title: str, output_pat
 
             <div class="tab-content">
               <div class="tab-header">
-                <h3>🐦 Twitter / X & Bluesky (Phygital & Collector Community)</h3>
+                <h3>🐦 Twitter / X & Bluesky (Solana & Web3 Collector Community)</h3>
                 <span class="platform-note">Featuring {sol_domain} &bull; {twitter_handle}</span>
               </div>
               <div class="code-box">
                 <pre id="tw-post-{i}">{twitter.get('short_post')}</pre>
-                <button class="copy-btn" onclick="copyText('tw-post-{i}')">Copy Editorial Post</button>
+                <button class="copy-btn" onclick="copyText('tw-post-{i}')">Copy Web3 Post</button>
               </div>
             </div>
 
             <div class="tab-content">
               <div class="tab-header">
-                <h3>📸 Instagram / Threads / TikTok (Editorial Layout)</h3>
-                <span class="platform-note">Luxury spacing & curatorial specs</span>
+                <h3>📸 Instagram / Threads (Sequential Archive Automation)</h3>
+                <span class="platform-note">Technical metadata & carousel hook</span>
               </div>
+              <p class="carousel-note"><strong>{ig.get('carousel_strategy', '')}</strong></p>
               <div class="code-box">
                 <pre id="ig-post-{i}">{ig.get('caption')}</pre>
-                <button class="copy-btn" onclick="copyText('ig-post-{i}')">Copy Magazine Caption</button>
+                <button class="copy-btn" onclick="copyText('ig-post-{i}')">Copy Caption & Hashtags</button>
               </div>
             </div>
 
             <div class="tab-content">
               <div class="tab-header">
-                <h3>🔴 Reddit Collector Showcase (Artstore / Artcollectors)</h3>
-                <span class="platform-note">Targeting: {', '.join(reddit.get('target_subreddits', []))}</span>
+                <h3>📂 GitHub Archive Journal (README & Releases Feature)</h3>
+                <span class="platform-note">Turn your GitHub repo into an active curatorial catalog!</span>
               </div>
-              <p><strong>Title:</strong> <code>{reddit.get('title')}</code></p>
+              <p><strong>Release Title:</strong> <code>{gh_journal.get('title')}</code></p>
               <div class="code-box">
-                <pre id="rd-post-{i}">{reddit.get('body')}</pre>
-                <button class="copy-btn" onclick="copyText('rd-post-{i}')">Copy Reddit Markdown</button>
+                <pre id="gh-post-{i}">{gh_journal.get('markdown')}</pre>
+                <button class="copy-btn" onclick="copyText('gh-post-{i}')">Copy GitHub Markdown</button>
               </div>
             </div>
           </div>
@@ -254,6 +262,11 @@ def generate_html_report(campaigns: List[Dict[str, Any]], title: str, output_pat
       color: #0f172a;
       border: 1px solid #cbd5e1;
     }}
+    .device-badge {{
+      background: #f8fafc;
+      color: #475569;
+      border: 1px solid #cbd5e1;
+    }}
     .shop-badge {{
       background: var(--primary);
       color: #ffffff;
@@ -288,6 +301,15 @@ def generate_html_report(campaigns: List[Dict[str, Any]], title: str, output_pat
       font-size: 12px;
       color: #64748b;
       font-weight: 600;
+    }}
+    .carousel-note {{
+      font-size: 13px;
+      color: #0f172a;
+      background: #f1f5f9;
+      padding: 10px 14px;
+      border-left: 3px solid #0f172a;
+      margin: 0 0 12px 0;
+      white-space: pre-line;
     }}
     .code-box {{
       position: relative;
@@ -350,15 +372,16 @@ def generate_html_report(campaigns: List[Dict[str, Any]], title: str, output_pat
 <body>
   <div class="container">
     <header>
-      <div class="editorial-tag">JOSHSHOOT PRINTS // The Archive Edition</div>
+      <div class="editorial-tag">JOSH¹ ARCHIVE // Phygital Curation</div>
       <h1>{title}</h1>
       <p class="subtitle">
-        Curated by <strong>{artist_name}</strong> (<code>{sol_domain}</code>) &bull; 
+        Curated by <strong>{artist_name}</strong> (<code>{sol_domain}</code> &bull; <code>{domain}</code>) &bull; 
         Tactile Archival Print Collection on INPRNT
       </p>
       <div class="nav-links">
         <a href="{shop_url}" target="_blank" class="nav-pill primary">INPRNT Gallery</a>
-        <a href="https://solana.com/" target="_blank" class="nav-pill">{sol_domain} (On-Chain Identity)</a>
+        <a href="https://{domain}" target="_blank" class="nav-pill">{domain}</a>
+        <a href="https://solana.com/" target="_blank" class="nav-pill">{sol_domain} (On-Chain)</a>
         <a href="{drip_url}" target="_blank" class="nav-pill">DRiP Archive</a>
         <a href="https://x.com/{twitter_handle.lstrip('@')}" target="_blank" class="nav-pill">Twitter / X ({twitter_handle})</a>
         <a href="https://github.com/JOSHCOLLECTIBLE/JOSH-Collectibles" target="_blank" class="nav-pill">GitHub (JOSHCOLLECTIBLE)</a>
@@ -371,8 +394,8 @@ def generate_html_report(campaigns: List[Dict[str, Any]], title: str, output_pat
 
     <footer>
       <p>
-        <strong>THE JOSH ARCHIVE &bull; {sol_domain}</strong><br/>
-        JOSHSHOOT PRINTS Editorial Copywriting & Marketing Engine &bull; 100% Free Automated GitHub Actions Integration
+        <strong>THE JOSH¹ ARCHIVE &bull; {sol_domain} &bull; {domain}</strong><br/>
+        Phygital Art Copywriting & Curation Engine &bull; 100% Free Automated GitHub Actions Integration
       </p>
     </footer>
   </div>
@@ -381,10 +404,10 @@ def generate_html_report(campaigns: List[Dict[str, Any]], title: str, output_pat
 """
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(html)
-    print(f"[SUCCESS] Generated JOSHSHOOT PRINTS Editorial Visual Report: {output_path}")
+    print(f"[SUCCESS] Generated JOSH¹ Archive Editorial Visual Report: {output_path}")
 
 def main():
-    parser = argparse.ArgumentParser(description="INPRNT Multi-Channel Art Marketing Bot (JOSHSHOOT PRINTS Edition)")
+    parser = argparse.ArgumentParser(description="INPRNT Multi-Channel Art Marketing Bot (JOSH¹ Archive Edition)")
     parser.add_argument(
         "--action",
         choices=["daily-promo", "export-all", "test-webhook"],
@@ -403,7 +426,11 @@ def main():
     scraper = InprntScraper(gallery_url=gallery_url, profile_url=profile_url)
     gen = ContentGenerator(config)
     notifier = Notifier(config)
-    history_mgr = HistoryManager(config.get("output", {}).get("history_file", "output/history.json"))
+    ig_api = InstagramGraphAPI(config)
+    history_mgr = HistoryManager(
+        config.get("output", {}).get("history_file", "output/history.json"),
+        config=config
+    )
 
     if args.action == "test-webhook":
         print("[INFO] Testing webhook alerts...")
@@ -413,10 +440,10 @@ def main():
             "artwork_image": "https://cdn.inprnt.com/thumbs/26/1d/261d1f5e3ef1d545ae2c96efff584c3c.jpg",
             "price": "$12.00",
             "twitter_bluesky": {
-                "short_post": f"JOSHSHOOT PRINTS • ARCHIVAL RELEASE\n\n🏛️ \"JOSH1-222: The Dutch Blue Man\" — {artist_name} ({sol_domain})\n\n✨ 20% OFF on INPRNT!\n🔗 https://www.inprnt.com/gallery/joshuadenouden/josh1-222-the-dutch-blue-man/"
+                "short_post": f"「 JOSH1-222: The Dutch Blue Man 」\n\nThis is a Common rarity asset in the JOSH¹ Archive. Exclusively Available as a Limited Edition Phygital Art piece.\n🔗 https://www.inprnt.com/gallery/joshuadenouden/josh1-222-the-dutch-blue-man/"
             },
             "pinterest": {
-                "title": f"JOSH1-222: The Dutch Blue Man | Archival Fine Art Print — {artist_name} ({sol_domain})"
+                "title": f"JOSH1-222: The Dutch Blue Man | JOSH¹ Archive Brutalist Photography"
             }
         }
         notifier.notify_discord(dummy_campaign)
@@ -424,13 +451,14 @@ def main():
         return
 
     print(f"============================================================")
-    print(f"🏛️  JOSHSHOOT PRINTS EDITORIAL MARKETING ENGINE - {artist_name} ({sol_domain})")
+    print(f"🏛️  JOSH¹ ARCHIVE PHYGITAL MARKETING ENGINE - {artist_name} ({sol_domain})")
     print(f"   Target Shop: {gallery_url}")
     print(f"   Action: {args.action}")
     print(f"============================================================")
 
-    prints = scraper.scrape_gallery_prints()
-    print(f"[INFO] Scraped {len(prints)} artwork prints from gallery.")
+    use_cache_flag = (args.action != "export-all")
+    prints = scraper.scrape_gallery_prints(use_cache=use_cache_flag)
+    print(f"[INFO] Loaded {len(prints)} artwork prints from gallery/cache.")
     if not prints:
         print("[ERROR] No prints found! Please check shop URL or connectivity.")
         sys.exit(1)
@@ -446,7 +474,7 @@ def main():
         # Generate single HTML report
         generate_html_report(
             [campaign],
-            f"JOSHSHOOT PRINTS Curation — {campaign.get('artwork_title')}",
+            f"JOSH¹ Archive Curation — {campaign.get('artwork_title')}",
             "output/latest_campaign_report.html",
             config
         )
@@ -458,10 +486,18 @@ def main():
         notifier.notify_discord(campaign)
         notifier.notify_telegram(campaign)
 
-        print(f"\n✅ Daily editorial promotion successfully completed for: {artwork.get('title')}")
+        # Execute Official Instagram Graph API Direct Post if configured in GitHub Secrets
+        if ig_api.is_configured():
+            print("[INFO] INSTAGRAM_ACCESS_TOKEN detected. Publishing directly to @joshuadenouden feed...")
+            ig_api.publish_photo(
+                image_url=campaign.get("artwork_image", ""),
+                caption=campaign.get("instagram", {}).get("caption", "")
+            )
+
+        print(f"\n✅ Daily JOSH¹ Archive promotion successfully completed for: {artwork.get('title')}")
 
     elif args.action == "export-all":
-        print(f"[INFO] Generating JOSHSHOOT PRINTS editorial marketing campaigns for ALL {len(prints)} prints...")
+        print(f"[INFO] Generating JOSH¹ Archive Phygital campaigns for ALL {len(prints)} prints...")
         all_campaigns = []
         for art in prints:
             camp = gen.generate_campaign(art)
@@ -471,7 +507,7 @@ def main():
         json_path = "output/all_campaigns.json"
         with open(json_path, "w", encoding="utf-8") as f:
             json.dump(all_campaigns, f, indent=2, ensure_ascii=False)
-        print(f"[SUCCESS] Saved full editorial campaign data to {json_path}")
+        print(f"[SUCCESS] Saved full campaign data to {json_path}")
 
         # Save CSV Queue
         notifier.export_pinterest_csv_queue(all_campaigns, "output/pinterest_bulk_queue.csv")
@@ -479,12 +515,12 @@ def main():
         # Save HTML Dashboard
         generate_html_report(
             all_campaigns,
-            f"{artist_name} ({sol_domain}) — Complete JOSHSHOOT PRINTS Editorial Catalog",
+            f"{artist_name} ({sol_domain}) — Complete JOSH¹ Archive Catalog ({len(all_campaigns)} Prints)",
             "output/full_campaign_dashboard.html",
             config
         )
 
-        print(f"\n✅ Full JOSHSHOOT PRINTS editorial catalog campaign export completed! Checked {len(all_campaigns)} artworks.")
+        print(f"\n✅ Full JOSH¹ Archive catalog campaign export completed! Checked {len(all_campaigns)} artworks.")
 
 if __name__ == "__main__":
     main()

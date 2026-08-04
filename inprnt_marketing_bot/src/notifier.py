@@ -38,13 +38,13 @@ class Notifier:
         pin_title = campaign.get("pinterest", {}).get("title", "")
 
         payload = {
-            "username": "INPRNT Art Marketing Bot",
+            "username": "JOSH¹ Archive Marketing Bot",
             "avatar_url": "https://cdn.inprnt.com/thumbs/26/1d/261d1f5e3ef1d545ae2c96efff584c3c.jpg",
             "embeds": [
                 {
-                    "title": f"🎨 Today's Art Promotion: {title}",
+                    "title": f"🎨 JOSH¹ Archive Promotion: {title}",
                     "url": url,
-                    "color": 2450411, # Blue (#2563eb)
+                    "color": 2450411,
                     "description": f"**Current Price:** {price} (20% OFF)\nHere is your ready-to-post copy for today's promotion!",
                     "image": {"url": img_url} if img_url else {},
                     "fields": [
@@ -93,12 +93,12 @@ class Notifier:
         short_post = campaign.get("twitter_bluesky", {}).get("short_post", "")
 
         api_url = f"https://api.telegram.org/bot{bot_token}/sendPhoto"
-        caption = f"🎨 **Today's Art Promotion: {title}**\n\n{short_post}"
+        caption = f"🎨 **JOSH¹ Archive Promotion: {title}**\n\n{short_post}"
 
         payload = {
             "chat_id": chat_id,
             "photo": img_url,
-            "caption": caption[:1020], # Telegram limit
+            "caption": caption[:1020],
             "parse_mode": "Markdown"
         }
 
@@ -127,11 +127,11 @@ class Notifier:
                 writer.writerow([
                     pin.get("title", ""),
                     camp.get("artwork_image", ""),
-                    pin.get("board", "Fine Art Prints"),
+                    pin.get("board", "JOSH¹ Archive // Phygital Photography Prints"),
                     camp.get("artwork_image", ""),
                     pin.get("description", ""),
                     pin.get("link", camp.get("artwork_url", "")),
-                    "", # Leave date blank for immediate / default queue
+                    "",
                     pin.get("hashtags", "")
                 ])
         print(f"[SUCCESS] Exported Pinterest Bulk Queue CSV: {output_path}")
@@ -151,7 +151,8 @@ class Notifier:
         with open(md_path, "w", encoding="utf-8") as f:
             f.write(f"# 🎨 Marketing Campaign: {campaign.get('artwork_title')}\n\n")
             f.write(f"**Artwork URL:** [{campaign.get('artwork_url')}]({campaign.get('artwork_url')})\n")
-            f.write(f"**Current Price:** {campaign.get('price')} ({campaign.get('discount_note')})\n\n")
+            f.write(f"**Current Price:** {campaign.get('price')} ({campaign.get('discount_note')})\n")
+            f.write(f"**Rarity:** `💎 {campaign.get('rarity', 'Common')}` | **Origin:** `📍 {campaign.get('location', 'Rotterdam (RTM)')}` | **Device:** `📸 {campaign.get('device', 'iPhone 12')}`\n\n")
             f.write(f"![{campaign.get('artwork_title')}]({campaign.get('artwork_image')})\n\n")
             
             f.write("## 📌 Pinterest Pin Copy\n")
@@ -162,12 +163,12 @@ class Notifier:
             f.write("## 🐦 Twitter / X & Bluesky Post\n")
             f.write(f"```text\n{campaign.get('twitter_bluesky', {}).get('short_post')}\n```\n\n")
 
-            f.write("## 📸 Instagram / TikTok Caption\n")
+            f.write("## 📸 Instagram / Threads (Stagnant Account Revival Strategy)\n")
+            f.write(f"> **Carousel Note:** {campaign.get('instagram', {}).get('carousel_strategy', '')}\n\n")
             f.write(f"```text\n{campaign.get('instagram', {}).get('caption')}\n```\n\n")
 
-            f.write("## 🔴 Reddit Artist Showcase\n")
-            f.write(f"- **Suggested Title:** `{campaign.get('reddit', {}).get('title')}`\n")
-            f.write(f"- **Target Subreddits:** {', '.join(campaign.get('reddit', {}).get('target_subreddits', []))}\n")
-            f.write(f"- **Post Body:**\n```markdown\n{campaign.get('reddit', {}).get('body')}\n```\n")
+            f.write("## 📂 GitHub Archive Journal (README & Releases Feature)\n")
+            f.write(f"- **Suggested Title:** `{campaign.get('github_journal', {}).get('title')}`\n")
+            f.write(f"- **Markdown Block:**\n```markdown\n{campaign.get('github_journal', {}).get('markdown')}\n```\n")
         
         print(f"[SUCCESS] Saved daily campaign artifacts to {output_dir}/")

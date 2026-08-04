@@ -1,10 +1,12 @@
 """
 JOSHSHOOT PRINTS Artist Profile & Gallery Scraper Module.
 Extracts artwork titles, prices, discount badges, high-resolution preview images,
-and direct links. Includes cloud-resilience fallback catalog for GitHub Actions.
+and direct links. Paginates across all 20+ gallery pages to capture ALL 220+ prints!
 """
 
+import os
 import re
+import json
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
@@ -19,8 +21,7 @@ DEFAULT_HEADERS = {
     "Accept-Language": "en-US,en;q=0.5",
 }
 
-# Built-in fallback catalog of JOSH SHOOT artworks to ensure 100% reliability
-# even if Cloudflare or CDN rate limits block cloud datacenter requests.
+# Sample built-in fallback items if network is offline
 FALLBACK_CATALOG = [
     {
         "id": "josh1-222-the-dutch-blue-man",
@@ -33,124 +34,25 @@ FALLBACK_CATALOG = [
         "tags": ["phygital art", "street photography", "archival print", "inprnt", "brutalism", "fine art"]
     },
     {
-        "id": "josh1-221-i-think-56-nights-crazy",
-        "title": "JOSH1-221: I Think 56 Nights Crazy",
-        "slug": "josh1-221-i-think-56-nights-crazy",
-        "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-221-i-think-56-nights-crazy/",
-        "image_url": "https://cdn.inprnt.com/thumbs/ed/f3/edf3621d6449d3c63836639747d60c6d.jpg",
+        "id": "josh1-198-kps-window",
+        "title": "JOSH1 198: KP's Window 🇳🇱",
+        "slug": "josh1-198-kps-window",
+        "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-198-kps-window/",
+        "image_url": "https://cdn.inprnt.com/thumbs/26/1d/261d1f5e3ef1d545ae2c96efff584c3c.jpg",
         "price": "$12.00",
         "discount_note": "20% OFF Limited Archival Release ($12.00 regular $15.00)",
-        "tags": ["phygital art", "night photography", "archival print", "inprnt", "fine art"]
-    },
-    {
-        "id": "josh1-220-the-mall-of-asia",
-        "title": "JOSH1-220: The Mall of Asia",
-        "slug": "josh1-220-the-mall-of-asia",
-        "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-220-the-mall-of-asia/",
-        "image_url": "https://cdn.inprnt.com/thumbs/01/3c/013c167b4f6b2d6b20c08f3c7b36975b.jpg",
-        "price": "$12.00",
-        "discount_note": "20% OFF Limited Archival Release ($12.00 regular $15.00)",
-        "tags": ["phygital art", "urban landscape", "architecture", "inprnt", "fine art"]
-    },
-    {
-        "id": "josh1-219-36-hours-in-turkey",
-        "title": "JOSH1-219: 36 hours in Turkey",
-        "slug": "josh1-219-36-hours-in-turkey",
-        "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-219-36-hours-in-turkey/",
-        "image_url": "https://cdn.inprnt.com/thumbs/1b/7f/1b7f10e3b0551cc6be92d115fef4af94.jpg",
-        "price": "$12.00",
-        "discount_note": "20% OFF Limited Archival Release ($12.00 regular $15.00)",
-        "tags": ["phygital art", "travel photography", "archival print", "inprnt", "fine art"]
-    },
-    {
-        "id": "josh1-218-no-swimming",
-        "title": "JOSH1-218: No Swimming",
-        "slug": "josh1-218-no-swimming",
-        "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-218-no-swimming/",
-        "image_url": "https://cdn.inprnt.com/thumbs/a8/1e/a81e75c8e9f92a84e0a61bff0b6f26b3.jpg",
-        "price": "$12.00",
-        "discount_note": "20% OFF Limited Archival Release ($12.00 regular $15.00)",
-        "tags": ["phygital art", "street photography", "minimalism", "inprnt", "fine art"]
-    },
-    {
-        "id": "josh1-217-7-stars",
-        "title": "JOSH1-217: 7 Stars",
-        "slug": "josh1-217-7-stars",
-        "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-217-7-stars/",
-        "image_url": "https://cdn.inprnt.com/thumbs/d1/cd/d1cd7909dceed57fcb65c2d21e4ea558.jpg",
-        "price": "$12.00",
-        "discount_note": "20% OFF Limited Archival Release ($12.00 regular $15.00)",
-        "tags": ["phygital art", "night photography", "archival print", "inprnt", "fine art"]
-    },
-    {
-        "id": "josh1-216-numb",
-        "title": "JOSH1-216: Numb",
-        "slug": "josh1-216-numb",
-        "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-216-numb/",
-        "image_url": "https://cdn.inprnt.com/thumbs/07/79/077952a83aaccf2bb4f3043c31559ecd.jpg",
-        "price": "$12.00",
-        "discount_note": "20% OFF Limited Archival Release ($12.00 regular $15.00)",
-        "tags": ["phygital art", "street photography", "archival print", "inprnt", "fine art"]
-    },
-    {
-        "id": "josh1-215-run-run",
-        "title": "JOSH1-215: Run Run",
-        "slug": "josh1-215-run-run",
-        "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-215-run-run/",
-        "image_url": "https://cdn.inprnt.com/thumbs/79/a6/79a621d0bc656022eddabba0423aa7d9.jpg",
-        "price": "$12.00",
-        "discount_note": "20% OFF Limited Archival Release ($12.00 regular $15.00)",
-        "tags": ["phygital art", "urban photography", "archival print", "inprnt", "fine art"]
-    },
-    {
-        "id": "josh1-214-navy-red-white-blue",
-        "title": "JOSH1-214: Navy Red, White, Blue ...",
-        "slug": "josh1-214-navy-red-white-blue",
-        "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-214-navy-red-white-blue/",
-        "image_url": "https://cdn.inprnt.com/thumbs/d5/80/d5806d4552c046d17442b4740c7400fd.jpg",
-        "price": "$12.00",
-        "discount_note": "20% OFF Limited Archival Release ($12.00 regular $15.00)",
-        "tags": ["phygital art", "color photography", "archival print", "inprnt", "fine art"]
-    },
-    {
-        "id": "josh1-213-stay-cool",
-        "title": "JOSH1-213: Stay Cool",
-        "slug": "josh1-213-stay-cool",
-        "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-213-stay-cool/",
-        "image_url": "https://cdn.inprnt.com/thumbs/30/f2/30f21b3317f3f7cfe76cd1ceb32cbbc1.jpg",
-        "price": "$12.00",
-        "discount_note": "20% OFF Limited Archival Release ($12.00 regular $15.00)",
-        "tags": ["phygital art", "street photography", "archival print", "inprnt", "fine art"]
-    },
-    {
-        "id": "josh1-212-filipino-brutalism-2",
-        "title": "JOSH1-212: Filipino Brutalism 2",
-        "slug": "josh1-212-filipino-brutalism-2",
-        "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-212-filipino-brutalism-2/",
-        "image_url": "https://cdn.inprnt.com/thumbs/1a/4d/1a4d8e8ef285294b8268208eae4e7e88.jpg",
-        "price": "$12.00",
-        "discount_note": "20% OFF Limited Archival Release ($12.00 regular $15.00)",
-        "tags": ["phygital art", "brutalism", "architecture", "inprnt", "fine art"]
-    },
-    {
-        "id": "josh1-211-keep-distance",
-        "title": "JOSH1-211: Keep Distance",
-        "slug": "josh1-211-keep-distance",
-        "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-211-keep-distance/",
-        "image_url": "https://cdn.inprnt.com/thumbs/58/56/585662475c8b1396049b52e2df8798dd.jpg",
-        "price": "$12.00",
-        "discount_note": "20% OFF Limited Archival Release ($12.00 regular $15.00)",
-        "tags": ["phygital art", "urban photography", "archival print", "inprnt", "fine art"]
+        "tags": ["phygital art", "rotterdam", "archival print", "inprnt", "fine art"]
     }
 ]
 
 class InprntScraper:
-    """Scrapes INPRNT profile and gallery pages for artwork details with cloud fallback."""
+    """Scrapes all paginated INPRNT gallery pages to collect all 220+ artwork prints."""
 
     def __init__(self, gallery_url: str, profile_url: Optional[str] = None, timeout: int = 15):
         self.gallery_url = gallery_url.rstrip("/") + "/"
         self.profile_url = (profile_url or gallery_url).rstrip("/") + "/"
         self.timeout = timeout
+        self.cache_path = "output/all_prints_cache.json"
 
     def fetch_page(self, url: str) -> BeautifulSoup:
         """Fetches a URL and returns a BeautifulSoup object."""
@@ -162,7 +64,7 @@ class InprntScraper:
         """Scrapes artist biographical summary and name from the profile page."""
         artist_info = {
             "name": "JOSH SHOOT",
-            "bio": "Creator of The JOSH Archive. Avant-garde architectural photography and Phygital fine art, bridging on-chain provenance (JOSHSHOOT.SOL) with tactile archival materiality.",
+            "bio": "Creator of The JOSH Archive. On-chain Photography & Phygital Fine Art. Bridging Solana Blockchain provenance and Gallery-Quality physical prints.",
             "avatar_url": ""
         }
         try:
@@ -171,88 +73,131 @@ class InprntScraper:
             heading = soup.find(["h1", "h2"])
             if heading and "Profile for" in heading.text:
                 artist_info["name"] = heading.text.replace("Profile for", "").strip()
-            for p in soup.find_all("p"):
-                text = p.text.strip()
-                if len(text) > 40 and ("curated artist" in text.lower() or "specializing" in text.lower() or "phygital" in text.lower()):
-                    artist_info["bio"] = text
-                    break
         except Exception as e:
-            print(f"[INFO] Using fallback artist bio ({e})")
+            print(f"[INFO] Using default artist bio ({e})")
         return artist_info
 
-    def scrape_gallery_prints(self) -> List[Dict[str, Any]]:
+    def scrape_gallery_prints(self, max_pages: int = 25, use_cache: bool = True) -> List[Dict[str, Any]]:
         """
-        Scrapes all artwork prints listed on the artist's gallery page.
-        Falls back automatically to the built-in catalog if network/CDN errors occur.
+        Scrapes all artworks across all paginated gallery pages (?page=1 to ?page=25).
+        Caches the complete list to output/all_prints_cache.json for fast daily runs.
         """
-        try:
-            soup = self.fetch_page(self.gallery_url)
-            prints_map: Dict[str, Dict[str, Any]] = {}
+        # If running a fast daily check and cache exists with >50 prints, load cache and merge page 1
+        if use_cache and os.path.exists(self.cache_path):
+            try:
+                with open(self.cache_path, "r", encoding="utf-8") as f:
+                    cached_prints = json.load(f)
+                    if len(cached_prints) > 50:
+                        # Scrape only page 1 for any new releases
+                        page1_prints = self._scrape_single_page(self.gallery_url)
+                        merged = {p["id"]: p for p in cached_prints}
+                        for p in page1_prints:
+                            merged[p["id"]] = p
+                        result = list(merged.values())
+                        self._save_cache(result)
+                        return result
+            except Exception as e:
+                print(f"[INFO] Could not read cache ({e}), performing full paginated scrape.")
 
-            for a_tag in soup.find_all("a", href=True):
-                href = a_tag["href"]
-                if "/gallery/" not in href:
-                    continue
+        prints_map: Dict[str, Dict[str, Any]] = {}
+        for page_num in range(1, max_pages + 1):
+            url = f"{self.gallery_url}?page={page_num}" if page_num > 1 else self.gallery_url
+            try:
+                page_prints = self._scrape_single_page(url)
+                if not page_prints:
+                    break  # Reached last page
+                added_count = 0
+                for p in page_prints:
+                    if p["id"] not in prints_map:
+                        prints_map[p["id"]] = p
+                        added_count += 1
+                print(f"[INFO] Scraped Gallery Page {page_num}: found {len(page_prints)} items (Total unique: {len(prints_map)})")
+                if added_count == 0 and page_num > 1:
+                    break
+            except Exception as e:
+                print(f"[INFO] Stopped pagination at page {page_num} ({e})")
+                break
 
-                parts = [p for p in href.strip("/").split("/") if p]
-                if len(parts) < 3 or parts[0] != "gallery" or parts[1] != "joshuadenouden":
-                    continue
-
-                slug = parts[2]
-                if slug in ("joshuadenouden", "gallery", "accounts", "login") or "?" in slug:
-                    continue
-
-                full_url = urljoin("https://www.inprnt.com", href)
-
-                img_tag = a_tag.find("img")
-                if not img_tag:
-                    parent = a_tag.find_parent(["div", "li", "article"])
-                    if parent:
-                        img_tag = parent.find("img")
-
-                image_url = ""
-                raw_title = ""
-                if img_tag:
-                    image_url = img_tag.get("src", "") or img_tag.get("data-src", "")
-                    raw_title = img_tag.get("alt", "")
-
-                if not raw_title:
-                    raw_title = a_tag.text.strip()
-                    if not raw_title:
-                        raw_title = slug.replace("-", " ").title()
-
-                clean_title = re.sub(r"\s+by\s+.*$", "", raw_title, flags=re.IGNORECASE).strip()
-
-                price_text = "$12.00"
-                discount_text = "20% OFF Limited Archival Release ($12.00 regular $15.00)"
-                parent = a_tag.find_parent(["div", "li", "article", "section"])
-                if parent:
-                    text_content = parent.get_text(separator=" | ", strip=True)
-                    price_matches = re.findall(r"\$\d+(?:\.\d{2})?", text_content)
-                    if price_matches:
-                        price_text = price_matches[-1]
-
-                if slug not in prints_map:
-                    prints_map[slug] = {
-                        "id": slug,
-                        "title": clean_title,
-                        "slug": slug,
-                        "url": full_url,
-                        "image_url": image_url,
-                        "price": price_text,
-                        "discount_note": discount_text,
-                        "tags": self._derive_tags_from_title(clean_title)
-                    }
-
-            if len(prints_map) >= 3:
-                return list(prints_map.values())
-            else:
-                print("[INFO] Scraped fewer than 3 items, falling back to built-in JOSH SHOOT catalog.")
-                return FALLBACK_CATALOG
-
-        except Exception as e:
-            print(f"[INFO] Live scrape unreachable ({e}). Using built-in JOSH SHOOT archival catalog.")
+        results = list(prints_map.values())
+        if len(results) >= 3:
+            self._save_cache(results)
+            return results
+        else:
+            if os.path.exists(self.cache_path):
+                with open(self.cache_path, "r", encoding="utf-8") as f:
+                    return json.load(f)
             return FALLBACK_CATALOG
+
+    def _scrape_single_page(self, url: str) -> List[Dict[str, Any]]:
+        """Scrapes artworks listed on a single gallery page."""
+        soup = self.fetch_page(url)
+        page_prints = {}
+
+        for a_tag in soup.find_all("a", href=True):
+            href = a_tag["href"]
+            if "/gallery/" not in href:
+                continue
+
+            parts = [p for p in href.strip("/").split("/") if p]
+            if len(parts) < 3 or parts[0] != "gallery" or parts[1] != "joshuadenouden":
+                continue
+
+            slug = parts[2]
+            if slug in ("joshuadenouden", "gallery", "accounts", "login") or "?" in slug:
+                continue
+
+            full_url = urljoin("https://www.inprnt.com", href)
+
+            img_tag = a_tag.find("img")
+            if not img_tag:
+                parent = a_tag.find_parent(["div", "li", "article"])
+                if parent:
+                    img_tag = parent.find("img")
+
+            image_url = ""
+            raw_title = ""
+            if img_tag:
+                image_url = img_tag.get("src", "") or img_tag.get("data-src", "")
+                raw_title = img_tag.get("alt", "")
+
+            if not raw_title:
+                raw_title = a_tag.text.strip()
+                if not raw_title:
+                    raw_title = slug.replace("-", " ").title()
+
+            clean_title = re.sub(r"\s+by\s+.*$", "", raw_title, flags=re.IGNORECASE).strip()
+
+            price_text = "$12.00"
+            discount_text = "20% OFF Limited Archival Release ($12.00 regular $15.00)"
+            parent = a_tag.find_parent(["div", "li", "article", "section"])
+            if parent:
+                text_content = parent.get_text(separator=" | ", strip=True)
+                price_matches = re.findall(r"\$\d+(?:\.\d{2})?", text_content)
+                if price_matches:
+                    price_text = price_matches[-1]
+
+            if slug not in page_prints:
+                page_prints[slug] = {
+                    "id": slug,
+                    "title": clean_title,
+                    "slug": slug,
+                    "url": full_url,
+                    "image_url": image_url,
+                    "price": price_text,
+                    "discount_note": discount_text,
+                    "tags": self._derive_tags_from_title(clean_title)
+                }
+
+        return list(page_prints.values())
+
+    def _save_cache(self, prints: List[Dict[str, Any]]) -> None:
+        """Saves scraped prints to cache file."""
+        os.makedirs(os.path.dirname(self.cache_path), exist_ok=True)
+        try:
+            with open(self.cache_path, "w", encoding="utf-8") as f:
+                json.dump(prints, f, indent=2, ensure_ascii=False)
+        except Exception as e:
+            print(f"[WARN] Could not save cache ({e})")
 
     def _derive_tags_from_title(self, title: str) -> List[str]:
         """Derives thematic tags from the artwork title and artist style."""

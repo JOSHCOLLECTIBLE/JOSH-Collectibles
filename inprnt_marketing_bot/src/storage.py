@@ -1,18 +1,21 @@
 """
 History and Storage Management Module.
-Tracks previously promoted prints so that daily automated runs cycle through all artworks.
+Tracks previously promoted prints and sequences artworks sequentially
+(e.g., from JOSH1 #197 / #199 onwards) for Instagram automation.
 """
 
 import os
+import re
 import json
 from datetime import datetime
 from typing import List, Dict, Any, Optional
 
 class HistoryManager:
-    """Manages promotion history to prevent repetition and cycle through all artworks."""
+    """Manages promotion history and sequential JOSH¹ Archive numbering."""
 
-    def __init__(self, history_file_path: str = "output/history.json"):
+    def __init__(self, history_file_path: str = "output/history.json", config: Optional[Dict[str, Any]] = None):
         self.history_file_path = history_file_path
+        self.config = config or {}
         self._ensure_directory()
 
     def _ensure_directory(self) -> None:
@@ -45,10 +48,17 @@ class HistoryManager:
         with open(self.history_file_path, "w", encoding="utf-8") as f:
             json.dump(history_data, f, indent=2, ensure_ascii=False)
 
+    def _extract_archive_number(self, title: str) -> int:
+        """Extracts the numeric sequence number from a JOSH¹ title (e.g., JOSH1-199 -> 199)."""
+        match = re.search(r"josh1[- ](\d+)", title, flags=re.IGNORECASE)
+        if match:
+            return int(match.group(1))
+        return 0
+
     def pick_next_artwork(self, artworks: List[Dict[str, Any]]) -> Optional[Dict[str, Any]]:
         """
         Selects the next artwork to promote.
-        Prioritizes artworks that have not been promoted yet, or the oldest promoted artwork.
+        Prioritizes sequential JOSH¹ archive ordering (e.g., from #197 or #199 onwards).
         """
         if not artworks:
             return None
@@ -56,19 +66,41 @@ class HistoryManager:
         history = self.load_history()
         promoted_ids = history.get("promoted_ids", [])
 
-        # Find prints that have NEVER been promoted yet
-        unpromoted = [art for art in artworks if art.get("id") not in promoted_ids]
+        # Sort artworks by their JOSH1-# number
+        promo_config = self.config.get("promotion", {})
+        start_num = int(promo_config.get("start_from_number", 199))
+        direction = promo_config.get("sequence_direction", "ascending").lower()
+
+        sorted_artworks = sorted(
+            artworks,
+            key=lambda a: self._extract_archive_number(a.get("title", "")),
+            reverse=(direction == "descending")
+        )
+
+        # Filter for artworks that meet the starting sequence target
+        eligible = []
+        for art in sorted_artworks:
+            num = self._extract_archive_number(art.get("title", ""))
+            if direction == "descending" and num <= start_num:
+                eligible.append(art)
+            elif direction == "ascending" and num >= start_num:
+                eligible.append(art)
+
+        # If no artworks matched the filter, fallback to all sorted artworks
+        pool = eligible if eligible else sorted_artworks
+
+        # Find the first artwork in sequence that has NOT been promoted yet
+        unpromoted = [art for art in pool if art.get("id") not in promoted_ids]
         if unpromoted:
             return unpromoted[0]
 
-        # If all have been promoted, reset or cycle from the start
-        # Pick the one that was promoted longest ago (first in promoted_ids)
+        # If all in pool have been promoted, pick the oldest promoted one
         for old_id in promoted_ids:
-            for art in artworks:
+            for art in pool:
                 if art.get("id") == old_id:
                     return art
 
-        return artworks[0]
+        return pool[0]
 
     def record_promotion(self, artwork: Dict[str, Any], campaign: Dict[str, Any]) -> None:
         """Records a completed promotion run into history."""
@@ -78,7 +110,7 @@ class HistoryManager:
 
         if art_id in promoted_ids:
             promoted_ids.remove(art_id)
-        promoted_ids.append(art_id) # Move to end of recently promoted
+        promoted_ids.append(art_id)
 
         history["promoted_ids"] = promoted_ids
         history["last_promoted_date"] = datetime.now().isoformat()
@@ -93,7 +125,6 @@ class HistoryManager:
         
         log_list = history.get("history_log", [])
         log_list.append(log_entry)
-        # Keep last 100 log entries
         history["history_log"] = log_list[-100:]
 
         self.save_history(history)

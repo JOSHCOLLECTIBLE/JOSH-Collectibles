@@ -1,82 +1,77 @@
 # ==============================================================================
-# INPRNT MULTI-CHANNEL ART MARKETING BOT - CONFIGURATION
+# THE JOSH¹ ARCHIVE - PHYGITAL ART MARKETING & CURATION CONFIGURATION
 # ==============================================================================
-# Styled after luxury avant-garde editorial copywriting: architectural,
-# high-fashion art curation, bridging on-chain identity (JOSHSHOOT.SOL) & INPRNT.
+# Configured specifically for JOSH SHOOT (Joshua den Ouden)
+# Bridging Solana blockchain provenance (JOSHSHOOT.SOL) & physical INPRNT prints.
 
 artist:
   name: "JOSH SHOOT"
   full_name: "Joshua den Ouden"
+  domain: "joshuadenouden21-hiuos.wordpress.com"
   solana_domain: "JOSHSHOOT.SOL"
   drip_url: "https://drip.haus/josh"
-  twitter_handle: "@joshuadenouden"
+  twitter_handle: "@Joshtakesphoto"
+  instagram_handle: "@joshuadenouden"
   location: "Cairo, Egypt"
   profile_url: "https://www.inprnt.com/profile/joshuadenouden/"
   gallery_url: "https://www.inprnt.com/gallery/joshuadenouden/"
-  bio: "Creator of The JOSH Archive. Avant-garde architectural photography and Phygital fine art, bridging on-chain provenance (JOSHSHOOT.SOL) with tactile archival materiality."
-  style_keywords:
-    - "Phygital Art"
-    - "Architectural Geometry"
-    - "Brutalist Monoliths"
-    - "Archival Permanence"
-    - "Urban Choreography"
-    - "Kinetic Stillness"
-    - "Tactile Provenance"
+  bio: "Creator of The JOSH Archive. On-chain Photography & Phygital Fine Art. Bridging Solana Blockchain provenance and Gallery-Quality physical prints."
+  default_device: "iPhone 12 / Archival Capture"
+  default_rarity: "Common"
 
 promotion:
-  tone: "joshshoot_editorial"  # Elevated, avant-garde gallery curatorial prose
-  default_discount_note: "20% OFF Limited Edition Archival Pricing ($12.00)"
-  call_to_action: "Explore museum-grade archival fine art prints on INPRNT • Verified on-chain via JOSHSHOOT.SOL"
+  tone: "joshshoot_archive"  # Clean, authoritative JOSH¹ Archive curatorial metadata tone
+  start_from_number: 197           # Start sequential focus from JOSH1-#197 downwards to #1
+  sequence_direction: "descending" # "descending" (197 -> 1) or "ascending" (199 -> 222)
+  default_discount_note: "Exclusively Available as a Limited Edition Phygital Art piece ($12.00)"
+  call_to_action: "Collect the archive & explore global shipping via INPRNT [joshuadenouden21-hiuos.wordpress.com]"
   
   hashtags:
     pinterest:
       - "#PhygitalArt"
-      - "#ArchitecturalPhotography"
+      - "#SolanaNFT"
+      - "#Industrial"
       - "#BrutalistArchitecture"
+      - "#ArchitecturalPhotography"
       - "#FineArtPrint"
       - "#JOSHSHOOTPRINTS"
       - "#WallArtDecor"
-      - "#ContemporaryPhotography"
-      - "#MinimalistArt"
       - "#INPRNT"
       - "#ArtCollector"
     twitter_bluesky:
       - "#PhygitalArt"
+      - "#SolanaNFT"
+      - "#Industrial"
       - "#SolanaArt"
-      - "#ArtCollector"
-      - "#ArchitecturalPhotography"
       - "#INPRNT"
-      - "#FineArtPrint"
+      - "#ArtCollector"
     instagram:
+      - "#PhygitalArt"
+      - "#Industrial"
+      - "#SolanaNFT"
       - "#joshshoot"
-      - "#joshshootprints"
       - "#joshshoot_sol"
       - "#inprnt"
       - "#fineartphotography"
       - "#architecturalphotography"
       - "#brutalistarchitecture"
-      - "#phygitalart"
       - "#onchainart"
       - "#solanaart"
       - "#contemporarycollector"
       - "#archivalprint"
       - "#urbangeometry"
       - "#artcurator"
-      - "#minimalistphotography"
-
-  target_subreddits:
-    - "r/Artstore"
-    - "r/artprints"
-    - "r/photographicprints"
-    - "r/artcollectors"
-    - "r/streetphotography"
 
   channels_enabled:
     - "pinterest"
     - "twitter_bluesky"
     - "instagram"
-    - "reddit"
-    - "newsletter"
+    - "github_journal"
+
+instagram_automation:
+  enabled: true
+  # Official Meta Graph API (requires INSTAGRAM_ACCESS_TOKEN and INSTAGRAM_ACCOUNT_ID in GitHub secrets)
+  method: "graph_api"
 
 output:
   directory: "output"
@@ -85,18 +80,3 @@ output:
   save_markdown: true
   save_html_report: true
   save_pinterest_csv: true
-
-notifications:
-  discord_webhook_env: "DISCORD_WEBHOOK_URL"
-  telegram_bot_token_env: "TELEGRAM_BOT_TOKEN"
-  telegram_chat_id_env: "TELEGRAM_CHAT_ID"
-
-social_apis:
-  twitter:
-    api_key_env: "TWITTER_API_KEY"
-    api_secret_env: "TWITTER_API_SECRET"
-    access_token_env: "TWITTER_ACCESS_TOKEN"
-    access_secret_env: "TWITTER_ACCESS_SECRET"
-  bluesky:
-    handle_env: "BLUESKY_HANDLE"
-    password_env: "BLUESKY_PASSWORD"

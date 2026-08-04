@@ -5,9 +5,12 @@
     "josh1-220-the-mall-of-asia",
     "josh1-219-36-hours-in-turkey",
     "josh1-218-no-swimming",
-    "josh1-217-7-stars"
+    "josh1-217-7-stars",
+    "josh1-216-numb",
+    "josh1-215-run-run",
+    "josh1-199-overlooker"
   ],
-  "last_promoted_date": "2026-08-04T07:43:41.625147",
+  "last_promoted_date": "2026-08-04T08:07:52.953357",
   "history_log": [
     {
       "date": "2026-08-04 07:03:39",
@@ -45,11 +48,32 @@
       "image_url": "https://cdn.inprnt.com/thumbs/a8/1e/a81e75c8e9f92a84e0a61bff0b6f26b3.jpg"
     },
     {
-      "date": "2026-08-04 07:43:41",
+      "date": "2026-08-04 07:50:22",
       "artwork_id": "josh1-217-7-stars",
       "title": "JOSH1-217: 7 Stars",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-217-7-stars/",
-      "image_url": "https://cdn.inprnt.com/thumbs/d1/cd/d1cd7909dceed57fcb65c2d21e4ea558.jpg"
+      "image_url": "https://cdn.inprnt.com/thumbs/31/3d/313de86d69c7026bb958264f352f1004.jpg"
+    },
+    {
+      "date": "2026-08-04 07:50:50",
+      "artwork_id": "josh1-216-numb",
+      "title": "JOSH1-216: Numb",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-216-numb/",
+      "image_url": "https://cdn.inprnt.com/thumbs/61/f9/61f987a5f2b3d11017aeb685b4d977ee.jpg"
+    },
+    {
+      "date": "2026-08-04 07:58:43",
+      "artwork_id": "josh1-215-run-run",
+      "title": "JOSH1-215: Run Run",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-215-run-run/",
+      "image_url": "https://cdn.inprnt.com/thumbs/82/f4/82f44630a94ec0612662cd16294c8264.jpg"
+    },
+    {
+      "date": "2026-08-04 08:07:52",
+      "artwork_id": "josh1-199-overlooker",
+      "title": "JOSH1-199: Overlooker",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-199-overlooker/",
+      "image_url": "https://cdn.inprnt.com/thumbs/e7/79/e77989f9b6ddd2d5be21998604d42065.jpg"
     }
   ]
 }
