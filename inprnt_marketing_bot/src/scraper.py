@@ -1,6 +1,6 @@
 """
 JOSHSHOOT PRINTS Artist Profile & Gallery Scraper Module.
-Extracts artwork titles, prices, discount badges, high-resolution preview images,
+Extracts artwork titles, prices, discount badges, high-resolution preview images (@2x 1080p),
 and direct links. Paginates across all 20+ gallery pages to capture ALL 220+ prints!
 """
 
@@ -21,14 +21,13 @@ DEFAULT_HEADERS = {
     "Accept-Language": "en-US,en;q=0.5",
 }
 
-# Sample built-in fallback items if network is offline
 FALLBACK_CATALOG = [
     {
         "id": "josh1-222-the-dutch-blue-man",
         "title": "JOSH1-222: The Dutch Blue Man",
         "slug": "josh1-222-the-dutch-blue-man",
         "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-222-the-dutch-blue-man/",
-        "image_url": "https://cdn.inprnt.com/thumbs/74/b7/74b70fe8f76742d2cf8df9976a8b703a.jpg",
+        "image_url": "https://cdn.inprnt.com/thumbs/74/b7/74b70fe8f76742d2cf8df9976a8b703a@2x.jpg",
         "price": "$12.00",
         "discount_note": "20% OFF Limited Archival Release ($12.00 regular $15.00)",
         "tags": ["phygital art", "street photography", "archival print", "inprnt", "brutalism", "fine art"]
@@ -38,7 +37,7 @@ FALLBACK_CATALOG = [
         "title": "JOSH1 198: KP's Window 🇳🇱",
         "slug": "josh1-198-kps-window",
         "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-198-kps-window/",
-        "image_url": "https://cdn.inprnt.com/thumbs/26/1d/261d1f5e3ef1d545ae2c96efff584c3c.jpg",
+        "image_url": "https://cdn.inprnt.com/thumbs/26/1d/261d1f5e3ef1d545ae2c96efff584c3c@2x.jpg",
         "price": "$12.00",
         "discount_note": "20% OFF Limited Archival Release ($12.00 regular $15.00)",
         "tags": ["phygital art", "rotterdam", "archival print", "inprnt", "fine art"]
@@ -46,13 +45,19 @@ FALLBACK_CATALOG = [
 ]
 
 class InprntScraper:
-    """Scrapes all paginated INPRNT gallery pages to collect all 220+ artwork prints."""
+    """Scrapes all paginated INPRNT gallery pages to collect all 220+ artwork prints in 1080p."""
 
     def __init__(self, gallery_url: str, profile_url: Optional[str] = None, timeout: int = 15):
         self.gallery_url = gallery_url.rstrip("/") + "/"
         self.profile_url = (profile_url or gallery_url).rstrip("/") + "/"
         self.timeout = timeout
         self.cache_path = "output/all_prints_cache.json"
+
+    def _upgrade_to_1080p(self, url: str) -> str:
+        """Instantly converts INPRNT thumbnail URLs to 1080p (@2x) high-resolution format."""
+        if url and "@2x" not in url and "cdn.inprnt.com" in url:
+            return re.sub(r"(\.(?:jpg|png|webp))(?:\?.*)?$", r"@2x\1", url, flags=re.IGNORECASE)
+        return url
 
     def fetch_page(self, url: str) -> BeautifulSoup:
         """Fetches a URL and returns a BeautifulSoup object."""
@@ -80,9 +85,8 @@ class InprntScraper:
     def scrape_gallery_prints(self, max_pages: int = 25, use_cache: bool = True) -> List[Dict[str, Any]]:
         """
         Scrapes all artworks across all paginated gallery pages (?page=1 to ?page=25).
-        Caches the complete list to output/all_prints_cache.json for fast daily runs.
+        Caches the complete list in 1080p to output/all_prints_cache.json for fast daily runs.
         """
-        # If running a fast daily check and cache exists with >50 prints, load cache and merge page 1
         if use_cache and os.path.exists(self.cache_path):
             try:
                 with open(self.cache_path, "r", encoding="utf-8") as f:
@@ -94,6 +98,9 @@ class InprntScraper:
                         for p in page1_prints:
                             merged[p["id"]] = p
                         result = list(merged.values())
+                        # Ensure all cached items have 1080p image URLs
+                        for r in result:
+                            r["image_url"] = self._upgrade_to_1080p(r.get("image_url", ""))
                         self._save_cache(result)
                         return result
             except Exception as e:
@@ -105,7 +112,7 @@ class InprntScraper:
             try:
                 page_prints = self._scrape_single_page(url)
                 if not page_prints:
-                    break  # Reached last page
+                    break
                 added_count = 0
                 for p in page_prints:
                     if p["id"] not in prints_map:
@@ -120,6 +127,8 @@ class InprntScraper:
 
         results = list(prints_map.values())
         if len(results) >= 3:
+            for r in results:
+                r["image_url"] = self._upgrade_to_1080p(r.get("image_url", ""))
             self._save_cache(results)
             return results
         else:
@@ -157,7 +166,8 @@ class InprntScraper:
             image_url = ""
             raw_title = ""
             if img_tag:
-                image_url = img_tag.get("src", "") or img_tag.get("data-src", "")
+                raw_src = img_tag.get("src", "") or img_tag.get("data-src", "")
+                image_url = self._upgrade_to_1080p(raw_src)
                 raw_title = img_tag.get("alt", "")
 
             if not raw_title:

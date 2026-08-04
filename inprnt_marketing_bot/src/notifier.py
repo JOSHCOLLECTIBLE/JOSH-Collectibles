@@ -1,7 +1,7 @@
 """
 Notification and Social API Posting Module.
 Supports Discord Webhooks, Telegram Bot alerts, Pinterest CSV export,
-and optional direct posting to Twitter/X and Bluesky APIs.
+Instagram bulk CSV queue export, and optional direct API posting.
 """
 
 import os
@@ -135,6 +135,30 @@ class Notifier:
                     pin.get("hashtags", "")
                 ])
         print(f"[SUCCESS] Exported Pinterest Bulk Queue CSV: {output_path}")
+
+    def export_instagram_csv_queue(self, campaigns: List[Dict[str, Any]], output_path: str = "output/instagram_queue.csv") -> None:
+        """
+        Exports an Instagram Bulk CSV file ready for Buffer, Later, Metricool,
+        or Meta Business Suite scheduling without needing Meta Developer access!
+        """
+        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+        headers = ["Image URL", "Caption", "Artwork Title", "INPRNT Link", "Rarity", "Origin Origin", "Device"]
+
+        with open(output_path, mode="w", newline="", encoding="utf-8") as f:
+            writer = csv.writer(f)
+            writer.writerow(headers)
+            for camp in campaigns:
+                ig = camp.get("instagram", {})
+                writer.writerow([
+                    camp.get("artwork_image", ""),
+                    ig.get("caption", ""),
+                    camp.get("artwork_title", ""),
+                    camp.get("artwork_url", ""),
+                    camp.get("rarity", "Common"),
+                    camp.get("location", "Rotterdam (RTM)"),
+                    camp.get("device", "iPhone 12 / Archival Capture")
+                ])
+        print(f"[SUCCESS] Exported Instagram Bulk Queue CSV: {output_path}")
 
     def save_campaign_artifacts(self, campaign: Dict[str, Any], output_dir: str = "output") -> None:
         """Saves daily campaign files in JSON and Markdown format."""

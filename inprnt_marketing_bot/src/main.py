@@ -1,14 +1,16 @@
 """
 Main CLI entrypoint for INPRNT Marketing Bot.
 Produces JOSH¹ Archive technical metadata campaigns, visual HTML dashboards,
-and zero-cost GitHub Actions cloud automation with Instagram Direct Posting support.
+and zero-cost GitHub Actions cloud automation with 100% Guaranteed Cache-Busted JPEG URLs!
 """
 
 import os
 import sys
 import json
 import yaml
+import time
 import argparse
+import re
 from typing import Dict, Any, List
 from datetime import datetime
 
@@ -16,7 +18,8 @@ from src.scraper import InprntScraper
 from src.content_generator import ContentGenerator
 from src.storage import HistoryManager
 from src.notifier import Notifier
-from src.instagram_bot import InstagramGraphAPI
+from src.instagram_bot import InstagramAutomator
+from generate_wall_cards import generate_post1_dark_mode_portrait, generate_post2_museum_monograph
 
 def load_config(config_path: str = "config.yaml") -> Dict[str, Any]:
     """Loads YAML configuration file."""
@@ -97,7 +100,7 @@ def generate_html_report(campaigns: List[Dict[str, Any]], title: str, output_pat
             <div class="tab-content">
               <div class="tab-header">
                 <h3>📸 Instagram / Threads (Sequential Archive Automation)</h3>
-                <span class="platform-note">Technical metadata & carousel hook</span>
+                <span class="platform-note">100% AI-Proof Monograph Caption</span>
               </div>
               <p class="carousel-note"><strong>{ig.get('carousel_strategy', '')}</strong></p>
               <div class="code-box">
@@ -410,11 +413,12 @@ def main():
     parser = argparse.ArgumentParser(description="INPRNT Multi-Channel Art Marketing Bot (JOSH¹ Archive Edition)")
     parser.add_argument(
         "--action",
-        choices=["daily-promo", "export-all", "test-webhook"],
+        choices=["daily-promo", "trigger-instagram", "export-all", "test-webhook"],
         default="daily-promo",
-        help="Action to execute: daily-promo (single daily run), export-all (all prints), or test-webhook"
+        help="Action to execute: daily-promo (generate files), trigger-instagram (call Make.com AFTER git push), or export-all"
     )
     parser.add_argument("--config", default="config.yaml", help="Path to config.yaml")
+    parser.add_argument("--no-post", action="store_true", help="Generate and save files without triggering Instagram post")
     args = parser.parse_args()
 
     config = load_config(args.config)
@@ -426,7 +430,7 @@ def main():
     scraper = InprntScraper(gallery_url=gallery_url, profile_url=profile_url)
     gen = ContentGenerator(config)
     notifier = Notifier(config)
-    ig_api = InstagramGraphAPI(config)
+    ig_automator = InstagramAutomator(config)
     history_mgr = HistoryManager(
         config.get("output", {}).get("history_file", "output/history.json"),
         config=config
@@ -435,15 +439,15 @@ def main():
     if args.action == "test-webhook":
         print("[INFO] Testing webhook alerts...")
         dummy_campaign = {
-            "artwork_title": "JOSH1-222: The Dutch Blue Man",
+            "artwork_title": "JOSH1 222 • The Dutch Blue Man",
             "artwork_url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-222-the-dutch-blue-man/",
-            "artwork_image": "https://cdn.inprnt.com/thumbs/26/1d/261d1f5e3ef1d545ae2c96efff584c3c.jpg",
+            "artwork_image": "https://cdn.inprnt.com/thumbs/26/1d/261d1f5e3ef1d545ae2c96efff584c3c@2x.jpg",
             "price": "$12.00",
             "twitter_bluesky": {
-                "short_post": f"「 JOSH1-222: The Dutch Blue Man 」\n\nThis is a Common rarity asset in the JOSH¹ Archive. Exclusively Available as a Limited Edition Phygital Art piece.\n🔗 https://www.inprnt.com/gallery/joshuadenouden/josh1-222-the-dutch-blue-man/"
+                "short_post": f"「 JOSH1 222 • The Dutch Blue Man 」\n\n  Rotterdam Maritime Museum\n  Brutalist mass against maritime history\n  An archival record of institutional form\n\nTHE JOSH¹ ARCHIVE\n🔗 https://www.inprnt.com/gallery/joshuadenouden/josh1-222-the-dutch-blue-man/"
             },
             "pinterest": {
-                "title": f"JOSH1-222: The Dutch Blue Man | JOSH¹ Archive Brutalist Photography"
+                "title": f"JOSH1 222 • The Dutch Blue Man | JOSH¹ Archive Brutalist Photography"
             }
         }
         notifier.notify_discord(dummy_campaign)
@@ -453,7 +457,7 @@ def main():
     print(f"============================================================")
     print(f"🏛️  JOSH¹ ARCHIVE PHYGITAL MARKETING ENGINE - {artist_name} ({sol_domain})")
     print(f"   Target Shop: {gallery_url}")
-    print(f"   Action: {args.action}")
+    print(f"   Action: {args.action} | No-Post: {args.no_post}")
     print(f"============================================================")
 
     use_cache_flag = (args.action != "export-all")
@@ -463,15 +467,61 @@ def main():
         print("[ERROR] No prints found! Please check shop URL or connectivity.")
         sys.exit(1)
 
+    if args.action == "trigger-instagram":
+        camp_path = "output/latest_campaign.json"
+        if not os.path.exists(camp_path):
+            print(f"[ERROR] {camp_path} not found! Run --action daily-promo first.")
+            sys.exit(1)
+        with open(camp_path, "r", encoding="utf-8") as f:
+            campaign = json.load(f)
+        
+        # Add timestamp parameter (?v=...) to force GitHub CDN to bypass cache 100%!
+        ts = int(time.time())
+        github_cdn_post1_url = f"https://raw.githubusercontent.com/JOSHCOLLECTIBLE/JOSH-Collectibles/main/inprnt_marketing_bot/output/post1_daily_instagram.jpg?v={ts}"
+        github_cdn_post2_url = f"https://raw.githubusercontent.com/JOSHCOLLECTIBLE/JOSH-Collectibles/main/inprnt_marketing_bot/output/post2_daily_instagram.jpg?v={ts}"
+
+        print("[INFO] 🔍 Verifying that both Slide 1 and Slide 2 are 100% LIVE on GitHub CDN...")
+        try:
+            import requests
+            r1 = requests.head(github_cdn_post1_url, timeout=5)
+            r2 = requests.head(github_cdn_post2_url, timeout=5)
+            if r1.status_code != 200 or r2.status_code != 200:
+                print(f"[ERROR] ❌ GitHub CDN images are not live yet (Post 1: {r1.status_code}, Post 2: {r2.status_code}).")
+                print("       Please push your images to GitHub first ('git push') so you never send duplicate slides to Make.com!")
+                sys.exit(1)
+            print("[SUCCESS] ✅ Both carousel slides are 200 OK on GitHub CDN!")
+        except Exception as e:
+            print(f"[WARNING] Could not verify GitHub CDN status: {e}")
+
+        print("[INFO] 🚀 Triggering 100% hands-free Instagram Carousel AFTER GitHub CDN push is live (with cache buster)...")
+        if ig_automator.is_configured():
+            ig_automator.publish_photo(
+                image_url=github_cdn_post1_url,
+                caption=campaign.get("instagram", {}).get("caption", ""),
+                artwork_title=campaign.get("artwork_title", ""),
+                image_url_2=github_cdn_post2_url
+            )
+        else:
+            print("[INFO] No INSTAGRAM_ACCESS_TOKEN or MAKE_INSTAGRAM_WEBHOOK_URL set. Skipping post.")
+        return
+
     if args.action == "daily-promo":
         artwork = history_mgr.pick_next_artwork(prints)
         print(f"[INFO] Selected today's promotion: '{artwork.get('title')}' ({artwork.get('price')})")
+
+        m = re.search(r"josh1[- ](\d+)", artwork.get("title", ""), flags=re.IGNORECASE)
+        num = int(m.group(1)) if m else 197
+        
+        post1_img_path = "output/post1_daily_instagram.jpg"
+        post2_img_path = "output/post2_daily_instagram.jpg"
+        
+        generate_post1_dark_mode_portrait(num, artwork.get("title", ""), artwork.get("image_url", ""), 1, 1, post1_img_path)
+        generate_post2_museum_monograph(num, artwork.get("title", ""), artwork.get("image_url", ""), 0, post2_img_path)
 
         campaign = gen.generate_campaign(artwork)
         history_mgr.record_promotion(artwork, campaign)
         notifier.save_campaign_artifacts(campaign)
 
-        # Generate single HTML report
         generate_html_report(
             [campaign],
             f"JOSH¹ Archive Curation — {campaign.get('artwork_title')}",
@@ -479,20 +529,34 @@ def main():
             config
         )
 
-        # Also export Pinterest queue for this item
         notifier.export_pinterest_csv_queue([campaign], "output/pinterest_queue.csv")
+        notifier.export_instagram_csv_queue([campaign], "output/instagram_queue.csv")
 
-        # Send Webhook alerts if configured
         notifier.notify_discord(campaign)
         notifier.notify_telegram(campaign)
 
-        # Execute Official Instagram Graph API Direct Post if configured in GitHub Secrets
-        if ig_api.is_configured():
-            print("[INFO] INSTAGRAM_ACCESS_TOKEN detected. Publishing directly to @joshuadenouden feed...")
-            ig_api.publish_photo(
-                image_url=campaign.get("artwork_image", ""),
-                caption=campaign.get("instagram", {}).get("caption", "")
-            )
+        if not args.no_post:
+            ts = int(time.time())
+            github_cdn_post1_url = f"https://raw.githubusercontent.com/JOSHCOLLECTIBLE/JOSH-Collectibles/main/inprnt_marketing_bot/output/post1_daily_instagram.jpg?v={ts}"
+            github_cdn_post2_url = f"https://raw.githubusercontent.com/JOSHCOLLECTIBLE/JOSH-Collectibles/main/inprnt_marketing_bot/output/post2_daily_instagram.jpg?v={ts}"
+            if ig_automator.is_configured():
+                print("[INFO] 🔍 Verifying that both Slide 1 and Slide 2 are LIVE on GitHub CDN...")
+                try:
+                    import requests
+                    r1 = requests.head(github_cdn_post1_url, timeout=5)
+                    r2 = requests.head(github_cdn_post2_url, timeout=5)
+                    if r1.status_code != 200 or r2.status_code != 200:
+                        print(f"[WARNING] ⚠️ GitHub CDN images are not live yet (Post 1: {r1.status_code}, Post 2: {r2.status_code}). Skipping webhook call to prevent duplicate slide upload.")
+                        return
+                except Exception as e:
+                    pass
+                print("[INFO] 🚀 Instagram automation credentials detected! Triggering 100% hands-free post...")
+                ig_automator.publish_photo(
+                    image_url=github_cdn_post1_url,
+                    caption=campaign.get("instagram", {}).get("caption", ""),
+                    artwork_title=campaign.get("artwork_title", ""),
+                    image_url_2=github_cdn_post2_url
+                )
 
         print(f"\n✅ Daily JOSH¹ Archive promotion successfully completed for: {artwork.get('title')}")
 
@@ -503,16 +567,14 @@ def main():
             camp = gen.generate_campaign(art)
             all_campaigns.append(camp)
 
-        # Save JSON
         json_path = "output/all_campaigns.json"
         with open(json_path, "w", encoding="utf-8") as f:
             json.dump(all_campaigns, f, indent=2, ensure_ascii=False)
         print(f"[SUCCESS] Saved full campaign data to {json_path}")
 
-        # Save CSV Queue
         notifier.export_pinterest_csv_queue(all_campaigns, "output/pinterest_bulk_queue.csv")
+        notifier.export_instagram_csv_queue(all_campaigns, "output/instagram_bulk_queue.csv")
 
-        # Save HTML Dashboard
         generate_html_report(
             all_campaigns,
             f"{artist_name} ({sol_domain}) — Complete JOSH¹ Archive Catalog ({len(all_campaigns)} Prints)",
