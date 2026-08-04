@@ -29,12 +29,13 @@ jobs:
       - name: 📦 Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
-        working-directory: ./inprnt_marketing_bot
-        # Note: If this bot is at the root of your repo, remove the 'working-directory: ./inprnt_marketing_bot' lines.
+          if [ -f "requirements.txt" ]; then
+            pip install -r requirements.txt
+          elif [ -f "inprnt_marketing_bot/requirements.txt" ]; then
+            pip install -r inprnt_marketing_bot/requirements.txt
+          fi
 
       - name: 🎨 Run INPRNT Daily Promotion Bot
-        working-directory: ./inprnt_marketing_bot
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -46,7 +47,12 @@ jobs:
           BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
           BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
         run: |
-          python -m src.main --action daily-promo --config config.yaml
+          if [ -d "inprnt_marketing_bot" ]; then
+            cd inprnt_marketing_bot
+            python -m src.main --action daily-promo --config config.yaml
+          else
+            python -m src.main --action daily-promo --config config.yaml
+          fi
 
       - name: 📤 Upload Daily Marketing Artifacts
         uses: actions/upload-artifact@v4
@@ -57,11 +63,15 @@ jobs:
             inprnt_marketing_bot/output/latest_campaign.md
             inprnt_marketing_bot/output/latest_campaign.json
             inprnt_marketing_bot/output/pinterest_queue.csv
+            output/latest_campaign_report.html
+            output/latest_campaign.md
+            output/latest_campaign.json
+            output/pinterest_queue.csv
 
       - name: 💾 Commit updated promotion history
-        working-directory: ./inprnt_marketing_bot
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/history.json output/latest_campaign.md output/latest_campaign_report.html
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🏛️ [Automated] Daily Numéro editorial promotion run ($(date +'%Y-%m-%d'))" && git push)
+          git add -A
+          git commit -m "🏛️ [Automated] Daily JOSHSHOOT PRINTS promotion run ($(date +'%Y-%m-%d'))" || echo "No changes to commit"
+          git push origin HEAD:main || echo "Push skipped (no changes or permissions restricted)"

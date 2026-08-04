@@ -3,9 +3,10 @@
     "josh1-222-the-dutch-blue-man",
     "josh1-221-i-think-56-nights-crazy",
     "josh1-220-the-mall-of-asia",
-    "josh1-219-36-hours-in-turkey"
+    "josh1-219-36-hours-in-turkey",
+    "josh1-218-no-swimming"
   ],
-  "last_promoted_date": "2026-08-04T07:19:17.454110",
+  "last_promoted_date": "2026-08-04T07:34:09.487278",
   "history_log": [
     {
       "date": "2026-08-04 07:03:39",
@@ -34,6 +35,13 @@
       "title": "JOSH1-219: 36 hours in Turkey",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-219-36-hours-in-turkey/",
       "image_url": "https://cdn.inprnt.com/thumbs/1b/7f/1b7f10e3b0551cc6be92d115fef4af94.jpg"
+    },
+    {
+      "date": "2026-08-04 07:34:09",
+      "artwork_id": "josh1-218-no-swimming",
+      "title": "JOSH1-218: No Swimming",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-218-no-swimming/",
+      "image_url": "https://cdn.inprnt.com/thumbs/a8/1e/a81e75c8e9f92a84e0a61bff0b6f26b3.jpg"
     }
   ]
 }

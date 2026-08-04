@@ -1,30 +1,30 @@
-# 🎨 Marketing Campaign: JOSH1-219: 36 hours in Turkey
+# 🎨 Marketing Campaign: JOSH1-218: No Swimming
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-219-36-hours-in-turkey/](https://www.inprnt.com/gallery/joshuadenouden/josh1-219-36-hours-in-turkey/)
-**Current Price:** $12.00 (20% OFF Limited Time Price)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-218-no-swimming/](https://www.inprnt.com/gallery/joshuadenouden/josh1-218-no-swimming/)
+**Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 
-![JOSH1-219: 36 hours in Turkey](https://cdn.inprnt.com/thumbs/1b/7f/1b7f10e3b0551cc6be92d115fef4af94.jpg)
+![JOSH1-218: No Swimming](https://cdn.inprnt.com/thumbs/a8/1e/a81e75c8e9f92a84e0a61bff0b6f26b3.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1-219: 36 hours in Turkey | Archival Brutalist Photography & Fine Art Print by JOSH SHOOT`
+- **Title:** `JOSH1-218: No Swimming | Archival Brutalist Photography & Fine Art Print by JOSH SHOOT`
 - **Board:** `Architectural Photography & Brutalist Art Prints`
 - **Description:**
 ```text
-An exploration of architectural geometry and kinetic stillness. 'JOSH1-219: 36 hours in Turkey' by JOSH SHOOT (JOSHSHOOT.SOL) translates brutalist urban space and chromatic depth into museum-grade physical permanence. Bridging on-chain provenance with tactile materiality, each print is rendered on 100% cotton rag archival paper with pigment inks via INPRNT. Curated pricing: $12.00 (20% OFF Limited Archival Release). Available in Gallery Art Prints, Canvas, Acrylic, and Custom Framed editions. Explore contemporary architectural photography for luxury interiors and collectors. On-chain verification: JOSHSHOOT.SOL | https://www.inprnt.com/gallery/joshuadenouden/josh1-219-36-hours-in-turkey/ • #PhygitalArt #ArchitecturalPhotography #BrutalistArchitecture #FineArtPrint #JOSHSHOOTPRINTS #WallArtDecor #ContemporaryPhotography #MinimalistArt #INPRNT #ArtCollector
+An exploration of architectural geometry and kinetic stillness. 'JOSH1-218: No Swimming' by JOSH SHOOT (JOSHSHOOT.SOL) translates brutalist urban space and chromatic depth into museum-grade physical permanence. Bridging on-chain provenance with tactile materiality, each print is rendered on 100% cotton rag archival paper with pigment inks via INPRNT. Curated pricing: $12.00 (20% OFF Limited Archival Release). Available in Gallery Art Prints, Canvas, Acrylic, and Custom Framed editions. Explore contemporary architectural photography for luxury interiors and collectors. On-chain verification: JOSHSHOOT.SOL | https://www.inprnt.com/gallery/joshuadenouden/josh1-218-no-swimming/ • #PhygitalArt #ArchitecturalPhotography #BrutalistArchitecture #FineArtPrint #JOSHSHOOTPRINTS #WallArtDecor #ContemporaryPhotography #MinimalistArt #INPRNT #ArtCollector
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
 JOSHSHOOT PRINTS • ARCHIVAL RELEASE
 
-🏛️ "JOSH1-219: 36 hours in Turkey" — JOSH SHOOT (JOSHSHOOT.SOL)
+🏛️ "JOSH1-218: No Swimming" — JOSH SHOOT (JOSHSHOOT.SOL)
 
 Where on-chain provenance meets brutalist materiality. Architectural geometry captured in museum-grade physical permanence.
 
 ✦ Edition Spec: 100% Cotton Rag Archival Print
 ✦ Collector Pricing: $12.00 (20% OFF)
 
-🔗 Acquire Physical Print: https://www.inprnt.com/gallery/joshuadenouden/josh1-219-36-hours-in-turkey/
+🔗 Acquire Physical Print: https://www.inprnt.com/gallery/joshuadenouden/josh1-218-no-swimming/
 ⚡ On-Chain Archive: JOSHSHOOT.SOL
 
 #PhygitalArt #SolanaArt #ArtCollector #ArchitecturalPhotography
@@ -34,7 +34,7 @@ Where on-chain provenance meets brutalist materiality. Architectural geometry ca
 ```text
 JOSHSHOOT PRINTS // THE PHYGITAL MONOLITH
 
-「 JOSH1-219: 36 hours in Turkey 」
+「 JOSH1-218: No Swimming 」
 Architectural Photography & Archival Fine Art by JOSH SHOOT (JOSHSHOOT.SOL)
 
 An inquiry into brutalist geometry, urban movement, and tactile permanence. Here, the fleeting moments of architectural choreography are frozen into archival museum-grade tangibility.
@@ -47,7 +47,7 @@ CURATORIAL SPECIFICATIONS:
 ━ Worldwide Shipping & Packaging via INPRNT
 
 🔗 Acquire the physical edition via link in bio or directly:
-https://www.inprnt.com/gallery/joshuadenouden/josh1-219-36-hours-in-turkey/
+https://www.inprnt.com/gallery/joshuadenouden/josh1-218-no-swimming/
 
 ⚡ Verified On-Chain Identity: JOSHSHOOT.SOL
 
@@ -58,13 +58,13 @@ https://www.inprnt.com/gallery/joshuadenouden/josh1-219-36-hours-in-turkey/
 ```
 
 ## 🔴 Reddit Artist Showcase
-- **Suggested Title:** `[FOR SALE] "JOSH1-219: 36 hours in Turkey" — Archival Brutalist Photography & Fine Art Print by JOSH SHOOT (JOSHSHOOT.SOL) | $12.00 (20% OFF on INPRNT)`
+- **Suggested Title:** `[FOR SALE] "JOSH1-218: No Swimming" — Archival Brutalist Photography & Fine Art Print by JOSH SHOOT (JOSHSHOOT.SOL) | $12.00 (20% OFF on INPRNT)`
 - **Target Subreddits:** r/Artstore, r/artprints, r/photographicprints, r/artcollectors, r/streetphotography
 - **Post Body:**
 ```markdown
-### Curatorial Release: "JOSH1-219: 36 hours in Turkey" by JOSH SHOOT (`JOSHSHOOT.SOL`)
+### Curatorial Release: "JOSH1-218: No Swimming" by JOSH SHOOT (`JOSHSHOOT.SOL`)
 
-Hello everyone in the collector community. I'm sharing an archival photographic release from my studio and on-chain catalog: **"JOSH1-219: 36 hours in Turkey"**.
+Hello everyone in the collector community. I'm sharing an archival photographic release from my studio and on-chain catalog: **"JOSH1-218: No Swimming"**.
 
 #### 🏛️ Editorial & Artistic Focus
 My practice as **JOSH SHOOT** (`JOSHSHOOT.SOL`) investigates **architectural geometry, brutalist monoliths, and urban stillness**. Rather than viewing digital and physical art as separate realms, my work bridges the gap between decentralized on-chain archives and physical, museum-grade tangibility.
@@ -76,7 +76,7 @@ My practice as **JOSH SHOOT** (`JOSHSHOOT.SOL`) investigates **architectural geo
 - **Provenance & Verification:** Digital origin verified via **JOSHSHOOT.SOL**; physical exhibition print fulfilled via **INPRNT**.
 
 #### 🔗 Links & Acquisition
-- **Acquire Physical Print on INPRNT:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-219-36-hours-in-turkey/](https://www.inprnt.com/gallery/joshuadenouden/josh1-219-36-hours-in-turkey/)
+- **Acquire Physical Print on INPRNT:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-218-no-swimming/](https://www.inprnt.com/gallery/joshuadenouden/josh1-218-no-swimming/)
 - **Browse Complete Archival Gallery:** [https://www.inprnt.com/gallery/joshuadenouden/](https://www.inprnt.com/gallery/joshuadenouden/)
 - **Web3 Provenance & Digital Archive:** `JOSHSHOOT.SOL` | [DRiP Archive](https://drip.haus/josh)
 
