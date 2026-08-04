@@ -12,9 +12,10 @@
     "josh1-197-maritime-museum-rotterdam",
     "josh1-196-damstraatjes-amsterdam",
     "josh1-195-scheepmakerskade-135",
-    "josh1-194-van-gogh-museum"
+    "josh1-194-van-gogh-museum",
+    "josh1-193-praise-the-lord"
   ],
-  "last_promoted_date": "2026-08-04T12:53:09.961472",
+  "last_promoted_date": "2026-08-04T13:04:35.523432",
   "history_log": [
     {
       "date": "2026-08-04 07:03:39",
@@ -106,6 +107,13 @@
       "title": "JOSH1-194: Van Gogh Museum",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-194-van-gogh-museum/",
       "image_url": "https://cdn.inprnt.com/thumbs/ca/8f/ca8fd3f6c99535f43d2d5a6ba3bfa46f.jpg"
+    },
+    {
+      "date": "2026-08-04 13:04:35",
+      "artwork_id": "josh1-193-praise-the-lord",
+      "title": "JOSH1-193: Praise The Lord",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-193-praise-the-lord/",
+      "image_url": "https://cdn.inprnt.com/thumbs/c9/60/c9600baaedd080234941b8162bec669a.jpg"
     }
   ]
 }
