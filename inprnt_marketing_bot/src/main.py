@@ -20,7 +20,6 @@ from src.storage import HistoryManager
 from src.notifier import Notifier
 from src.instagram_bot import InstagramAutomator
 from generate_wall_cards import generate_post1_dark_mode_portrait, generate_post2_museum_monograph
-from generate_zoom_reel import generate_tiktok_zoom_reel
 
 def load_config(config_path: str = "config.yaml") -> Dict[str, Any]:
     """Loads YAML configuration file."""
@@ -523,14 +522,9 @@ def main():
         
         post1_img_path = "output/post1_daily_instagram.jpg"
         post2_img_path = "output/post2_daily_instagram.jpg"
-        reel_mp4_path = "output/daily_zoom_reel.mp4"
         
         generate_post1_dark_mode_portrait(num, artwork.get("title", ""), artwork.get("image_url", ""), 1, 1, post1_img_path)
         generate_post2_museum_monograph(num, artwork.get("title", ""), artwork.get("image_url", ""), 0, post2_img_path)
-        try:
-            generate_tiktok_zoom_reel(num, artwork.get("title", ""), artwork.get("image_url", ""), reel_mp4_path)
-        except Exception as e:
-            print(f"[WARNING] Could not generate zoom reel MP4: {e}")
 
         campaign = gen.generate_campaign(artwork)
         history_mgr.record_promotion(artwork, campaign)
@@ -548,29 +542,6 @@ def main():
 
         notifier.notify_discord(campaign)
         notifier.notify_telegram(campaign)
-
-        if not args.no_post:
-            ts = int(time.time())
-            github_cdn_post1_url = f"https://raw.githubusercontent.com/JOSHCOLLECTIBLE/JOSH-Collectibles/main/inprnt_marketing_bot/output/post1_daily_instagram.jpg?v={ts}"
-            github_cdn_post2_url = f"https://raw.githubusercontent.com/JOSHCOLLECTIBLE/JOSH-Collectibles/main/inprnt_marketing_bot/output/post2_daily_instagram.jpg?v={ts}"
-            if ig_automator.is_configured():
-                print("[INFO] 🔍 Verifying that both Slide 1 and Slide 2 are LIVE on GitHub CDN...")
-                try:
-                    import requests
-                    r1 = requests.head(github_cdn_post1_url, timeout=5)
-                    r2 = requests.head(github_cdn_post2_url, timeout=5)
-                    if r1.status_code != 200 or r2.status_code != 200:
-                        print(f"[WARNING] ⚠️ GitHub CDN images are not live yet (Post 1: {r1.status_code}, Post 2: {r2.status_code}). Skipping webhook call to prevent duplicate slide upload.")
-                        return
-                except Exception as e:
-                    pass
-                print("[INFO] 🚀 Instagram automation credentials detected! Triggering 100% hands-free post...")
-                ig_automator.publish_photo(
-                    image_url=github_cdn_post1_url,
-                    caption=campaign.get("instagram", {}).get("caption", ""),
-                    artwork_title=campaign.get("artwork_title", ""),
-                    image_url_2=github_cdn_post2_url
-                )
 
         print(f"\n✅ Daily JOSH¹ Archive promotion successfully completed for: {artwork.get('title')}")
 
