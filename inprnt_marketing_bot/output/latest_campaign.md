@@ -11,7 +11,7 @@
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Amsterdam narrow alleyways • Spatial compression and natural light • Recorded within the European urban grid. Common rarity asset in the JOSH¹ Archive ('JOSH1 196 • Damstraatjes, Amsterdam'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Amsterdam (AMS) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-196-damstraatjes-amsterdam/ • #UrbanGeometry #PhygitalArt #ContemporaryCollector #OnChainArt
+Amsterdam narrow alleyways • Spatial compression and natural light • Recorded within the European urban grid. Common rarity asset in the JOSH¹ Archive ('JOSH1 196 • Damstraatjes, Amsterdam'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Amsterdam (AMS) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-196-damstraatjes-amsterdam/ • #INPRNT #ArchivalPrint #StreetPhotography #OnChainArt
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
@@ -33,7 +33,7 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#ArchitecturalPhotography #ArchivalPrint #SolanaNFT #MinimalistPhotography
+#WallArtDecor #JOSHSHOOTPRINTS #SolanaNFT #UrbanGeometry
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
@@ -63,7 +63,7 @@ Collect the archive via link in bio
 .
 .
 .
-#OnChainArt #UrbanGeometry #BrutalistArchitecture #JOSHSHOOTPRINTS
+#SolanaNFT #ArchivalPrint #PhygitalArt #SolanaArt
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
