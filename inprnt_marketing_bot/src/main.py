@@ -20,6 +20,7 @@ from src.storage import HistoryManager
 from src.notifier import Notifier
 from src.instagram_bot import InstagramAutomator
 from generate_wall_cards import generate_post1_dark_mode_portrait, generate_post2_museum_monograph
+from generate_zoom_reel import generate_tiktok_zoom_reel
 
 def load_config(config_path: str = "config.yaml") -> Dict[str, Any]:
     """Loads YAML configuration file."""
@@ -483,13 +484,21 @@ def main():
         print("[INFO] 🔍 Verifying that both Slide 1 and Slide 2 are 100% LIVE on GitHub CDN...")
         try:
             import requests
-            r1 = requests.head(github_cdn_post1_url, timeout=5)
-            r2 = requests.head(github_cdn_post2_url, timeout=5)
-            if r1.status_code != 200 or r2.status_code != 200:
-                print(f"[ERROR] ❌ GitHub CDN images are not live yet (Post 1: {r1.status_code}, Post 2: {r2.status_code}).")
-                print("       Please push your images to GitHub first ('git push') so you never send duplicate slides to Make.com!")
-                sys.exit(1)
-            print("[SUCCESS] ✅ Both carousel slides are 200 OK on GitHub CDN!")
+            max_retries = 10
+            for attempt in range(1, max_retries + 1):
+                r1 = requests.head(github_cdn_post1_url, timeout=5)
+                r2 = requests.head(github_cdn_post2_url, timeout=5)
+                if r1.status_code == 200 and r2.status_code == 200:
+                    print(f"[SUCCESS] ✅ Both carousel slides are 200 OK on GitHub CDN (verified on attempt {attempt})!")
+                    break
+                else:
+                    if attempt < max_retries:
+                        print(f"[WAIT] ⏳ GitHub CDN not ready yet (Post 1: {r1.status_code}, Post 2: {r2.status_code}). Retrying in 3s ({attempt}/{max_retries})...")
+                        time.sleep(3)
+                    else:
+                        print(f"[ERROR] ❌ GitHub CDN images are not live after {max_retries} attempts.")
+                        print("       Aborting webhook trigger to prevent sending broken/duplicate slides to Make.com!")
+                        sys.exit(1)
         except Exception as e:
             print(f"[WARNING] Could not verify GitHub CDN status: {e}")
 
@@ -514,9 +523,14 @@ def main():
         
         post1_img_path = "output/post1_daily_instagram.jpg"
         post2_img_path = "output/post2_daily_instagram.jpg"
+        reel_mp4_path = "output/daily_zoom_reel.mp4"
         
         generate_post1_dark_mode_portrait(num, artwork.get("title", ""), artwork.get("image_url", ""), 1, 1, post1_img_path)
         generate_post2_museum_monograph(num, artwork.get("title", ""), artwork.get("image_url", ""), 0, post2_img_path)
+        try:
+            generate_tiktok_zoom_reel(num, artwork.get("title", ""), artwork.get("image_url", ""), reel_mp4_path)
+        except Exception as e:
+            print(f"[WARNING] Could not generate zoom reel MP4: {e}")
 
         campaign = gen.generate_campaign(artwork)
         history_mgr.record_promotion(artwork, campaign)

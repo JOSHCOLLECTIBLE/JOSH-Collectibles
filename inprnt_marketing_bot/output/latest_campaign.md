@@ -1,26 +1,26 @@
-# 🎨 Marketing Campaign: JOSH1 197 • Maritime Museum, Rotterdam
+# 🎨 Marketing Campaign: JOSH1 196 • Damstraatjes, Amsterdam
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-197-maritime-museum-rotterdam/](https://www.inprnt.com/gallery/joshuadenouden/josh1-197-maritime-museum-rotterdam/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-196-damstraatjes-amsterdam/](https://www.inprnt.com/gallery/joshuadenouden/josh1-196-damstraatjes-amsterdam/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
-**Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
+**Rarity:** `💎 Common` | **Origin:** `📍 Amsterdam (AMS) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 197 • Maritime Museum, Rotterdam](https://cdn.inprnt.com/thumbs/0c/2b/0c2b504067590379c2c6e9866a469358@2x.jpg)
+![JOSH1 196 • Damstraatjes, Amsterdam](https://cdn.inprnt.com/thumbs/a9/c0/a9c00a349dac5e4a6f53c8f764bcdbbf@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 197 • Maritime Museum, Rotterdam | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 196 • Damstraatjes, Amsterdam | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Rotterdam Maritime Museum • Brutalist mass against maritime history • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 197 • Maritime Museum, Rotterdam'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-197-maritime-museum-rotterdam/ • #StreetPhotography #WallArtDecor #Industrial #ArchitecturalPhotography
+Amsterdam narrow alleyways • Spatial compression and natural light • Recorded within the European urban grid. Common rarity asset in the JOSH¹ Archive ('JOSH1 196 • Damstraatjes, Amsterdam'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Amsterdam (AMS) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-196-damstraatjes-amsterdam/ • #JOSHSHOOTPRINTS #BrutalistArchitecture #FineArtPrint #OnChainArt
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 197 • Maritime Museum, Rotterdam 」
+「 JOSH1 196 • Damstraatjes, Amsterdam 」
 
-  Rotterdam Maritime Museum
-  Brutalist mass against maritime history
-  An archival record of institutional form
+  Amsterdam narrow alleyways
+  Spatial compression and natural light
+  Recorded within the European urban grid
 
 THE JOSH¹ ARCHIVE
 Limited Edition Phygital Art Piece
@@ -29,25 +29,25 @@ Bridging Solana blockchain provenance to museum grade physical prints.
 Collect the archive via INPRNT (link in bio)
 
 📸 iPhone 12 / Archival Capture
-📍 Rotterdam (RTM) 🇳🇱
+📍 Amsterdam (AMS) 🇳🇱
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#SolanaNFT #FineArtPrint #ContemporaryCollector #ArchitecturalPhotography
+#INPRNT #SolanaArt #Industrial #OnChainArt
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 197 • Maritime Museum, Rotterdam')
+• Slide 1: Full high res photograph ('JOSH1 196 • Damstraatjes, Amsterdam')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
-• Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
+• Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Amsterdam (AMS) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 197 • Maritime Museum, Rotterdam
+JOSH1 196 • Damstraatjes, Amsterdam
 
-  Rotterdam Maritime Museum
-  Brutalist mass against maritime history
-  An archival record of institutional form
+  Amsterdam narrow alleyways
+  Spatial compression and natural light
+  Recorded within the European urban grid
 
 THE JOSH¹ ARCHIVE
 Limited Edition Phygital Art Piece
@@ -56,24 +56,24 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 
 Collect the archive via link in bio
 📸 iPhone 12 / Archival Capture
-📍 Rotterdam (RTM) 🇳🇱
+📍 Amsterdam (AMS) 🇳🇱
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#ContemporaryCollector #ArtCollector #UrbanGeometry #FineArtPrint
+#WallArtDecor #ContemporaryCollector #UrbanGeometry #PhygitalArt
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 197 • Maritime Museum, Rotterdam`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 196 • Damstraatjes, Amsterdam`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 197 • Maritime Museum, Rotterdam"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 196 • Damstraatjes, Amsterdam"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-197-maritime-museum-rotterdam/"><img src="https://cdn.inprnt.com/thumbs/0c/2b/0c2b504067590379c2c6e9866a469358@2x.jpg" alt="JOSH1 197 • Maritime Museum, Rotterdam" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-196-damstraatjes-amsterdam/"><img src="https://cdn.inprnt.com/thumbs/a9/c0/a9c00a349dac5e4a6f53c8f764bcdbbf@2x.jpg" alt="JOSH1 196 • Damstraatjes, Amsterdam" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,13 +81,13 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 197 • Maritime Museum, Rotterdam` |
+| **Title** | `JOSH1 196 • Damstraatjes, Amsterdam` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
-| **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
+| **Location Origin** | `📍 Amsterdam (AMS) 🇳🇱` |
 | **Physical Medium** | `100% Cotton Rag Archival Print via INPRNT` |
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-197-maritime-museum-rotterdam/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-196-damstraatjes-amsterdam/)**
 ```
