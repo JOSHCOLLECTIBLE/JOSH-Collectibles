@@ -3,7 +3,7 @@
     "josh1-197-maritime-museum-rotterdam",
     "josh1-196-damstraatjes-amsterdam"
   ],
-  "last_promoted_date": "2026-08-06T06:11:50.131889",
+  "last_promoted_date": "2026-08-06T06:16:42.898927",
   "history_log": [
     {
       "date": "2026-08-04 14:30:00",
@@ -14,6 +14,13 @@
     },
     {
       "date": "2026-08-06 06:11:50",
+      "artwork_id": "josh1-196-damstraatjes-amsterdam",
+      "title": "JOSH1-196: Damstraatjes, Amsterdam",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-196-damstraatjes-amsterdam/",
+      "image_url": "https://cdn.inprnt.com/thumbs/a9/c0/a9c00a349dac5e4a6f53c8f764bcdbbf@2x.jpg"
+    },
+    {
+      "date": "2026-08-06 06:16:42",
       "artwork_id": "josh1-196-damstraatjes-amsterdam",
       "title": "JOSH1-196: Damstraatjes, Amsterdam",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-196-damstraatjes-amsterdam/",
