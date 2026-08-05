@@ -4,14 +4,14 @@
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Amsterdam (AMS) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 196 • Damstraatjes, Amsterdam](https://cdn.inprnt.com/thumbs/a9/c0/a9c00a349dac5e4a6f53c8f764bcdbbf@2x.jpg)
+![JOSH1 196 • Damstraatjes, Amsterdam](https://cdn.inprnt.com/thumbs/74/bc/74bc117ec749aaf2cd9e2513870b6ed8@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
 - **Title:** `JOSH1 196 • Damstraatjes, Amsterdam | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Amsterdam narrow alleyways • Spatial compression and natural light • Recorded within the European urban grid. Common rarity asset in the JOSH¹ Archive ('JOSH1 196 • Damstraatjes, Amsterdam'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Amsterdam (AMS) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-196-damstraatjes-amsterdam/ • #INPRNT #ArchivalPrint #StreetPhotography #OnChainArt
+Amsterdam narrow alleyways • Spatial compression and natural light • Recorded within the European urban grid. Common rarity asset in the JOSH¹ Archive ('JOSH1 196 • Damstraatjes, Amsterdam'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Amsterdam (AMS) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-196-damstraatjes-amsterdam/ • #BrutalistArchitecture #UrbanGeometry #OnChainArt #SolanaNFT
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
@@ -33,7 +33,7 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#WallArtDecor #JOSHSHOOTPRINTS #SolanaNFT #UrbanGeometry
+#ArchivalPrint #MinimalistPhotography #WallArtDecor #SolanaArt
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
@@ -63,7 +63,7 @@ Collect the archive via link in bio
 .
 .
 .
-#SolanaNFT #ArchivalPrint #PhygitalArt #SolanaArt
+#BrutalistArchitecture #JOSHSHOOTPRINTS #PhygitalArt #OnChainArt
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
@@ -73,7 +73,7 @@ Collect the archive via link in bio
 ## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 196 • Damstraatjes, Amsterdam"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-196-damstraatjes-amsterdam/"><img src="https://cdn.inprnt.com/thumbs/a9/c0/a9c00a349dac5e4a6f53c8f764bcdbbf@2x.jpg" alt="JOSH1 196 • Damstraatjes, Amsterdam" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-196-damstraatjes-amsterdam/"><img src="https://cdn.inprnt.com/thumbs/74/bc/74bc117ec749aaf2cd9e2513870b6ed8@2x.jpg" alt="JOSH1 196 • Damstraatjes, Amsterdam" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*

@@ -109,20 +109,26 @@ class InprntScraper:
         prints_map: Dict[str, Dict[str, Any]] = {}
         for page_num in range(1, max_pages + 1):
             url = f"{self.gallery_url}?page={page_num}" if page_num > 1 else self.gallery_url
-            try:
-                page_prints = self._scrape_single_page(url)
-                if not page_prints:
+            page_prints = []
+            for attempt in range(1, 6):
+                try:
+                    page_prints = self._scrape_single_page(url)
                     break
-                added_count = 0
-                for p in page_prints:
-                    if p["id"] not in prints_map:
-                        prints_map[p["id"]] = p
-                        added_count += 1
-                print(f"[INFO] Scraped Gallery Page {page_num}: found {len(page_prints)} items (Total unique: {len(prints_map)})")
-                if added_count == 0 and page_num > 1:
-                    break
-            except Exception as e:
-                print(f"[INFO] Stopped pagination at page {page_num} ({e})")
+                except Exception as e:
+                    if attempt < 5:
+                        import time
+                        time.sleep(2)
+                    else:
+                        print(f"[INFO] Stopped pagination at page {page_num} after 5 retries ({e})")
+            if not page_prints:
+                break
+            added_count = 0
+            for p in page_prints:
+                if p["id"] not in prints_map:
+                    prints_map[p["id"]] = p
+                    added_count += 1
+            print(f"[INFO] Scraped Gallery Page {page_num}: found {len(page_prints)} items (Total unique: {len(prints_map)})")
+            if added_count == 0 and page_num > 1:
                 break
 
         results = list(prints_map.values())
