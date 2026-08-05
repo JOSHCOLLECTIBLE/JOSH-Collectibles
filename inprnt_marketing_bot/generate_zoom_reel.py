@@ -34,30 +34,30 @@ def crop_inprnt_mockup(img: Image.Image) -> Image.Image:
     w, h = img.size
     cx, cy = w // 2, h // 2
     left = 0
-    for x in range(200, cx):
+    for x in range(int(w * 0.05), cx):
         r, g, b = img.getpixel((x, cy))
-        if not (r > 245 and g > 245 and b > 245):
+        if not (r > 240 and g > 240 and b > 240) and not (abs(r-g)<5 and abs(g-b)<5 and r>200):
             left = x
             break
     right = w - 1
-    for x in range(w - 200, cx, -1):
+    for x in range(int(w * 0.95), cx, -1):
         r, g, b = img.getpixel((x, cy))
-        if not (r > 245 and g > 245 and b > 245):
+        if not (r > 240 and g > 240 and b > 240) and not (abs(r-g)<5 and abs(g-b)<5 and r>200):
             right = x
             break
     top = 0
-    for y in range(120, cy):
+    for y in range(int(h * 0.05), cy):
         r, g, b = img.getpixel((cx, y))
-        if not (r > 245 and g > 245 and b > 245):
+        if not (r > 240 and g > 240 and b > 240) and not (abs(r-g)<5 and abs(g-b)<5 and r>200):
             top = y
             break
     bottom = h - 1
-    for y in range(h - 120, cy, -1):
+    for y in range(int(h * 0.95), cy, -1):
         r, g, b = img.getpixel((cx, y))
-        if not (r > 245 and g > 245 and b > 245):
+        if not (r > 240 and g > 240 and b > 240) and not (abs(r-g)<5 and abs(g-b)<5 and r>200):
             bottom = y
             break
-    if right - left < 100 or bottom - top < 100:
+    if right - left < int(w * 0.2) or bottom - top < int(h * 0.2):
         return img
     return img.crop((left + 2, top + 2, right - 1, bottom - 1))
 
@@ -168,16 +168,16 @@ def generate_tiktok_zoom_reel(num: int, title: str, img_url: str, output_path: s
         b_c = max(val - 7, 0)
         draw.line([(0, y), (width, y)], fill=(r_c, g_c, b_c))
 
-    # Add 3D Typography at the bottom of 1080x1920 canvas
-    font_top = get_font(38, bold=True)
-    font_second = get_font(32, bold=True)
-    font_rag = get_font(22, bold=False)
-    font_footer = get_font(26, bold=True)
+    # Add Bold Museum-Exhibition 3D Typography at the bottom of 1080x1920 canvas
+    font_top = get_font(64, bold=True)
+    font_second = get_font(52, bold=True)
+    font_rag = get_font(36, bold=False)
+    font_footer = get_font(44, bold=True)
 
-    draw_3d_text_on_light_wall(draw, width, 1420, f"JOSH1 {num} BY JOSH SHOOT", font_top, fill=deep_theme)
-    draw_3d_text_on_light_wall(draw, width, 1485, "JOSH SHOOT | INPRNT", font_second, fill=primary_accent)
-    draw_3d_text_on_light_wall(draw, width, 1550, "300GSM COTTON RAG • ARCHIVAL EDITION", font_rag, fill=muted_theme)
-    draw_3d_text_on_light_wall(draw, width, 1625, "THE JOSH¹ ARCHIVE • JOSHSHOOT.SOL", font_footer, fill=deep_theme)
+    draw_3d_text_on_light_wall(draw, width, 1400, f"JOSH1 {num} BY JOSH SHOOT", font_top, fill=deep_theme)
+    draw_3d_text_on_light_wall(draw, width, 1500, "JOSH SHOOT | INPRNT", font_second, fill=primary_accent)
+    draw_3d_text_on_light_wall(draw, width, 1590, "300GSM COTTON RAG • ARCHIVAL EDITION", font_rag, fill=muted_theme)
+    draw_3d_text_on_light_wall(draw, width, 1680, "THE JOSH¹ ARCHIVE • JOSHSHOOT.SOL", font_footer, fill=deep_theme)
 
     # Prepare base framed artwork at 1.0x scale (target art size = 880x880 box)
     cw, ch = art_img.size

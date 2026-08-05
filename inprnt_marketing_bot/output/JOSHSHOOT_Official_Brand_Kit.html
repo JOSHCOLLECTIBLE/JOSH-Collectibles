@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>THE JOSH¹ ARCHIVE — Official Brand Kit & Curation System</title>
+  <style>
+    :root {
+      --bg: #0d0f12;
+      --card-bg: #15181d;
+      --card-border: #232730;
+      --text-main: #f1f5f9;
+      --text-muted: #94a3b8;
+      --accent: #38bdf8;
+      --accent-gold: #f59e0b;
+      --cream-bg: #f8f6f0;
+      --void-black: #000000;
+    }
+    * { box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: var(--bg);
+      color: var(--text-main);
+      margin: 0;
+      padding: 40px 20px;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+    header {
+      text-align: center;
+      padding-bottom: 40px;
+      border-bottom: 1px solid var(--card-border);
+      margin-bottom: 50px;
+    }
+    .editorial-tag {
+      font-size: 11px;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      font-weight: 800;
+      color: var(--accent);
+      margin-bottom: 12px;
+    }
+    h1 {
+      font-size: 42px;
+      font-weight: 900;
+      letter-spacing: -1.5px;
+      margin: 0 0 16px 0;
+      text-transform: uppercase;
+      background: linear-gradient(135deg, #ffffff 0%, #cbd5e1 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    .subtitle {
+      font-size: 18px;
+      color: var(--text-muted);
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    .section-title {
+      font-size: 24px;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+      margin: 50px 0 24px 0;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      border-left: 4px solid var(--accent);
+      padding-left: 14px;
+    }
+    .grid-2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+    }
+    .grid-3 {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+    }
+    @media (max-width: 768px) {
+      .grid-2, .grid-3 { grid-template-columns: 1fr; }
+    }
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 8px;
+      padding: 28px;
+      position: relative;
+    }
+    .card h3 {
+      margin: 0 0 12px 0;
+      font-size: 18px;
+      font-weight: 800;
+      color: #ffffff;
+    }
+    .card p {
+      color: var(--text-muted);
+      font-size: 14px;
+      margin: 0 0 16px 0;
+    }
+    .swatch-row {
+      display: flex;
+      gap: 12px;
+      margin-top: 16px;
+    }
+    .swatch {
+      flex: 1;
+      height: 70px;
+      border-radius: 6px;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      padding: 8px;
+      font-size: 11px;
+      font-weight: 700;
+      font-family: monospace;
+      border: 1px solid rgba(255,255,255,0.1);
+    }
+    .swatch-black { background: #000000; color: #ffffff; }
+    .swatch-cream { background: #f8f6f0; color: #0f172a; }
+    .swatch-mat { background: #fbfbf9; color: #0f172a; }
+    .swatch-obsidian { background: #181818; color: #f8fafc; }
+    .swatch-accent { background: #38bdf8; color: #0f172a; }
+    .swatch-gold { background: #f59e0b; color: #0f172a; }
+
+    .spec-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 16px;
+    }
+    .spec-table th, .spec-table td {
+      text-align: left;
+      padding: 12px;
+      border-bottom: 1px solid var(--card-border);
+      font-size: 13px;
+    }
+    .spec-table th {
+      color: var(--accent);
+      font-weight: 700;
+      text-transform: uppercase;
+      font-size: 11px;
+      letter-spacing: 1px;
+    }
+    .spec-table td { color: var(--text-muted); }
+    .spec-table td strong { color: #ffffff; }
+
+    .grid-preview {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 8px;
+      background: #000000;
+      padding: 12px;
+      border-radius: 6px;
+      border: 1px solid var(--card-border);
+      margin-top: 16px;
+    }
+    .grid-cell {
+      aspect-ratio: 1;
+      background: #1e2229;
+      border-radius: 4px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 8px;
+      font-size: 11px;
+      color: #cbd5e1;
+      border: 1px solid rgba(255,255,255,0.05);
+    }
+    .grid-cell.pinned { background: #1e293b; border-color: #38bdf8; color: #38bdf8; font-weight: 700; }
+    .grid-cell.center-post { background: #0f172a; border-color: #f59e0b; color: #f59e0b; font-weight: 700; }
+
+    .code-block {
+      background: #0b0d10;
+      border: 1px solid var(--card-border);
+      border-radius: 6px;
+      padding: 18px;
+      font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+      font-size: 13px;
+      color: #e2e8f0;
+      white-space: pre-wrap;
+      line-height: 1.6;
+      position: relative;
+    }
+    .copy-btn {
+      position: absolute;
+      top: 12px;
+      right: 12px;
+      background: #232730;
+      color: #ffffff;
+      border: 1px solid #333945;
+      padding: 6px 12px;
+      border-radius: 4px;
+      font-size: 11px;
+      font-weight: 700;
+      cursor: pointer;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    .copy-btn:hover { background: #333945; }
+
+    .badge-pill {
+      display: inline-block;
+      padding: 4px 10px;
+      background: #1e293b;
+      color: #38bdf8;
+      border-radius: 999px;
+      font-size: 11px;
+      font-weight: 700;
+      margin-right: 6px;
+      margin-bottom: 6px;
+    }
+    footer {
+      text-align: center;
+      margin-top: 80px;
+      padding-top: 40px;
+      border-top: 1px solid var(--card-border);
+      color: var(--text-muted);
+      font-size: 13px;
+    }
+  </style>
+  <script>
+    function copyText(id) {
+      const el = document.getElementById(id);
+      navigator.clipboard.writeText(el.innerText).then(() => {
+        alert('Copied copy to clipboard!');
+      });
+    }
+  </script>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="editorial-tag">OFFICIAL BRAND KIT &amp; CURATORIAL GUIDE</div>
+      <h1>THE JOSH¹ ARCHIVE // JOSH SHOOT</h1>
+      <p class="subtitle">
+        Architectural &amp; Brutalist Photography &bull; Solana Blockchain Provenance (<code>JOSHSHOOT.SOL</code>) &bull; 
+        100% Cotton Rag Tactile Fine Art Prints via INPRNT
+      </p>
+    </header>
+
+    <!-- SECTION 1: IDENTITY & CORE NARRATIVE -->
+    <div class="section-title">01. Identity &amp; Curatorial DNA</div>
+    <div class="grid-2">
+      <div class="card">
+        <h3>Core Narrative &amp; Positioning</h3>
+        <p>
+          <strong>JOSH SHOOT</strong> operates at the intersection of tactile museum-grade physical printmaking and verifiable Web3 blockchain provenance. 
+          Every artwork released in the <strong>JOSH¹ Archive</strong> is a limited-edition phygital artifact.
+        </p>
+        <div style="margin-top: 14px;">
+          <span class="badge-pill">On-Chain: JOSHSHOOT.SOL</span>
+          <span class="badge-pill">Gallery: INPRNT</span>
+          <span class="badge-pill">DRiP: drip.haus/josh</span>
+          <span class="badge-pill">Medium: 300gsm Cotton Rag</span>
+        </div>
+      </div>
+
+      <div class="card">
+        <h3>Voice &amp; Copywriting Tone</h3>
+        <p>
+          Authoritative, architectural, minimalist, and <strong>100% dash-free</strong>. Inspired by Gagosian and Hauser &amp; Wirth Parisian exhibition monographs.
+        </p>
+        <ul style="color: var(--text-muted); font-size: 13px; padding-left: 20px; margin: 0;">
+          <li><strong>Zero hyphens or dashes</strong> anywhere in titles, lines, or captions.</li>
+          <li>Clean 2-space indentation for architectural metadata lines.</li>
+          <li>Clean CTA: <code>Collect the archive via link in bio</code> (no clunky parenthetical URLs in IG captions).</li>
+          <li>Exclusively 3–4 unique, non-repeating hashtags per post.</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- SECTION 2: COLOR & TYPOGRAPHY SYSTEM -->
+    <div class="section-title">02. Color System &amp; Typography</div>
+    <div class="grid-2">
+      <div class="card">
+        <h3>Official Color Palette</h3>
+        <p>Designed for a macro slate-to-black dark mode grid architecture combined with Parisian cream exhibition wall cards.</p>
+        <div class="swatch-row">
+          <div class="swatch swatch-black">VOID BLACK<br/>#000000</div>
+          <div class="swatch swatch-cream">MUSEUM CREAM<br/>#F8F6F0</div>
+          <div class="swatch swatch-mat">COTTON MAT<br/>#FBFBF9</div>
+        </div>
+        <div class="swatch-row">
+          <div class="swatch swatch-obsidian">OBSIDIAN<br/>#181818</div>
+          <div class="swatch swatch-accent">SOLANA BLUE<br/>#38BDF8</div>
+          <div class="swatch swatch-gold">ARCHIVE GOLD<br/>#F59E0B</div>
+        </div>
+      </div>
+
+      <div class="card">
+        <h3>Typographic Hierarchy</h3>
+        <table class="spec-table">
+          <tr>
+            <th>Element</th>
+            <th>Specification</th>
+          </tr>
+          <tr>
+            <td><strong>Slide 1 Center Watermark</strong></td>
+            <td><code>17pt Bold</code> &bull; SF Pro Display / DejaVu Bold &bull; Subtle dark shadow</td>
+          </tr>
+          <tr>
+            <td><strong>Slide 2 Monograph Title</strong></td>
+            <td><code>34pt Bold</code> &bull; Dash-Free (<code>JOSH1 196 BY JOSH SHOOT</code>)</td>
+          </tr>
+          <tr>
+            <td><strong>Slide 2 INPRNT Badge</strong></td>
+            <td><code>28pt Bold</code> &bull; Color-Harmonized Primary Accent</td>
+          </tr>
+          <tr>
+            <td><strong>Zoom Reel (1080x1920)</strong></td>
+            <td><code>64pt / 52pt / 36pt / 44pt</code> &bull; Exhibition Scale Bold</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+
+    <!-- SECTION 3: CAROUSEL & REEL SPECIFICATIONS -->
+    <div class="section-title">03. Visual Deliverables &amp; Grid Architecture</div>
+    <div class="grid-3">
+      <div class="card">
+        <h3>Slide 1: Black Void Portrait</h3>
+        <p>1080x1350 vertical portrait designed for continuous dark-mode slate-to-black profile grid.</p>
+        <ul style="color: var(--text-muted); font-size: 13px; padding-left: 20px; margin: 0;">
+          <li><strong>Format:</strong> True JPEG (Quality 95)</li>
+          <li><strong>Border:</strong> Crisp 22px white gallery border around pure photograph.</li>
+          <li><strong>Corners:</strong> Square / 0px roundness.</li>
+          <li><strong>Text:</strong> Centered <code>J O S H   S H O O T</code>.</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h3>Slide 2: Museum Monograph</h3>
+        <p>1080x1350 Parisian Cream plaster wall card with Gagosian double-matte framing.</p>
+        <ul style="color: var(--text-muted); font-size: 13px; padding-left: 20px; margin: 0;">
+          <li><strong>Wall:</strong> Cream spotlight falloff (<code>#F8F6F0</code> to <code>#E8E4DA</code>).</li>
+          <li><strong>Corners:</strong> 4x Supersampled smooth rounded corners (<code>radius=20px</code>).</li>
+          <li><strong>Text:</strong> High-Relief 3D Embossed Typography.</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h3>Zoom Reel: 1080x1920 Video</h3>
+        <p>9:16 vertical MP4 video reel for TikTok, YouTube Shorts, and Instagram Reels.</p>
+        <ul style="color: var(--text-muted); font-size: 13px; padding-left: 20px; margin: 0;">
+          <li><strong>Motion:</strong> Cosine-eased 1.15x &rarr; 1.00x zoom-out over 4s + 1s hold.</li>
+          <li><strong>Typography:</strong> Bold Exhibition Scale (<code>64pt</code> title).</li>
+          <li><strong>Length:</strong> 5.0 seconds (150 frames @ 30fps).</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- SECTION 4: INSTAGRAM GRID PREVIEW -->
+    <div class="section-title">04. Profile Grid Math &amp; Macro Architecture</div>
+    <div class="card">
+      <h3>Instagram Profile Grid Layout (3x3 Dark-Mode Slate-to-Black Gradient)</h3>
+      <p>Verified placement for Row 1 (Pinned Reels) and Row 2 (Sequential descending archive release).</p>
+      <div class="grid-preview">
+        <div class="grid-cell pinned">ROW 1 &bull; COL 0<br/>PINNED REEL 1</div>
+        <div class="grid-cell pinned">ROW 1 &bull; COL 1<br/>PINNED REEL 2</div>
+        <div class="grid-cell pinned">ROW 1 &bull; COL 2<br/>PINNED REEL 3</div>
+        <div class="grid-cell">ROW 2 &bull; COL 0<br/>EARLIEST POST<br/>(HISTORICAL)</div>
+        <div class="grid-cell center-post">ROW 2 &bull; COL 1<br/>POST 143<br/>JOSH1 #197<br/>(LIVE)</div>
+        <div class="grid-cell">ROW 2 &bull; COL 2<br/>POST 144<br/>JOSH1 #196<br/>(NEXT UP)</div>
+      </div>
+    </div>
+
+    <!-- SECTION 5: COPYWRITING TEMPLATE -->
+    <div class="section-title">05. Dash-Free Monograph Caption Template</div>
+    <div class="card">
+      <h3>Official Instagram &amp; Web3 Copywriting Template</h3>
+      <p>100% AI-Proof, dash-free monograph copy with clean 2-space indentation and non-repeating hashtags.</p>
+      <div class="code-block" id="copy-template">JOSH1 196 • Damstraatjes, Amsterdam
+
+  Amsterdam Damstraatjes
+  Brutalist mass against maritime history
+  An archival record of institutional form
+
+THE JOSH¹ ARCHIVE
+Limited Edition Phygital Art Piece
+Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
+Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition print via INPRNT
+
+Collect the archive via link in bio
+📸 iPhone 12 / Archival Capture
+📍 Amsterdam (AMS) 🇳🇱
+💎 Rarity: Common
+⚡ On Chain: JOSHSHOOT.SOL
+
+.
+.
+.
+#WallArtDecor #SolanaNFT #JOSHSHOOTPRINTS #INPRNT</div>
+      <button class="copy-btn" onclick="copyText('copy-template')">Copy Template</button>
+    </div>
+
+    <footer>
+      <p>
+        <strong>THE JOSH¹ ARCHIVE // OFFICIAL BRAND KIT &amp; SPECIFICATION</strong><br/>
+        Joshua den Ouden (<code>JOSHSHOOT.SOL</code>) &bull; 100% Free Automated GitHub Actions Integration &bull; 2026
+      </p>
+    </footer>
+  </div>
+</body>
+</html>

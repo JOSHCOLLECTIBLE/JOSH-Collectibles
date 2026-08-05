@@ -36,45 +36,45 @@ def get_font(size, bold=False):
 def crop_inprnt_mockup(img: Image.Image) -> Image.Image:
     """
     Automatically crops out INPRNT's grey studio mockup background and white paper mat border
-    so that only the PURE FINE ART PHOTOGRAPH remains.
+    so that only the PURE FINE ART PHOTOGRAPH remains (supports any thumbnail size: 440, 540, 1080).
     """
     w, h = img.size
     cx, cy = w // 2, h // 2
 
-    # Scan left edge from inside white mat towards right until pixel is NOT white/grey (>245)
+    # Left edge: scan from 5% width to center
     left = 0
-    for x in range(200, cx):
+    for x in range(int(w * 0.05), cx):
         r, g, b = img.getpixel((x, cy))
-        if not (r > 245 and g > 245 and b > 245):
+        if not (r > 240 and g > 240 and b > 240) and not (abs(r-g)<5 and abs(g-b)<5 and r>200):
             left = x
             break
 
-    # Scan right edge from inside white mat towards left until pixel is NOT white/grey (>245)
+    # Right edge: scan from 95% width to center
     right = w - 1
-    for x in range(w - 200, cx, -1):
+    for x in range(int(w * 0.95), cx, -1):
         r, g, b = img.getpixel((x, cy))
-        if not (r > 245 and g > 245 and b > 245):
+        if not (r > 240 and g > 240 and b > 240) and not (abs(r-g)<5 and abs(g-b)<5 and r>200):
             right = x
             break
 
-    # Scan top edge towards bottom
+    # Top edge: scan from 5% height to center
     top = 0
-    for y in range(120, cy):
+    for y in range(int(h * 0.05), cy):
         r, g, b = img.getpixel((cx, y))
-        if not (r > 245 and g > 245 and b > 245):
+        if not (r > 240 and g > 240 and b > 240) and not (abs(r-g)<5 and abs(g-b)<5 and r>200):
             top = y
             break
 
-    # Scan bottom edge towards top
+    # Bottom edge: scan from 95% height to center
     bottom = h - 1
-    for y in range(h - 120, cy, -1):
+    for y in range(int(h * 0.95), cy, -1):
         r, g, b = img.getpixel((cx, y))
-        if not (r > 245 and g > 245 and b > 245):
+        if not (r > 240 and g > 240 and b > 240) and not (abs(r-g)<5 and abs(g-b)<5 and r>200):
             bottom = y
             break
 
     # Safety check: if fallback bounding box is invalid, return original image
-    if right - left < 100 or bottom - top < 100:
+    if right - left < int(w * 0.2) or bottom - top < int(h * 0.2):
         return img
 
     # Crop with 2px safety inward margin so no white mat edge pixels remain

@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ARCHIVE JOSH // THE JOSH¹ ARCHIVE — Converged Luxury Editorial Brand Kit</title>
+  <style>
+    :root {
+      --bg: #102e34;
+      --card-bg: #163c44;
+      --card-border: #21515b;
+      --text-main: #efe3c3;
+      --text-muted: #b7cacf;
+      --saffron-gold: #e29922;
+      --sandy-dune: #e6c092;
+      --spiced-rust: #923c28;
+      --soft-foam: #efe3c3;
+      --void-black: #000000;
+    }
+    * { box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: var(--bg);
+      color: var(--text-main);
+      margin: 0;
+      padding: 40px 20px;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+    header {
+      text-align: center;
+      padding-bottom: 40px;
+      border-bottom: 1px solid var(--card-border);
+      margin-bottom: 50px;
+    }
+    .editorial-tag {
+      font-size: 11px;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      font-weight: 800;
+      color: var(--saffron-gold);
+      margin-bottom: 12px;
+    }
+    h1 {
+      font-size: 44px;
+      font-weight: 900;
+      letter-spacing: -1px;
+      margin: 0 0 16px 0;
+      text-transform: uppercase;
+      background: linear-gradient(135deg, #ffffff 0%, #e6c092 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    .subtitle {
+      font-size: 17px;
+      color: var(--text-muted);
+      max-width: 740px;
+      margin: 0 auto;
+    }
+    .section-title {
+      font-size: 24px;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+      margin: 50px 0 24px 0;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      border-left: 4px solid var(--saffron-gold);
+      padding-left: 14px;
+      color: #ffffff;
+    }
+    .grid-2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+    }
+    .grid-3 {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+    }
+    @media (max-width: 768px) {
+      .grid-2, .grid-3 { grid-template-columns: 1fr; }
+    }
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 8px;
+      padding: 28px;
+      position: relative;
+    }
+    .card h3 {
+      margin: 0 0 12px 0;
+      font-size: 18px;
+      font-weight: 800;
+      color: #ffffff;
+    }
+    .card p {
+      color: var(--text-muted);
+      font-size: 14px;
+      margin: 0 0 16px 0;
+    }
+    .swatch-row {
+      display: flex;
+      gap: 12px;
+      margin-top: 16px;
+    }
+    .swatch {
+      flex: 1;
+      height: 75px;
+      border-radius: 6px;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      padding: 8px;
+      font-size: 11px;
+      font-weight: 700;
+      font-family: monospace;
+      border: 1px solid rgba(255,255,255,0.1);
+    }
+    .swatch-petrol { background: #1c5058; color: #ffffff; }
+    .swatch-saffron { background: #e29922; color: #0f172a; }
+    .swatch-rust { background: #923c28; color: #ffffff; }
+    .swatch-dune { background: #e6c092; color: #0f172a; }
+    .swatch-foam { background: #efe3c3; color: #0f172a; }
+    .swatch-emerald { background: #029578; color: #ffffff; }
+
+    .spec-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 16px;
+    }
+    .spec-table th, .spec-table td {
+      text-align: left;
+      padding: 12px;
+      border-bottom: 1px solid var(--card-border);
+      font-size: 13px;
+    }
+    .spec-table th {
+      color: var(--saffron-gold);
+      font-weight: 700;
+      text-transform: uppercase;
+      font-size: 11px;
+      letter-spacing: 1px;
+    }
+    .spec-table td { color: var(--text-muted); }
+    .spec-table td strong { color: #ffffff; }
+
+    .rarity-bar {
+      height: 8px;
+      border-radius: 4px;
+      background: #102e34;
+      overflow: hidden;
+      margin: 6px 0 14px 0;
+    }
+    .rarity-fill {
+      height: 100%;
+      background: linear-gradient(90deg, #e29922, #e6c092);
+    }
+
+    .code-block {
+      background: #0d242a;
+      border: 1px solid var(--card-border);
+      border-radius: 6px;
+      padding: 18px;
+      font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+      font-size: 13px;
+      color: #efe3c3;
+      white-space: pre-wrap;
+      line-height: 1.6;
+      position: relative;
+    }
+    .copy-btn {
+      position: absolute;
+      top: 12px;
+      right: 12px;
+      background: #1c5058;
+      color: #ffffff;
+      border: 1px solid #286d78;
+      padding: 6px 12px;
+      border-radius: 4px;
+      font-size: 11px;
+      font-weight: 700;
+      cursor: pointer;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    .copy-btn:hover { background: #286d78; }
+
+    .badge-pill {
+      display: inline-block;
+      padding: 4px 10px;
+      background: #102e34;
+      color: var(--sandy-dune);
+      border: 1px solid #286d78;
+      border-radius: 999px;
+      font-size: 11px;
+      font-weight: 700;
+      margin-right: 6px;
+      margin-bottom: 6px;
+    }
+    footer {
+      text-align: center;
+      margin-top: 80px;
+      padding-top: 40px;
+      border-top: 1px solid var(--card-border);
+      color: var(--text-muted);
+      font-size: 13px;
+    }
+  </style>
+  <script>
+    function copyText(id) {
+      const el = document.getElementById(id);
+      navigator.clipboard.writeText(el.innerText).then(() => {
+        alert('Copied copy to clipboard!');
+      });
+    }
+  </script>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="editorial-tag">OFFICIAL CONVERGED LUXURY EDITORIAL BRAND KIT</div>
+      <h1>JOSH SHOOT // THE JOSH¹ ARCHIVE</h1>
+      <p class="subtitle">
+        Converging <strong>TT Ramillas &amp; TT Globs</strong> Luxury Serifs, Deep Petrol Navy &amp; Saffron Gold Palettes, 
+        <strong>Stained-Glass / Ceramic Shard Mosaics</strong>, and the Official <strong>Rarity Valuation Chart</strong> across 222 Collectibles
+      </p>
+    </header>
+
+    <!-- SECTION 1: IDENTITY & OVAL-FREE ICON CONVERGENCE -->
+    <div class="section-title">01. Identity &amp; Oval-Free Icon Convergence</div>
+    <div class="grid-2">
+      <div class="card">
+        <h3>Primary Brand Mark &amp; Naming</h3>
+        <p>
+          Converging the authoritative gallery monograph title with the exclusive limited-edition collector's archive:
+        </p>
+        <ul style="color: var(--text-muted); font-size: 14px; padding-left: 20px; margin: 0 0 16px 0;">
+          <li><strong>Primary Title:</strong> <code>J O S H   S H O O T</code> &bull; <code>T H E   J O S H ¹   A R C H I V E</code></li>
+          <li><strong>Collection Badge:</strong> <code>E X C L U S I V E   2 2 2   C O L L E C T I B L E S</code></li>
+          <li><strong>Stained-Glass Mosaic Icon:</strong> Large-Shard Ceramic Tectonic Emblem &bull; 3-Country Continental Drift</li>
+        </ul>
+        <div>
+          <span class="badge-pill">222 Exclusive Prints</span>
+          <span class="badge-pill">On-Chain: JOSHSHOOT.SOL</span>
+          <span class="badge-pill">Gallery: INPRNT</span>
+          <span class="badge-pill">300gsm Cotton Rag</span>
+        </div>
+      </div>
+
+      <div class="card">
+        <h3>Converged Editorial Typographic System</h3>
+        <p>
+          Synthesizing TT Ramillas / TT Globs editorial serifs with Parisian exhibition monographs:
+        </p>
+        <table class="spec-table">
+          <tr>
+            <th>Element</th>
+            <th>Typography Specification</th>
+          </tr>
+          <tr>
+            <td><strong>Exhibition Display Serifs</strong></td>
+            <td><code>TT Ramillas (Refined Transition) / TT Globs (Eclectic) / Bodoni FLF</code></td>
+          </tr>
+          <tr>
+            <td><strong>Slide 2 Monograph Title</strong></td>
+            <td><code>34pt Bold</code> &bull; Dash-Free (<code>JOSH1 196 BY JOSH SHOOT</code>)</td>
+          </tr>
+          <tr>
+            <td><strong>Slide 2 INPRNT Badge</strong></td>
+            <td><code>28pt Bold</code> &bull; Color-Harmonized Primary Accent</td>
+          </tr>
+          <tr>
+            <td><strong>9:16 Zoom Reel Title</strong></td>
+            <td><code>64pt / 52pt / 36pt / 44pt Bold</code> &bull; Exhibition Display Scale</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+
+    <!-- SECTION 2: CONVERGED PETROL NAVY & SAFFRON GOLD PALETTE -->
+    <div class="section-title">02. Official Editorial Art Palette</div>
+    <div class="card">
+      <h3>Synthesizing Deep Petrol Navy, Saffron Gold, Sandy Dune &amp; Spiced Rust</h3>
+      <p>Harmonized across physical cotton rag printmaking, editorial art books, and Solana Web3 collector identity.</p>
+      <div class="swatch-row">
+        <div class="swatch swatch-petrol">PETROL NAVY<br/>#1C5058</div>
+        <div class="swatch swatch-saffron">SAFFRON GOLD<br/>#E29922</div>
+        <div class="swatch swatch-rust">SPICED RUST<br/>#923C28</div>
+      </div>
+      <div class="swatch-row">
+        <div class="swatch swatch-dune">SANDY DUNE<br/>#E6C092</div>
+        <div class="swatch swatch-foam">SOFT FOAM CREAM<br/>#EFE3C3</div>
+        <div class="swatch swatch-emerald">DUSTY ROSE / MINT<br/>#029578</div>
+      </div>
+    </div>
+
+    <!-- SECTION 3: RARITY VALUATION CHART -->
+    <div class="section-title">03. Official Rarity Valuation Breakdown</div>
+    <div class="grid-2">
+      <div class="card">
+        <h3>Rarity Valuation Formula (e.g. 36.84 Valuation)</h3>
+        <p>Weighted algorithm determining collector value across all 222 exclusive prints:</p>
+        <div style="font-size: 13px; color: #ffffff; margin-bottom: 4px;"><strong>RARITY (51% WEIGHT)</strong> — Rare Photo (14%), Common, Legendary</div>
+        <div class="rarity-bar"><div class="rarity-fill" style="width: 51%;"></div></div>
+
+        <div style="font-size: 13px; color: #ffffff; margin-bottom: 4px;"><strong>IMAGE TYPE (25% WEIGHT)</strong> — Digital Photo (18%), B&amp;W (3.9%), Archival</div>
+        <div class="rarity-bar"><div class="rarity-fill" style="width: 25%;"></div></div>
+
+        <div style="font-size: 13px; color: #ffffff; margin-bottom: 4px;"><strong>COLOR (20% WEIGHT)</strong> — Brutalist Sand, Monochromatic, Jewel Tone</div>
+        <div class="rarity-bar"><div class="rarity-fill" style="width: 20%;"></div></div>
+
+        <div style="font-size: 13px; color: #ffffff; margin-bottom: 4px;"><strong>LOCATION (4% WEIGHT)</strong> — AUH (0.85%), AMS, RTM, CAI</div>
+        <div class="rarity-bar"><div class="rarity-fill" style="width: 10%;"></div></div>
+      </div>
+
+      <div class="card">
+        <h3>Rarity Chart Metadata Display</h3>
+        <p>How rarity is formatted in your dash-free monograph captions and reports:</p>
+        <table class="spec-table">
+          <tr>
+            <th>Attribute</th>
+            <th>Sample Valuation (JOSH1-111.3 / #196)</th>
+          </tr>
+          <tr>
+            <td><strong>Rarity Tier</strong></td>
+            <td><strong>RARE / COMMON</strong> (51% weight contribution)</td>
+          </tr>
+          <tr>
+            <td><strong>Image Medium</strong></td>
+            <td><strong>DIGITAL ARCHIVAL CAPTURE</strong> (18% valuation contribution)</td>
+          </tr>
+          <tr>
+            <td><strong>Color Harmony</strong></td>
+            <td><strong>TERRACOTTA SAND / OBSIDIAN</strong> (20% weight)</td>
+          </tr>
+          <tr>
+            <td><strong>Location Provenance</strong></td>
+            <td><strong>AMS / RTM / AUH</strong> (0.85%–4% weight)</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+
+    <!-- SECTION 4: COPYWRITING TEMPLATE -->
+    <div class="section-title">04. Converged Dash-Free Monograph Caption Template</div>
+    <div class="card">
+      <h3>100% AI-Proof Monograph &amp; Rarity Valuation Copy</h3>
+      <p>Clean 2-space indentation, dash-free typography, and 3–4 non-repeating hashtags.</p>
+      <div class="code-block" id="copy-template">JOSH1 196 • Damstraatjes, Amsterdam
+
+  Amsterdam Damstraatjes
+  Brutalist mass against maritime history
+  An archival record of institutional form
+  Rarity Valuation: 36.84 (Rare Digital Archival)
+
+JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
+Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
+Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition print via INPRNT
+
+Collect the archive via link in bio
+📸 iPhone 12 / Archival Capture
+📍 Amsterdam (AMS) 🇳🇱
+💎 Rarity: Rare / Common
+⚡ On Chain: JOSHSHOOT.SOL
+
+.
+.
+.
+#WallArtDecor #SolanaNFT #JOSHSHOOTPRINTS #INPRNT</div>
+      <button class="copy-btn" onclick="copyText('copy-template')">Copy Template</button>
+    </div>
+
+    <footer>
+      <p>
+        <strong>JOSH SHOOT // THE JOSH¹ ARCHIVE — CONVERGED LUXURY BRAND KIT</strong><br/>
+        Joshua den Ouden (<code>JOSHSHOOT.SOL</code>) &bull; 100% Free Automated GitHub Actions Integration &bull; 2026
+      </p>
+    </footer>
+  </div>
+</body>
+</html>

@@ -22,7 +22,12 @@ class InstagramAutomator:
         self.config = config or {}
         self.access_token = os.environ.get("INSTAGRAM_ACCESS_TOKEN", "").strip()
         self.account_id = os.environ.get("INSTAGRAM_ACCOUNT_ID", "").strip()
-        self.webhook_url = os.environ.get("MAKE_INSTAGRAM_WEBHOOK_URL", "").strip() or os.environ.get("INSTAGRAM_WEBHOOK_URL", "").strip()
+        self.webhook_url = (
+            os.environ.get("MAKE_INSTAGRAM_WEBHOOK_URL", "").strip()
+            or os.environ.get("INSTAGRAM_WEBHOOK_URL", "").strip()
+            or self.config.get("instagram_automation", {}).get("webhook_url", "").strip()
+            or "https://hook.eu1.make.com/30d9gkhnrtlmspxqh1bl3ekxyxndd93i"
+        )
         self.webhook_api_key = os.environ.get("MAKE_WEBHOOK_API_KEY", "").strip()
         self.api_version = "v19.0"
         self.base_url = f"https://graph.facebook.com/{self.api_version}"
