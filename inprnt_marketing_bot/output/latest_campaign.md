@@ -11,7 +11,7 @@
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Rotterdam waterfront architecture • Structural geometry along the urban harbor • Recorded for archival permanence. Common rarity asset in the JOSH¹ Archive ('JOSH1 195 • Scheepmakerskade 135'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-195-scheepmakerskade-135/ • #ContemporaryCollector #Industrial #FineArtPrint #INPRNT
+Rotterdam waterfront architecture • Structural geometry along the urban harbor • Recorded for archival permanence. Common rarity asset in the JOSH¹ Archive ('JOSH1 195 • Scheepmakerskade 135'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-195-scheepmakerskade-135/ • #BrutalistArchitecture #ArchitecturalPhotography #StreetPhotography #JOSHSHOOTPRINTS
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
@@ -33,7 +33,7 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#JOSHSHOOTPRINTS #MinimalistPhotography #UrbanGeometry #ContemporaryCollector
+#SolanaNFT #ArchitecturalPhotography #SolanaArt #WallArtDecor
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
@@ -63,7 +63,7 @@ Collect the archive via link in bio
 .
 .
 .
-#JOSHSHOOTPRINTS #MinimalistPhotography #UrbanGeometry #WallArtDecor
+#OnChainArt #JOSHSHOOTPRINTS #ArchivalPrint #FineArtPrint
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
