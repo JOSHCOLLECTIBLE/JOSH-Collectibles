@@ -1,9 +1,10 @@
 {
   "promoted_ids": [
     "josh1-197-maritime-museum-rotterdam",
-    "josh1-196-damstraatjes-amsterdam"
+    "josh1-196-damstraatjes-amsterdam",
+    "josh1-195-scheepmakerskade-135"
   ],
-  "last_promoted_date": "2026-08-05T16:30:00.000000",
+  "last_promoted_date": "2026-08-06T16:30:00.000000",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -18,6 +19,13 @@
       "title": "JOSH1-196: Damstraatjes, Amsterdam",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-196-damstraatjes-amsterdam/",
       "image_url": "https://cdn.inprnt.com/thumbs/74/bc/74bc117ec749aaf2cd9e2513870b6ed8@2x.jpg"
+    },
+    {
+      "date": "2026-08-06 16:30:00",
+      "artwork_id": "josh1-195-scheepmakerskade-135",
+      "title": "JOSH1-195: Scheepmakerskade 135",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-195-scheepmakerskade-135/",
+      "image_url": "https://cdn.inprnt.com/thumbs/d1/54/d154d7c400b4d2f5cf3b9bafccb0f182@2x.jpg"
     }
   ]
 }
