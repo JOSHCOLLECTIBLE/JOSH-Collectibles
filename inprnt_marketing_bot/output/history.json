@@ -2,9 +2,10 @@
   "promoted_ids": [
     "josh1-197-maritime-museum-rotterdam",
     "josh1-196-damstraatjes-amsterdam",
-    "josh1-195-scheepmakerskade-135"
+    "josh1-195-scheepmakerskade-135",
+    "josh1-194-van-gogh-museum"
   ],
-  "last_promoted_date": "2026-08-06T16:30:00.000000",
+  "last_promoted_date": "2026-08-07T00:35:49.523418",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -26,6 +27,13 @@
       "title": "JOSH1-195: Scheepmakerskade 135",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-195-scheepmakerskade-135/",
       "image_url": "https://cdn.inprnt.com/thumbs/d1/54/d154d7c400b4d2f5cf3b9bafccb0f182@2x.jpg"
+    },
+    {
+      "date": "2026-08-07 00:35:49",
+      "artwork_id": "josh1-194-van-gogh-museum",
+      "title": "JOSH1-194: Van Gogh Museum",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-194-van-gogh-museum/",
+      "image_url": "https://cdn.inprnt.com/thumbs/ca/8f/ca8fd3f6c99535f43d2d5a6ba3bfa46f@2x.jpg"
     }
   ]
 }

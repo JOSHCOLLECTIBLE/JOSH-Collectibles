@@ -5,6 +5,8 @@ museum-grade materiality specs, Rarity/Device/Origin metadata, clean CTAs, and 3
 """
 
 import re
+import os
+import csv
 from typing import Dict, Any, List, Optional
 import random
 
@@ -14,12 +16,14 @@ class ContentGenerator:
     - Zero hyphens or dashes anywhere in captions (- or — or –).
     - Clean 2-space indentation and elegant line spacing.
     - 300gsm cotton rag materiality & Solana provenance.
+    - Enriched with official DRiP collection metadata (Score, Grade, Location, Medium).
     """
 
     def __init__(self, config: Dict[str, Any]):
         self.config = config
         self.artist = config.get("artist", {})
         self.promo = config.get("promotion", {})
+        self.drip_catalog = self._load_drip_catalog()
         self.hashtags_pool = {
             "general": [
                 "#PhygitalArt", "#SolanaNFT", "#Industrial", "#BrutalistArchitecture",
@@ -28,6 +32,62 @@ class ContentGenerator:
                 "#UrbanGeometry", "#ContemporaryCollector", "#ArchivalPrint",
                 "#MinimalistPhotography", "#StreetPhotography", "#OnChainArt"
             ]
+        }
+
+    def _load_drip_catalog(self) -> Dict[int, Dict[str, str]]:
+        """Loads official DRiP metadata CSV from data/josh1_drip_metadata.csv."""
+        catalog = {}
+        csv_paths = [
+            "data/josh1_drip_metadata.csv",
+            "inprnt_marketing_bot/data/josh1_drip_metadata.csv",
+            os.path.join(os.path.dirname(__file__), "../data/josh1_drip_metadata.csv")
+        ]
+        for path in csv_paths:
+            if os.path.exists(path):
+                try:
+                    with open(path, mode="r", encoding="utf-8-sig") as f:
+                        reader = csv.DictReader(f)
+                        for row in reader:
+                            f_num = row.get("File #", "").strip()
+                            if f_num and f_num.isdigit():
+                                catalog[int(f_num)] = row
+                    print(f"[INFO] Successfully loaded DRiP metadata for {len(catalog)} prints from {path}")
+                    break
+                except Exception as e:
+                    print(f"[WARN] Could not parse DRiP CSV ({path}): {e}")
+        return catalog
+
+    def _get_drip_metadata(self, title: str) -> Dict[str, str]:
+        """Extracts official DRiP Score, Grade, Medium, Location from the catalog."""
+        match = re.search(r"josh1[- ](\d+)", title, flags=re.IGNORECASE)
+        num = int(match.group(1)) if match else 0
+        drip_row = self.drip_catalog.get(num, {})
+
+        score = drip_row.get("Score", "").strip() or "50.0"
+        grade = drip_row.get("Grade", "").strip() or "D"
+        loc_code = (drip_row.get("Location", "").strip() or "RTM").upper()
+        medium_val = drip_row.get("Image Type", "").strip() or "Digital"
+        rarity_val = drip_row.get("Rarity", "").strip() or "Common"
+        if rarity_val.lower() == "no-rarity":
+            rarity_val = "Common"
+
+        loc_map = {
+            "AMS": "Amsterdam (AMS) 🇳🇱",
+            "RTM": "Rotterdam (RTM) 🇳🇱",
+            "AUH": "Abu Dhabi (AUH) 🇦🇪",
+            "DXB": "Dubai (DXB) 🇦🇪",
+            "BRU": "Brussels (BRU) 🇧🇪",
+            "CAI": "Cairo (CAI) 🇪🇬",
+            "LON": "London (LON) 🇬🇧"
+        }
+        loc_str = loc_map.get(loc_code, f"{loc_code} 🌍")
+
+        return {
+            "score": score,
+            "grade": grade,
+            "location": loc_str,
+            "medium": medium_val,
+            "rarity": rarity_val
         }
 
     def _get_random_hashtags(self, count: int = 4) -> str:
@@ -228,18 +288,23 @@ class ContentGenerator:
     def generate_instagram(self, title: str, location: str, rarity: str, device: str, lines: List[str]) -> Dict[str, Any]:
         hashtags = self._get_random_hashtags(4)
         curatorial_block = "\n".join(lines)
+        drip_meta = self._get_drip_metadata(title)
+        d_score = drip_meta.get("score", "50.0")
+        d_grade = drip_meta.get("grade", "D")
+        d_loc = drip_meta.get("location", location)
+        d_medium = drip_meta.get("medium", "Digital")
 
         caption = (
             f"{title}\n\n"
-            f"{curatorial_block}\n\n"
-            f"THE JOSH¹ ARCHIVE\n"
-            f"Limited Edition Phygital Art Piece\n"
+            f"{curatorial_block}\n"
+            f"  DRiP Provenance: Score {d_score} (Grade {d_grade} • {d_loc.split()[0]})\n\n"
+            f"JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES\n"
             f"Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)\n"
             f"Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition print via INPRNT\n\n"
             f"Collect the archive via link in bio\n"
-            f"📸 {device}\n"
-            f"📍 {location}\n"
-            f"💎 Rarity: {rarity}\n"
+            f"📸 Archival Capture / {d_medium}\n"
+            f"📍 {d_loc}\n"
+            f"💎 DRiP Score: {d_score} | Grade: {d_grade}\n"
             f"⚡ On Chain: JOSHSHOOT.SOL\n\n"
             f".\n.\n.\n"
             f"{hashtags}"
