@@ -76,11 +76,13 @@ class ContentGenerator:
         loc_map = {
             "AMS": "Amsterdam (AMS) 🇳🇱",
             "RTM": "Rotterdam (RTM) 🇳🇱",
+            "RTD": "Rotterdam (RTM) 🇳🇱",
             "AUH": "Abu Dhabi (AUH) 🇦🇪",
             "DXB": "Dubai (DXB) 🇦🇪",
             "BRU": "Brussels (BRU) 🇧🇪",
             "CAI": "Cairo (CAI) 🇪🇬",
-            "LON": "London (LON) 🇬🇧"
+            "LON": "London (LON) 🇬🇧",
+            "LBA": "Leeds (LBA) 🇬🇧"
         }
         loc_str = loc_map.get(loc_code, f"{loc_code} 🌍")
 
