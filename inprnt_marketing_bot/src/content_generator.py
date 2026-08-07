@@ -66,6 +66,8 @@ class ContentGenerator:
         score = drip_row.get("Score", "").strip() or "50.0"
         grade = drip_row.get("Grade", "").strip() or "D"
         loc_code = (drip_row.get("Location", "").strip() or "RTM").upper()
+        if loc_code == "N/A":
+            loc_code = "RTM"
         medium_val = drip_row.get("Image Type", "").strip() or "Digital"
         rarity_val = drip_row.get("Rarity", "").strip() or "Common"
         if rarity_val.lower() == "no-rarity":

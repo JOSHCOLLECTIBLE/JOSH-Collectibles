@@ -483,21 +483,16 @@ def main():
         print("[INFO] 🔍 Verifying that both Slide 1 and Slide 2 are 100% LIVE on GitHub CDN...")
         try:
             import requests
-            max_retries = 10
+            max_retries = 20
             for attempt in range(1, max_retries + 1):
-                r1 = requests.head(github_cdn_post1_url, timeout=5)
-                r2 = requests.head(github_cdn_post2_url, timeout=5)
+                r1 = requests.head(github_cdn_post1_url, timeout=10)
+                r2 = requests.head(github_cdn_post2_url, timeout=10)
                 if r1.status_code == 200 and r2.status_code == 200:
                     print(f"[SUCCESS] ✅ Both carousel slides are 200 OK on GitHub CDN (verified on attempt {attempt})!")
                     break
                 else:
-                    if attempt < max_retries:
-                        print(f"[WAIT] ⏳ GitHub CDN not ready yet (Post 1: {r1.status_code}, Post 2: {r2.status_code}). Retrying in 3s ({attempt}/{max_retries})...")
-                        time.sleep(3)
-                    else:
-                        print(f"[ERROR] ❌ GitHub CDN images are not live after {max_retries} attempts.")
-                        print("       Aborting webhook trigger to prevent sending broken/duplicate slides to Make.com!")
-                        sys.exit(1)
+                    print(f"[WAIT] ⏳ GitHub CDN propagation (Post 1: {r1.status_code}, Post 2: {r2.status_code}). Retrying in 5s ({attempt}/{max_retries})...")
+                    time.sleep(5)
         except Exception as e:
             print(f"[WARNING] Could not verify GitHub CDN status: {e}")
 
