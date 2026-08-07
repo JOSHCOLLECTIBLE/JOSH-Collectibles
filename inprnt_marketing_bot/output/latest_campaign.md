@@ -1,26 +1,26 @@
-# 🎨 Marketing Campaign: JOSH1 193 • Praise The Lord
+# 🎨 Marketing Campaign: JOSH1 194 • Van Gogh Museum
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-193-praise-the-lord/](https://www.inprnt.com/gallery/joshuadenouden/josh1-193-praise-the-lord/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-194-van-gogh-museum/](https://www.inprnt.com/gallery/joshuadenouden/josh1-194-van-gogh-museum/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
-**Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
+**Rarity:** `💎 Common` | **Origin:** `📍 Amsterdam (AMS) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 193 • Praise The Lord](https://cdn.inprnt.com/thumbs/c9/60/c9600baaedd080234941b8162bec669a@2x.jpg)
+![JOSH1 194 • Van Gogh Museum](https://cdn.inprnt.com/thumbs/ca/8f/ca8fd3f6c99535f43d2d5a6ba3bfa46f@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 193 • Praise The Lord | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 194 • Van Gogh Museum | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 193 • Praise The Lord'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-193-praise-the-lord/ • #INPRNT #WallArtDecor #MinimalistPhotography #FineArtPrint
+Institutional architecture and public space • Structural geometry in natural light • An archival record of museum form. Common rarity asset in the JOSH¹ Archive ('JOSH1 194 • Van Gogh Museum'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Amsterdam (AMS) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-194-van-gogh-museum/ • #INPRNT #PhygitalArt #MinimalistPhotography #ArchivalPrint
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 193 • Praise The Lord 」
+「 JOSH1 194 • Van Gogh Museum 」
 
-  Architectural geometry and urban stillness
-  Structural symmetry recorded in natural light
-  An archival record of institutional form
+  Institutional architecture and public space
+  Structural geometry in natural light
+  An archival record of museum form
 
 THE JOSH¹ ARCHIVE
 Limited Edition Phygital Art Piece
@@ -29,26 +29,26 @@ Bridging Solana blockchain provenance to museum grade physical prints.
 Collect the archive via INPRNT (link in bio)
 
 📸 iPhone 12 / Archival Capture
-📍 Rotterdam (RTM) 🇳🇱
+📍 Amsterdam (AMS) 🇳🇱
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#OnChainArt #StreetPhotography #INPRNT #MinimalistPhotography
+#FineArtPrint #INPRNT #Industrial #OnChainArt
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 193 • Praise The Lord')
+• Slide 1: Full high res photograph ('JOSH1 194 • Van Gogh Museum')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
-• Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
+• Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Amsterdam (AMS) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 193 • Praise The Lord
+JOSH1 194 • Van Gogh Museum
 
-  Architectural geometry and urban stillness
-  Structural symmetry recorded in natural light
-  An archival record of institutional form
-  DRiP Provenance: Score 48.4 (Grade D • Rotterdam)
+  Institutional architecture and public space
+  Structural geometry in natural light
+  An archival record of museum form
+  DRiP Provenance: Score 51.4 (Grade D • Amsterdam)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -56,24 +56,24 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 
 Collect the archive via link in bio
 📸 Archival Capture / IPhone
-📍 Rotterdam (RTM) 🇳🇱
-💎 DRiP Score: 48.4 | Grade: D
+📍 Amsterdam (AMS) 🇳🇱
+💎 DRiP Score: 51.4 | Grade: D
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#MinimalistPhotography #StreetPhotography #UrbanGeometry #INPRNT
+#ArtCollector #StreetPhotography #BrutalistArchitecture #PhygitalArt
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 193 • Praise The Lord`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 194 • Van Gogh Museum`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 193 • Praise The Lord"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 194 • Van Gogh Museum"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-193-praise-the-lord/"><img src="https://cdn.inprnt.com/thumbs/c9/60/c9600baaedd080234941b8162bec669a@2x.jpg" alt="JOSH1 193 • Praise The Lord" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-194-van-gogh-museum/"><img src="https://cdn.inprnt.com/thumbs/ca/8f/ca8fd3f6c99535f43d2d5a6ba3bfa46f@2x.jpg" alt="JOSH1 194 • Van Gogh Museum" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,13 +81,13 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 193 • Praise The Lord` |
+| **Title** | `JOSH1 194 • Van Gogh Museum` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
-| **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
+| **Location Origin** | `📍 Amsterdam (AMS) 🇳🇱` |
 | **Physical Medium** | `100% Cotton Rag Archival Print via INPRNT` |
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-193-praise-the-lord/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-194-van-gogh-museum/)**
 ```

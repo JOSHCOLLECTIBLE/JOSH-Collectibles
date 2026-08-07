@@ -298,7 +298,7 @@ def generate_post2_museum_monograph(num: int, title: str, img_url: str, idx: int
     # All 4 typography lines use standard '1' (never '¹') to guarantee zero missing glyph boxes [], and ultra-crisp high contrast!
     draw_3d_text_on_light_wall(draw, width, 1005, f"JOSH1 {num} BY JOSH SHOOT", font_top, fill=(24, 24, 28)) # Crisp Obsidian Black
     draw_3d_text_on_light_wall(draw, width, 1060, "JOSH SHOOT | INPRNT", font_second, fill=(143, 109, 3))    # Antique Bronze Gold
-    draw_3d_text_on_light_wall(draw, width, 1115, "300GSM COTTON RAG • ARCHIVAL EDITION", font_rag, fill=(71, 85, 105)) # Slate Grey
+    draw_3d_text_on_light_wall(draw, width, 1115, "300GSM COTTON RAG / ARCHIVAL EDITION", font_rag, fill=(71, 85, 105)) # Slate Grey
     draw_3d_text_on_light_wall(draw, width, 1175, "THE JOSH1 ARCHIVE", font_footer, fill=(24, 24, 28))       # Crisp Obsidian Black (standard '1')
 
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
