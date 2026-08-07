@@ -258,8 +258,7 @@ def draw_3d_text_on_light_wall(draw: ImageDraw.ImageDraw, width: int, y: int, te
     text_w = bbox[2] - bbox[0]
     x = (width - text_w) // 2
 
-    draw.text((x + 2, y + 3), text, font=font, fill=(160, 155, 145))
-    draw.text((x + 1, y + 2), text, font=font, fill=(180, 175, 165))
+    # A single, ultra-crisp 1px subtle white highlight for elegant museum depth without any blurring or ghosting!
     draw.text((x - 1, y - 1), text, font=font, fill=(255, 255, 255))
     draw.text((x, y), text, font=font, fill=fill)
 
@@ -291,16 +290,16 @@ def generate_post2_museum_monograph(num: int, title: str, img_url: str, idx: int
     card.paste(framed, ((width - framed.width) // 2, 75), framed)
 
     draw = ImageDraw.Draw(card)
-    font_top = get_font(34, bold=True)
-    font_second = get_font(28, bold=True)
-    font_rag = get_font(19, bold=False)
-    font_footer = get_font(22, bold=True)
+    font_top = get_font(36, bold=True)
+    font_second = get_font(30, bold=True)
+    font_rag = get_font(20, bold=True)
+    font_footer = get_font(24, bold=True)
 
-    # All 4 typography lines change based on the photography color theme (dash-free)!
-    draw_3d_text_on_light_wall(draw, width, 1005, f"JOSH1 197 BY JOSH SHOOT" if num == 197 else f"JOSH1 {num} BY JOSH SHOOT", font_top, fill=deep_theme)
-    draw_3d_text_on_light_wall(draw, width, 1060, "JOSH SHOOT | INPRNT", font_second, fill=primary_accent)
-    draw_3d_text_on_light_wall(draw, width, 1115, "300GSM COTTON RAG • ARCHIVAL EDITION", font_rag, fill=muted_theme)
-    draw_3d_text_on_light_wall(draw, width, 1175, "THE JOSH¹ ARCHIVE", font_footer, fill=deep_theme)
+    # All 4 typography lines use standard '1' (never '¹') to guarantee zero missing glyph boxes [], and ultra-crisp high contrast!
+    draw_3d_text_on_light_wall(draw, width, 1005, f"JOSH1 {num} BY JOSH SHOOT", font_top, fill=(24, 24, 28)) # Crisp Obsidian Black
+    draw_3d_text_on_light_wall(draw, width, 1060, "JOSH SHOOT | INPRNT", font_second, fill=(143, 109, 3))    # Antique Bronze Gold
+    draw_3d_text_on_light_wall(draw, width, 1115, "300GSM COTTON RAG • ARCHIVAL EDITION", font_rag, fill=(71, 85, 105)) # Slate Grey
+    draw_3d_text_on_light_wall(draw, width, 1175, "THE JOSH1 ARCHIVE", font_footer, fill=(24, 24, 28))       # Crisp Obsidian Black (standard '1')
 
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     card.save(output_path, "JPEG", quality=95)
