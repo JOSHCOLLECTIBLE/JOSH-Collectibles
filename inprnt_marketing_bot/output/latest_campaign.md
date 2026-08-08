@@ -1,26 +1,26 @@
-# 🎨 Marketing Campaign: JOSH1 191 • A's Station
+# 🎨 Marketing Campaign: JOSH1 192 • Mono Closing Party 22'
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-191-as-station/](https://www.inprnt.com/gallery/joshuadenouden/josh1-191-as-station/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-192-mono-closing-party-22/](https://www.inprnt.com/gallery/joshuadenouden/josh1-192-mono-closing-party-22/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 191 • A's Station](https://cdn.inprnt.com/thumbs/80/3c/803c399de7acca585ff3f764089424d6@2x.jpg)
+![JOSH1 192 • Mono Closing Party 22'](https://cdn.inprnt.com/thumbs/a9/3c/a93cf3d0c8a257a61f72519f122664fb@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 191 • A's Station | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 192 • Mono Closing Party 22' | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Urban transit and architectural scale • Kinetic movement inside modern terminals • Recorded for architectural permanence. Common rarity asset in the JOSH¹ Archive ('JOSH1 191 • A's Station'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-191-as-station/ • #UrbanGeometry #ArchivalPrint #ContemporaryCollector #WallArtDecor
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 192 • Mono Closing Party 22''). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-192-mono-closing-party-22/ • #ArtCollector #SolanaArt #ContemporaryCollector #WallArtDecor
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 191 • A's Station 」
+「 JOSH1 192 • Mono Closing Party 22' 」
 
-  Urban transit and architectural scale
-  Kinetic movement inside modern terminals
-  Recorded for architectural permanence
+  Architectural geometry and urban stillness
+  Structural symmetry recorded in natural light
+  An archival record of institutional form
 
 THE JOSH¹ ARCHIVE
 Limited Edition Phygital Art Piece
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#SolanaNFT #INPRNT #ArtCollector #ContemporaryCollector
+#StreetPhotography #INPRNT #ArchivalPrint #JOSHSHOOTPRINTS
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 191 • A's Station')
+• Slide 1: Full high res photograph ('JOSH1 192 • Mono Closing Party 22'')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 191 • A's Station
+JOSH1 192 • Mono Closing Party 22'
 
-  Urban transit and architectural scale
-  Kinetic movement inside modern terminals
-  Recorded for architectural permanence
-  DRiP Provenance: Score 52.3 (Grade D • Brussels)
+  Architectural geometry and urban stillness
+  Structural symmetry recorded in natural light
+  An archival record of institutional form
+  DRiP Provenance: Score 47.2 (Grade D • Rotterdam)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -56,24 +56,24 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 
 Collect the archive via link in bio
 📸 Archival Capture / IPhone
-📍 Brussels (BRU) 🇧🇪
-💎 DRiP Score: 52.3 | Grade: D
+📍 Rotterdam (RTM) 🇳🇱
+💎 DRiP Score: 47.2 | Grade: D
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#OnChainArt #JOSHSHOOTPRINTS #Industrial #WallArtDecor
+#JOSHSHOOTPRINTS #ArchivalPrint #INPRNT #MinimalistPhotography
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 191 • A's Station`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 192 • Mono Closing Party 22'`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 191 • A's Station"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 192 • Mono Closing Party 22'"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-191-as-station/"><img src="https://cdn.inprnt.com/thumbs/80/3c/803c399de7acca585ff3f764089424d6@2x.jpg" alt="JOSH1 191 • A's Station" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-192-mono-closing-party-22/"><img src="https://cdn.inprnt.com/thumbs/a9/3c/a93cf3d0c8a257a61f72519f122664fb@2x.jpg" alt="JOSH1 192 • Mono Closing Party 22'" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 191 • A's Station` |
+| **Title** | `JOSH1 192 • Mono Closing Party 22'` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-191-as-station/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-192-mono-closing-party-22/)**
 ```
