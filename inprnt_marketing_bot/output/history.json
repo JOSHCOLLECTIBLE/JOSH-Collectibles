@@ -5,9 +5,10 @@
     "josh1-195-scheepmakerskade-135",
     "josh1-194-van-gogh-museum",
     "josh1-193-praise-the-lord",
-    "josh1-192-mono-closing-party-22"
+    "josh1-192-mono-closing-party-22",
+    "josh1-191-as-station"
   ],
-  "last_promoted_date": "2026-08-09T07:13:30.729768",
+  "last_promoted_date": "2026-08-09T14:37:58.323956",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -57,6 +58,13 @@
       "title": "JOSH1-192: Mono Closing Party 22'",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-192-mono-closing-party-22/",
       "image_url": "https://cdn.inprnt.com/thumbs/a9/3c/a93cf3d0c8a257a61f72519f122664fb@2x.jpg"
+    },
+    {
+      "date": "2026-08-09 14:37:58",
+      "artwork_id": "josh1-191-as-station",
+      "title": "JOSH1-191: A's Station",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-191-as-station/",
+      "image_url": "https://cdn.inprnt.com/thumbs/80/3c/803c399de7acca585ff3f764089424d6@2x.jpg"
     }
   ]
 }
