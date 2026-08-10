@@ -6,9 +6,10 @@
     "josh1-194-van-gogh-museum",
     "josh1-193-praise-the-lord",
     "josh1-192-mono-closing-party-22",
-    "josh1-191-as-station"
+    "josh1-191-as-station",
+    "josh1-190-leeds-university"
   ],
-  "last_promoted_date": "2026-08-09T14:37:58.323956",
+  "last_promoted_date": "2026-08-10T15:01:53.387949",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -65,6 +66,13 @@
       "title": "JOSH1-191: A's Station",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-191-as-station/",
       "image_url": "https://cdn.inprnt.com/thumbs/80/3c/803c399de7acca585ff3f764089424d6@2x.jpg"
+    },
+    {
+      "date": "2026-08-10 15:01:53",
+      "artwork_id": "josh1-190-leeds-university",
+      "title": "JOSH1-190: Leeds University",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-190-leeds-university/",
+      "image_url": "https://cdn.inprnt.com/thumbs/cf/81/cf815e5dceefd6359ede7173c6efe4dd@2x.jpg"
     }
   ]
 }
