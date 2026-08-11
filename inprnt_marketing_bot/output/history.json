@@ -7,9 +7,10 @@
     "josh1-193-praise-the-lord",
     "josh1-192-mono-closing-party-22",
     "josh1-191-as-station",
-    "josh1-190-leeds-university"
+    "josh1-190-leeds-university",
+    "josh1-189-waterloo-station"
   ],
-  "last_promoted_date": "2026-08-10T15:01:53.387949",
+  "last_promoted_date": "2026-08-11T15:01:00.665989",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -73,6 +74,13 @@
       "title": "JOSH1-190: Leeds University",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-190-leeds-university/",
       "image_url": "https://cdn.inprnt.com/thumbs/cf/81/cf815e5dceefd6359ede7173c6efe4dd@2x.jpg"
+    },
+    {
+      "date": "2026-08-11 15:01:00",
+      "artwork_id": "josh1-189-waterloo-station",
+      "title": "JOSH1-189: Waterloo Station",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-189-waterloo-station/",
+      "image_url": "https://cdn.inprnt.com/thumbs/22/e7/22e7f6a271082f11ef6ae19b8eb72d69@2x.jpg"
     }
   ]
 }
