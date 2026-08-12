@@ -8,9 +8,10 @@
     "josh1-192-mono-closing-party-22",
     "josh1-191-as-station",
     "josh1-190-leeds-university",
-    "josh1-189-waterloo-station"
+    "josh1-189-waterloo-station",
+    "josh1-188-a-2222-2022"
   ],
-  "last_promoted_date": "2026-08-11T15:01:00.665989",
+  "last_promoted_date": "2026-08-12T15:00:15.489447",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -81,6 +82,13 @@
       "title": "JOSH1-189: Waterloo Station",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-189-waterloo-station/",
       "image_url": "https://cdn.inprnt.com/thumbs/22/e7/22e7f6a271082f11ef6ae19b8eb72d69@2x.jpg"
+    },
+    {
+      "date": "2026-08-12 15:00:15",
+      "artwork_id": "josh1-188-a-2222-2022",
+      "title": "JOSH1-188: A 2222 2022",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-188-a-2222-2022/",
+      "image_url": "https://cdn.inprnt.com/thumbs/84/03/8403c6dfa2930fa70f862abf9336558f@2x.jpg"
     }
   ]
 }
