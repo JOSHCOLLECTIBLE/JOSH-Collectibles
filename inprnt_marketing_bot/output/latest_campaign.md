@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 188 • A 2222 2022
+# 🎨 Marketing Campaign: JOSH1 187 • Nieuwe Mass
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-188-a-2222-2022/](https://www.inprnt.com/gallery/joshuadenouden/josh1-188-a-2222-2022/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-187-nieuwe-mass/](https://www.inprnt.com/gallery/joshuadenouden/josh1-187-nieuwe-mass/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 188 • A 2222 2022](https://cdn.inprnt.com/thumbs/84/03/8403c6dfa2930fa70f862abf9336558f@2x.jpg)
+![JOSH1 187 • Nieuwe Mass](https://cdn.inprnt.com/thumbs/d0/56/d056092519b22ff0a348477665b98698@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 188 • A 2222 2022 | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 187 • Nieuwe Mass | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 188 • A 2222 2022'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-188-a-2222-2022/ • #UrbanGeometry #WallArtDecor #PhygitalArt #OnChainArt
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 187 • Nieuwe Mass'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-187-nieuwe-mass/ • #ArtCollector #StreetPhotography #WallArtDecor #ArchitecturalPhotography
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 188 • A 2222 2022 」
+「 JOSH1 187 • Nieuwe Mass 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#ContemporaryCollector #JOSHSHOOTPRINTS #SolanaNFT #MinimalistPhotography
+#ArtCollector #UrbanGeometry #SolanaArt #ContemporaryCollector
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 188 • A 2222 2022')
+• Slide 1: Full high res photograph ('JOSH1 187 • Nieuwe Mass')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 188 • A 2222 2022
+JOSH1 187 • Nieuwe Mass
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 53.4 (Grade D • Rotterdam)
+  DRiP Provenance: Score 54.3 (Grade D • Rotterdam)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -57,23 +57,23 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 Collect the archive via link in bio
 📸 Archival Capture / Digital
 📍 Rotterdam (RTM) 🇳🇱
-💎 DRiP Score: 53.4 | Grade: D
+💎 DRiP Score: 54.3 | Grade: D
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#WallArtDecor #Industrial #INPRNT #UrbanGeometry
+#ArchivalPrint #ArtCollector #WallArtDecor #OnChainArt
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 188 • A 2222 2022`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 187 • Nieuwe Mass`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 188 • A 2222 2022"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 187 • Nieuwe Mass"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-188-a-2222-2022/"><img src="https://cdn.inprnt.com/thumbs/84/03/8403c6dfa2930fa70f862abf9336558f@2x.jpg" alt="JOSH1 188 • A 2222 2022" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-187-nieuwe-mass/"><img src="https://cdn.inprnt.com/thumbs/d0/56/d056092519b22ff0a348477665b98698@2x.jpg" alt="JOSH1 187 • Nieuwe Mass" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 188 • A 2222 2022` |
+| **Title** | `JOSH1 187 • Nieuwe Mass` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-188-a-2222-2022/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-187-nieuwe-mass/)**
 ```

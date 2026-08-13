@@ -9,9 +9,10 @@
     "josh1-191-as-station",
     "josh1-190-leeds-university",
     "josh1-189-waterloo-station",
-    "josh1-188-a-2222-2022"
+    "josh1-188-a-2222-2022",
+    "josh1-187-nieuwe-mass"
   ],
-  "last_promoted_date": "2026-08-12T15:00:15.489447",
+  "last_promoted_date": "2026-08-13T15:01:04.902759",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -89,6 +90,13 @@
       "title": "JOSH1-188: A 2222 2022",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-188-a-2222-2022/",
       "image_url": "https://cdn.inprnt.com/thumbs/84/03/8403c6dfa2930fa70f862abf9336558f@2x.jpg"
+    },
+    {
+      "date": "2026-08-13 15:01:04",
+      "artwork_id": "josh1-187-nieuwe-mass",
+      "title": "JOSH1-187: Nieuwe Mass",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-187-nieuwe-mass/",
+      "image_url": "https://cdn.inprnt.com/thumbs/d0/56/d056092519b22ff0a348477665b98698@2x.jpg"
     }
   ]
 }
