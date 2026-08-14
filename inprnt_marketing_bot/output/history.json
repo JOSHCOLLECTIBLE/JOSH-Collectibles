@@ -10,9 +10,10 @@
     "josh1-190-leeds-university",
     "josh1-189-waterloo-station",
     "josh1-188-a-2222-2022",
-    "josh1-187-nieuwe-mass"
+    "josh1-187-nieuwe-mass",
+    "josh1-186-shooting-with-jom"
   ],
-  "last_promoted_date": "2026-08-13T15:01:04.902759",
+  "last_promoted_date": "2026-08-14T14:54:58.200279",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -97,6 +98,13 @@
       "title": "JOSH1-187: Nieuwe Mass",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-187-nieuwe-mass/",
       "image_url": "https://cdn.inprnt.com/thumbs/d0/56/d056092519b22ff0a348477665b98698@2x.jpg"
+    },
+    {
+      "date": "2026-08-14 14:54:58",
+      "artwork_id": "josh1-186-shooting-with-jom",
+      "title": "JOSH1-186: Shooting with JOM",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-186-shooting-with-jom/",
+      "image_url": "https://cdn.inprnt.com/thumbs/33/67/3367740587edc31e6b62485016ecb2cf@2x.jpg"
     }
   ]
 }
