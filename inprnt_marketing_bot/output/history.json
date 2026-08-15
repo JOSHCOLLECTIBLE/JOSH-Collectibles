@@ -11,9 +11,10 @@
     "josh1-189-waterloo-station",
     "josh1-188-a-2222-2022",
     "josh1-187-nieuwe-mass",
-    "josh1-186-shooting-with-jom"
+    "josh1-186-shooting-with-jom",
+    "josh1-185-in-joms-room"
   ],
-  "last_promoted_date": "2026-08-14T14:54:58.200279",
+  "last_promoted_date": "2026-08-15T14:26:22.211574",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -105,6 +106,13 @@
       "title": "JOSH1-186: Shooting with JOM",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-186-shooting-with-jom/",
       "image_url": "https://cdn.inprnt.com/thumbs/33/67/3367740587edc31e6b62485016ecb2cf@2x.jpg"
+    },
+    {
+      "date": "2026-08-15 14:26:22",
+      "artwork_id": "josh1-185-in-joms-room",
+      "title": "JOSH1-185: In JOM's Room",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-185-in-joms-room/",
+      "image_url": "https://cdn.inprnt.com/thumbs/0e/09/0e0987061efad496c7687d1a300f050f@2x.jpg"
     }
   ]
 }
