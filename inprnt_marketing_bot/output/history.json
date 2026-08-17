@@ -13,9 +13,10 @@
     "josh1-187-nieuwe-mass",
     "josh1-186-shooting-with-jom",
     "josh1-185-in-joms-room",
-    "josh1-184-taste-of-bengal"
+    "josh1-184-taste-of-bengal",
+    "josh1-183-rotterdam-blaak-station"
   ],
-  "last_promoted_date": "2026-08-16T14:26:44.754223",
+  "last_promoted_date": "2026-08-17T14:31:07.069160",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -121,6 +122,13 @@
       "title": "JOSH1-184: Taste of Bengal",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-184-taste-of-bengal/",
       "image_url": "https://cdn.inprnt.com/thumbs/29/81/298159654f8645778720436ef15cd160@2x.jpg"
+    },
+    {
+      "date": "2026-08-17 14:31:07",
+      "artwork_id": "josh1-183-rotterdam-blaak-station",
+      "title": "JOSH1-183: Rotterdam Blaak Station",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-183-rotterdam-blaak-station/",
+      "image_url": "https://cdn.inprnt.com/thumbs/82/13/82135266e327d231b3240379c3990774@2x.jpg"
     }
   ]
 }
