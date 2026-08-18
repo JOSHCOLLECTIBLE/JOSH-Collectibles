@@ -14,9 +14,10 @@
     "josh1-186-shooting-with-jom",
     "josh1-185-in-joms-room",
     "josh1-184-taste-of-bengal",
-    "josh1-183-rotterdam-blaak-station"
+    "josh1-183-rotterdam-blaak-station",
+    "josh1-182-the-rotterdam-public-library"
   ],
-  "last_promoted_date": "2026-08-17T14:31:07.069160",
+  "last_promoted_date": "2026-08-18T14:36:50.337863",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -129,6 +130,13 @@
       "title": "JOSH1-183: Rotterdam Blaak Station",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-183-rotterdam-blaak-station/",
       "image_url": "https://cdn.inprnt.com/thumbs/82/13/82135266e327d231b3240379c3990774@2x.jpg"
+    },
+    {
+      "date": "2026-08-18 14:36:50",
+      "artwork_id": "josh1-182-the-rotterdam-public-library",
+      "title": "JOSH1-182: The Rotterdam Public Library",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-182-the-rotterdam-public-library/",
+      "image_url": "https://cdn.inprnt.com/thumbs/e3/dc/e3dc21eb9744b005208209ed70daf652@2x.jpg"
     }
   ]
 }
