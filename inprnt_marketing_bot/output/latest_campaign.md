@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 182 • The Rotterdam Public Library
+# 🎨 Marketing Campaign: JOSH1 181 • WTF is that?
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-182-the-rotterdam-public-library/](https://www.inprnt.com/gallery/joshuadenouden/josh1-182-the-rotterdam-public-library/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-181-wtf-is-that/](https://www.inprnt.com/gallery/joshuadenouden/josh1-181-wtf-is-that/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 182 • The Rotterdam Public Library](https://cdn.inprnt.com/thumbs/e3/dc/e3dc21eb9744b005208209ed70daf652@2x.jpg)
+![JOSH1 181 • WTF is that?](https://cdn.inprnt.com/thumbs/fb/f1/fbf18f69dc74f201d7856e50a3f8a57f@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 182 • The Rotterdam Public Library | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 181 • WTF is that? | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 182 • The Rotterdam Public Library'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-182-the-rotterdam-public-library/ • #ContemporaryCollector #BrutalistArchitecture #ArchivalPrint #ArchitecturalPhotography
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 181 • WTF is that?'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-181-wtf-is-that/ • #SolanaNFT #StreetPhotography #ArchitecturalPhotography #OnChainArt
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 182 • The Rotterdam Public Library 」
+「 JOSH1 181 • WTF is that? 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#ArchivalPrint #WallArtDecor #ArchitecturalPhotography #FineArtPrint
+#UrbanGeometry #ContemporaryCollector #FineArtPrint #WallArtDecor
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 182 • The Rotterdam Public Library')
+• Slide 1: Full high res photograph ('JOSH1 181 • WTF is that?')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 182 • The Rotterdam Public Library
+JOSH1 181 • WTF is that?
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 50.9 (Grade D • Rotterdam)
+  DRiP Provenance: Score 50.5 (Grade D • Rotterdam)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -57,23 +57,23 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 Collect the archive via link in bio
 📸 Archival Capture / Digital
 📍 Rotterdam (RTM) 🇳🇱
-💎 DRiP Score: 50.9 | Grade: D
+💎 DRiP Score: 50.5 | Grade: D
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#UrbanGeometry #SolanaNFT #INPRNT #WallArtDecor
+#SolanaNFT #WallArtDecor #SolanaArt #ArchitecturalPhotography
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 182 • The Rotterdam Public Library`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 181 • WTF is that?`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 182 • The Rotterdam Public Library"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 181 • WTF is that?"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-182-the-rotterdam-public-library/"><img src="https://cdn.inprnt.com/thumbs/e3/dc/e3dc21eb9744b005208209ed70daf652@2x.jpg" alt="JOSH1 182 • The Rotterdam Public Library" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-181-wtf-is-that/"><img src="https://cdn.inprnt.com/thumbs/fb/f1/fbf18f69dc74f201d7856e50a3f8a57f@2x.jpg" alt="JOSH1 181 • WTF is that?" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 182 • The Rotterdam Public Library` |
+| **Title** | `JOSH1 181 • WTF is that?` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-182-the-rotterdam-public-library/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-181-wtf-is-that/)**
 ```

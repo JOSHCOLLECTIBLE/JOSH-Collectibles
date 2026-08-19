@@ -15,9 +15,10 @@
     "josh1-185-in-joms-room",
     "josh1-184-taste-of-bengal",
     "josh1-183-rotterdam-blaak-station",
-    "josh1-182-the-rotterdam-public-library"
+    "josh1-182-the-rotterdam-public-library",
+    "josh1-181-wtf-is-that"
   ],
-  "last_promoted_date": "2026-08-18T14:36:50.337863",
+  "last_promoted_date": "2026-08-19T14:37:21.078955",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -137,6 +138,13 @@
       "title": "JOSH1-182: The Rotterdam Public Library",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-182-the-rotterdam-public-library/",
       "image_url": "https://cdn.inprnt.com/thumbs/e3/dc/e3dc21eb9744b005208209ed70daf652@2x.jpg"
+    },
+    {
+      "date": "2026-08-19 14:37:21",
+      "artwork_id": "josh1-181-wtf-is-that",
+      "title": "JOSH1-181: WTF is that?",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-181-wtf-is-that/",
+      "image_url": "https://cdn.inprnt.com/thumbs/fb/f1/fbf18f69dc74f201d7856e50a3f8a57f@2x.jpg"
     }
   ]
 }
