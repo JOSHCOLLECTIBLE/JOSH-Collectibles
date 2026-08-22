@@ -18,9 +18,10 @@
     "josh1-182-the-rotterdam-public-library",
     "josh1-181-wtf-is-that",
     "josh1-180-fifty-two",
-    "josh1-179-the-niche-beach"
+    "josh1-179-the-niche-beach",
+    "josh1-178-niche-walk"
   ],
-  "last_promoted_date": "2026-08-21T14:38:16.477545",
+  "last_promoted_date": "2026-08-22T14:25:06.945243",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -161,6 +162,13 @@
       "title": "JOSH1-179: The Niche Beach",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-179-the-niche-beach/",
       "image_url": "https://cdn.inprnt.com/thumbs/49/ee/49ee1442976c8c3394e9d0c70694aa5a@2x.jpg"
+    },
+    {
+      "date": "2026-08-22 14:25:06",
+      "artwork_id": "josh1-178-niche-walk",
+      "title": "JOSH1-178: Niche Walk",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-178-niche-walk/",
+      "image_url": "https://cdn.inprnt.com/thumbs/41/71/41712ca595f82d41bc793fa55c9afb3b@2x.jpg"
     }
   ]
 }
