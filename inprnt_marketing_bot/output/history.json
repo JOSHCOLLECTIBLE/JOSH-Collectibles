@@ -19,9 +19,10 @@
     "josh1-181-wtf-is-that",
     "josh1-180-fifty-two",
     "josh1-179-the-niche-beach",
-    "josh1-178-niche-walk"
+    "josh1-178-niche-walk",
+    "josh1-177-one-zero-nine"
   ],
-  "last_promoted_date": "2026-08-22T14:25:06.945243",
+  "last_promoted_date": "2026-08-23T14:26:53.211064",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -169,6 +170,13 @@
       "title": "JOSH1-178: Niche Walk",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-178-niche-walk/",
       "image_url": "https://cdn.inprnt.com/thumbs/41/71/41712ca595f82d41bc793fa55c9afb3b@2x.jpg"
+    },
+    {
+      "date": "2026-08-23 14:26:53",
+      "artwork_id": "josh1-177-one-zero-nine",
+      "title": "JOSH1-177: One-Zero-Nine",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-177-one-zero-nine/",
+      "image_url": "https://cdn.inprnt.com/thumbs/ac/42/ac4245de3e8e4413b13452faf29b7973@2x.jpg"
     }
   ]
 }
