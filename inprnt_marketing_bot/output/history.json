@@ -22,9 +22,10 @@
     "josh1-178-niche-walk",
     "josh1-177-one-zero-nine",
     "josh1-176-fa-b",
-    "josh1-175-k-a-a-k-a-a"
+    "josh1-175-k-a-a-k-a-a",
+    "josh1-174-one-menu-item"
   ],
-  "last_promoted_date": "2026-08-25T14:51:07.259455",
+  "last_promoted_date": "2026-08-26T14:48:27.531406",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -193,6 +194,13 @@
       "title": "JOSH1-175: K A A K A A",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-175-k-a-a-k-a-a/",
       "image_url": "https://cdn.inprnt.com/thumbs/77/ea/77eaf440d43e9a8b64e0f402139e1658@2x.jpg"
+    },
+    {
+      "date": "2026-08-26 14:48:27",
+      "artwork_id": "josh1-174-one-menu-item",
+      "title": "JOSH1-174: One Menu Item",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-174-one-menu-item/",
+      "image_url": "https://cdn.inprnt.com/thumbs/d6/53/d653b5c4dd7132225463a6209fa9d1a8@2x.jpg"
     }
   ]
 }
