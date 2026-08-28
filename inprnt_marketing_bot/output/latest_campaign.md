@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 173 • Mijdrecht3
+# 🎨 Marketing Campaign: JOSH1 172 • Mijdrecht2
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-173-mijdrecht3/](https://www.inprnt.com/gallery/joshuadenouden/josh1-173-mijdrecht3/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-172-mijdrecht2/](https://www.inprnt.com/gallery/joshuadenouden/josh1-172-mijdrecht2/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 173 • Mijdrecht3](https://cdn.inprnt.com/thumbs/c2/9b/c29b4ab8142096b920c24c6364663b38@2x.jpg)
+![JOSH1 172 • Mijdrecht2](https://cdn.inprnt.com/thumbs/6d/b9/6db9ca4f164ce5d16b8b3d6bcad40c15@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 173 • Mijdrecht3 | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 172 • Mijdrecht2 | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 173 • Mijdrecht3'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-173-mijdrecht3/ • #StreetPhotography #ContemporaryCollector #WallArtDecor #Industrial
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 172 • Mijdrecht2'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-172-mijdrecht2/ • #WallArtDecor #ContemporaryCollector #SolanaArt #SolanaNFT
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 173 • Mijdrecht3 」
+「 JOSH1 172 • Mijdrecht2 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#ArtCollector #ArchitecturalPhotography #SolanaNFT #ArchivalPrint
+#ArchivalPrint #JOSHSHOOTPRINTS #UrbanGeometry #INPRNT
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 173 • Mijdrecht3')
+• Slide 1: Full high res photograph ('JOSH1 172 • Mijdrecht2')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 173 • Mijdrecht3
+JOSH1 172 • Mijdrecht2
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 53.2 (Grade D • Amsterdam)
+  DRiP Provenance: Score 54.1 (Grade D • Amsterdam)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -57,23 +57,23 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 Collect the archive via link in bio
 📸 Archival Capture / Digital
 📍 Amsterdam (AMS) 🇳🇱
-💎 DRiP Score: 53.2 | Grade: D
+💎 DRiP Score: 54.1 | Grade: D
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#ContemporaryCollector #OnChainArt #JOSHSHOOTPRINTS #UrbanGeometry
+#INPRNT #PhygitalArt #StreetPhotography #SolanaNFT
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 173 • Mijdrecht3`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 172 • Mijdrecht2`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 173 • Mijdrecht3"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 172 • Mijdrecht2"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-173-mijdrecht3/"><img src="https://cdn.inprnt.com/thumbs/c2/9b/c29b4ab8142096b920c24c6364663b38@2x.jpg" alt="JOSH1 173 • Mijdrecht3" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-172-mijdrecht2/"><img src="https://cdn.inprnt.com/thumbs/6d/b9/6db9ca4f164ce5d16b8b3d6bcad40c15@2x.jpg" alt="JOSH1 172 • Mijdrecht2" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 173 • Mijdrecht3` |
+| **Title** | `JOSH1 172 • Mijdrecht2` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-173-mijdrecht3/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-172-mijdrecht2/)**
 ```
