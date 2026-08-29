@@ -25,9 +25,10 @@
     "josh1-175-k-a-a-k-a-a",
     "josh1-174-one-menu-item",
     "josh1-173-mijdrecht3",
-    "josh1-172-mijdrecht2"
+    "josh1-172-mijdrecht2",
+    "josh1-171-mijdrecht1"
   ],
-  "last_promoted_date": "2026-08-28T23:28:43.086312",
+  "last_promoted_date": "2026-08-29T17:34:47.053381",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -217,6 +218,13 @@
       "title": "JOSH1-172: Mijdrecht2",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-172-mijdrecht2/",
       "image_url": "https://cdn.inprnt.com/thumbs/6d/b9/6db9ca4f164ce5d16b8b3d6bcad40c15@2x.jpg"
+    },
+    {
+      "date": "2026-08-29 17:34:47",
+      "artwork_id": "josh1-171-mijdrecht1",
+      "title": "JOSH1-171: Mijdrecht1",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-171-mijdrecht1/",
+      "image_url": "https://cdn.inprnt.com/thumbs/a2/ad/a2ad81e376359585382946c07806f41b@2x.jpg"
     }
   ]
 }
