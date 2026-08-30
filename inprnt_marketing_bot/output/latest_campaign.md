@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 171 • Mijdrecht1
+# 🎨 Marketing Campaign: JOSH1 170 • Manila Skyrises
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-171-mijdrecht1/](https://www.inprnt.com/gallery/joshuadenouden/josh1-171-mijdrecht1/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-170-manila-skyrises/](https://www.inprnt.com/gallery/joshuadenouden/josh1-170-manila-skyrises/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
-**Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
+**Rarity:** `💎 Common` | **Origin:** `📍 Manila (MNL) 🇵🇭` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 171 • Mijdrecht1](https://cdn.inprnt.com/thumbs/a2/ad/a2ad81e376359585382946c07806f41b@2x.jpg)
+![JOSH1 170 • Manila Skyrises](https://cdn.inprnt.com/thumbs/67/1a/671a04055c987f25b9d1a6078e79c3db@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 171 • Mijdrecht1 | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 170 • Manila Skyrises | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 171 • Mijdrecht1'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-171-mijdrecht1/ • #OnChainArt #ArchitecturalPhotography #INPRNT #FineArtPrint
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 170 • Manila Skyrises'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Manila (MNL) 🇵🇭. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-170-manila-skyrises/ • #StreetPhotography #ArtCollector #BrutalistArchitecture #FineArtPrint
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 171 • Mijdrecht1 」
+「 JOSH1 170 • Manila Skyrises 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -29,26 +29,26 @@ Bridging Solana blockchain provenance to museum grade physical prints.
 Collect the archive via INPRNT (link in bio)
 
 📸 iPhone 12 / Archival Capture
-📍 Rotterdam (RTM) 🇳🇱
+📍 Manila (MNL) 🇵🇭
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#ContemporaryCollector #ArtCollector #OnChainArt #StreetPhotography
+#INPRNT #WallArtDecor #OnChainArt #BrutalistArchitecture
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 171 • Mijdrecht1')
+• Slide 1: Full high res photograph ('JOSH1 170 • Manila Skyrises')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
-• Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
+• Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Manila (MNL) 🇵🇭 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 171 • Mijdrecht1
+JOSH1 170 • Manila Skyrises
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 53.4 (Grade D • Amsterdam)
+  DRiP Provenance: Score 53.4 (Grade D • MNL)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -56,24 +56,24 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 
 Collect the archive via link in bio
 📸 Archival Capture / Digital
-📍 Amsterdam (AMS) 🇳🇱
+📍 MNL 🌍
 💎 DRiP Score: 53.4 | Grade: D
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#INPRNT #WallArtDecor #SolanaNFT #MinimalistPhotography
+#BrutalistArchitecture #StreetPhotography #Industrial #WallArtDecor
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 171 • Mijdrecht1`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 170 • Manila Skyrises`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 171 • Mijdrecht1"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 170 • Manila Skyrises"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-171-mijdrecht1/"><img src="https://cdn.inprnt.com/thumbs/a2/ad/a2ad81e376359585382946c07806f41b@2x.jpg" alt="JOSH1 171 • Mijdrecht1" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-170-manila-skyrises/"><img src="https://cdn.inprnt.com/thumbs/67/1a/671a04055c987f25b9d1a6078e79c3db@2x.jpg" alt="JOSH1 170 • Manila Skyrises" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,13 +81,13 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 171 • Mijdrecht1` |
+| **Title** | `JOSH1 170 • Manila Skyrises` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
-| **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
+| **Location Origin** | `📍 Manila (MNL) 🇵🇭` |
 | **Physical Medium** | `100% Cotton Rag Archival Print via INPRNT` |
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-171-mijdrecht1/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-170-manila-skyrises/)**
 ```

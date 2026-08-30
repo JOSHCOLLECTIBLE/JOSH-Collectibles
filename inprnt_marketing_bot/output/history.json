@@ -26,9 +26,10 @@
     "josh1-174-one-menu-item",
     "josh1-173-mijdrecht3",
     "josh1-172-mijdrecht2",
-    "josh1-171-mijdrecht1"
+    "josh1-171-mijdrecht1",
+    "josh1-170-manila-skyrises"
   ],
-  "last_promoted_date": "2026-08-29T17:34:47.053381",
+  "last_promoted_date": "2026-08-30T17:59:04.114924",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -225,6 +226,13 @@
       "title": "JOSH1-171: Mijdrecht1",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-171-mijdrecht1/",
       "image_url": "https://cdn.inprnt.com/thumbs/a2/ad/a2ad81e376359585382946c07806f41b@2x.jpg"
+    },
+    {
+      "date": "2026-08-30 17:59:04",
+      "artwork_id": "josh1-170-manila-skyrises",
+      "title": "JOSH1-170: Manila Skyrises",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-170-manila-skyrises/",
+      "image_url": "https://cdn.inprnt.com/thumbs/67/1a/671a04055c987f25b9d1a6078e79c3db@2x.jpg"
     }
   ]
 }
