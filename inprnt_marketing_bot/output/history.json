@@ -29,9 +29,10 @@
     "josh1-171-mijdrecht1",
     "josh1-170-manila-skyrises",
     "josh1-169-fi-ends",
-    "josh1-168-amsterdam-north-side"
+    "josh1-168-amsterdam-north-side",
+    "josh1-167-the-amsterdam-lookout"
   ],
-  "last_promoted_date": "2026-09-01T17:42:30.106213",
+  "last_promoted_date": "2026-09-02T17:43:43.193600",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -249,6 +250,13 @@
       "title": "JOSH1-168: Amsterdam North Side",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-168-amsterdam-north-side/",
       "image_url": "https://cdn.inprnt.com/thumbs/49/85/4985fa9adaab02c47738c59eb7dcbd91@2x.jpg"
+    },
+    {
+      "date": "2026-09-02 17:43:43",
+      "artwork_id": "josh1-167-the-amsterdam-lookout",
+      "title": "JOSH1-167: The Amsterdam Lookout",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-167-the-amsterdam-lookout/",
+      "image_url": "https://cdn.inprnt.com/thumbs/7a/9a/7a9af9533d026223accdcaca82af4f35@2x.jpg"
     }
   ]
 }
