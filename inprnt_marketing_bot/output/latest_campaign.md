@@ -1,26 +1,26 @@
-# 🎨 Marketing Campaign: JOSH1 167 • The Amsterdam Lookout
+# 🎨 Marketing Campaign: JOSH1 166 • The 2nd Symmetry Photography
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-167-the-amsterdam-lookout/](https://www.inprnt.com/gallery/joshuadenouden/josh1-167-the-amsterdam-lookout/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-166-the-2nd-symmetry-photography/](https://www.inprnt.com/gallery/joshuadenouden/josh1-166-the-2nd-symmetry-photography/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
-**Rarity:** `💎 Common` | **Origin:** `📍 Amsterdam (AMS) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
+**Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 167 • The Amsterdam Lookout](https://cdn.inprnt.com/thumbs/7a/9a/7a9af9533d026223accdcaca82af4f35@2x.jpg)
+![JOSH1 166 • The 2nd Symmetry Photography](https://cdn.inprnt.com/thumbs/b0/78/b078822094b55cee3fcf3fa352310e89@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 167 • The Amsterdam Lookout | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 166 • The 2nd Symmetry Photography | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Amsterdam narrow alleyways • Spatial compression and natural light • Recorded within the European urban grid. Common rarity asset in the JOSH¹ Archive ('JOSH1 167 • The Amsterdam Lookout'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Amsterdam (AMS) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-167-the-amsterdam-lookout/ • #Industrial #INPRNT #PhygitalArt #ContemporaryCollector
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 166 • The 2nd Symmetry Photography'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-166-the-2nd-symmetry-photography/ • #WallArtDecor #SolanaNFT #SolanaArt #ContemporaryCollector
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 167 • The Amsterdam Lookout 」
+「 JOSH1 166 • The 2nd Symmetry Photography 」
 
-  Amsterdam narrow alleyways
-  Spatial compression and natural light
-  Recorded within the European urban grid
+  Architectural geometry and urban stillness
+  Structural symmetry recorded in natural light
+  An archival record of institutional form
 
 THE JOSH¹ ARCHIVE
 Limited Edition Phygital Art Piece
@@ -29,26 +29,26 @@ Bridging Solana blockchain provenance to museum grade physical prints.
 Collect the archive via INPRNT (link in bio)
 
 📸 iPhone 12 / Archival Capture
-📍 Amsterdam (AMS) 🇳🇱
+📍 Rotterdam (RTM) 🇳🇱
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#StreetPhotography #Industrial #WallArtDecor #SolanaNFT
+#SolanaArt #FineArtPrint #JOSHSHOOTPRINTS #OnChainArt
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 167 • The Amsterdam Lookout')
+• Slide 1: Full high res photograph ('JOSH1 166 • The 2nd Symmetry Photography')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
-• Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Amsterdam (AMS) 🇳🇱 | JOSHSHOOT.SOL')
+• Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 167 • The Amsterdam Lookout
+JOSH1 166 • The 2nd Symmetry Photography
 
-  Amsterdam narrow alleyways
-  Spatial compression and natural light
-  Recorded within the European urban grid
-  DRiP Provenance: Score 55.3 (Grade C • Amsterdam)
+  Architectural geometry and urban stillness
+  Structural symmetry recorded in natural light
+  An archival record of institutional form
+  DRiP Provenance: Score 51.2 (Grade D • Rotterdam)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -56,24 +56,24 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 
 Collect the archive via link in bio
 📸 Archival Capture / Digital
-📍 Amsterdam (AMS) 🇳🇱
-💎 DRiP Score: 55.3 | Grade: C
+📍 Rotterdam (RTM) 🇳🇱
+💎 DRiP Score: 51.2 | Grade: D
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#ArchivalPrint #PhygitalArt #WallArtDecor #UrbanGeometry
+#SolanaArt #INPRNT #ArchitecturalPhotography #MinimalistPhotography
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 167 • The Amsterdam Lookout`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 166 • The 2nd Symmetry Photography`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 167 • The Amsterdam Lookout"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 166 • The 2nd Symmetry Photography"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-167-the-amsterdam-lookout/"><img src="https://cdn.inprnt.com/thumbs/7a/9a/7a9af9533d026223accdcaca82af4f35@2x.jpg" alt="JOSH1 167 • The Amsterdam Lookout" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-166-the-2nd-symmetry-photography/"><img src="https://cdn.inprnt.com/thumbs/b0/78/b078822094b55cee3fcf3fa352310e89@2x.jpg" alt="JOSH1 166 • The 2nd Symmetry Photography" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,13 +81,13 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 167 • The Amsterdam Lookout` |
+| **Title** | `JOSH1 166 • The 2nd Symmetry Photography` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
-| **Location Origin** | `📍 Amsterdam (AMS) 🇳🇱` |
+| **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
 | **Physical Medium** | `100% Cotton Rag Archival Print via INPRNT` |
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-167-the-amsterdam-lookout/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-166-the-2nd-symmetry-photography/)**
 ```

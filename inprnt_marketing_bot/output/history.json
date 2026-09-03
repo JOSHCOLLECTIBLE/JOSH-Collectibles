@@ -30,9 +30,10 @@
     "josh1-170-manila-skyrises",
     "josh1-169-fi-ends",
     "josh1-168-amsterdam-north-side",
-    "josh1-167-the-amsterdam-lookout"
+    "josh1-167-the-amsterdam-lookout",
+    "josh1-166-the-2nd-symmetry-photography"
   ],
-  "last_promoted_date": "2026-09-02T17:43:43.193600",
+  "last_promoted_date": "2026-09-03T17:38:56.819534",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -257,6 +258,13 @@
       "title": "JOSH1-167: The Amsterdam Lookout",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-167-the-amsterdam-lookout/",
       "image_url": "https://cdn.inprnt.com/thumbs/7a/9a/7a9af9533d026223accdcaca82af4f35@2x.jpg"
+    },
+    {
+      "date": "2026-09-03 17:38:56",
+      "artwork_id": "josh1-166-the-2nd-symmetry-photography",
+      "title": "JOSH1-166: The 2nd Symmetry Photography",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-166-the-2nd-symmetry-photography/",
+      "image_url": "https://cdn.inprnt.com/thumbs/b0/78/b078822094b55cee3fcf3fa352310e89@2x.jpg"
     }
   ]
 }
