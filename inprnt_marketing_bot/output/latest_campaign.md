@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 166 • The 2nd Symmetry Photography
+# 🎨 Marketing Campaign: JOSH1 165 • The Eras Bridge
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-166-the-2nd-symmetry-photography/](https://www.inprnt.com/gallery/joshuadenouden/josh1-166-the-2nd-symmetry-photography/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-165-the-eras-bridge/](https://www.inprnt.com/gallery/joshuadenouden/josh1-165-the-eras-bridge/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 166 • The 2nd Symmetry Photography](https://cdn.inprnt.com/thumbs/b0/78/b078822094b55cee3fcf3fa352310e89@2x.jpg)
+![JOSH1 165 • The Eras Bridge](https://cdn.inprnt.com/thumbs/11/da/11da5a9cfaf6ec528899469f4f7ca632@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 166 • The 2nd Symmetry Photography | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 165 • The Eras Bridge | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 166 • The 2nd Symmetry Photography'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-166-the-2nd-symmetry-photography/ • #WallArtDecor #SolanaNFT #SolanaArt #ContemporaryCollector
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 165 • The Eras Bridge'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-165-the-eras-bridge/ • #SolanaNFT #PhygitalArt #OnChainArt #INPRNT
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 166 • The 2nd Symmetry Photography 」
+「 JOSH1 165 • The Eras Bridge 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#SolanaArt #FineArtPrint #JOSHSHOOTPRINTS #OnChainArt
+#INPRNT #ArchivalPrint #StreetPhotography #Industrial
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 166 • The 2nd Symmetry Photography')
+• Slide 1: Full high res photograph ('JOSH1 165 • The Eras Bridge')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 166 • The 2nd Symmetry Photography
+JOSH1 165 • The Eras Bridge
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 51.2 (Grade D • Rotterdam)
+  DRiP Provenance: Score 50.3 (Grade D • Rotterdam)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -57,23 +57,23 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 Collect the archive via link in bio
 📸 Archival Capture / Digital
 📍 Rotterdam (RTM) 🇳🇱
-💎 DRiP Score: 51.2 | Grade: D
+💎 DRiP Score: 50.3 | Grade: D
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#SolanaArt #INPRNT #ArchitecturalPhotography #MinimalistPhotography
+#ArtCollector #WallArtDecor #StreetPhotography #Industrial
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 166 • The 2nd Symmetry Photography`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 165 • The Eras Bridge`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 166 • The 2nd Symmetry Photography"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 165 • The Eras Bridge"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-166-the-2nd-symmetry-photography/"><img src="https://cdn.inprnt.com/thumbs/b0/78/b078822094b55cee3fcf3fa352310e89@2x.jpg" alt="JOSH1 166 • The 2nd Symmetry Photography" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-165-the-eras-bridge/"><img src="https://cdn.inprnt.com/thumbs/11/da/11da5a9cfaf6ec528899469f4f7ca632@2x.jpg" alt="JOSH1 165 • The Eras Bridge" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 166 • The 2nd Symmetry Photography` |
+| **Title** | `JOSH1 165 • The Eras Bridge` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-166-the-2nd-symmetry-photography/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-165-the-eras-bridge/)**
 ```
