@@ -33,9 +33,10 @@
     "josh1-167-the-amsterdam-lookout",
     "josh1-166-the-2nd-symmetry-photography",
     "josh1-165-the-eras-bridge",
-    "josh1-164-greetings-to-me"
+    "josh1-164-greetings-to-me",
+    "josh1-163-all-abort"
   ],
-  "last_promoted_date": "2026-09-05T16:38:40.055075",
+  "last_promoted_date": "2026-09-06T16:46:22.901603",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -281,6 +282,13 @@
       "title": "JOSH1-164: Greetings to me",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-164-greetings-to-me/",
       "image_url": "https://cdn.inprnt.com/thumbs/c7/68/c768584c39d6e34abcfb642c677163d5@2x.jpg"
+    },
+    {
+      "date": "2026-09-06 16:46:22",
+      "artwork_id": "josh1-163-all-abort",
+      "title": "JOSH1-163: All Abort",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-163-all-abort/",
+      "image_url": "https://cdn.inprnt.com/thumbs/64/69/6469dcd07de7a26827926a1631b6f0e9@2x.jpg"
     }
   ]
 }
