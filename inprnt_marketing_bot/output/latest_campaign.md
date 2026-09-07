@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 163 • All Abort
+# 🎨 Marketing Campaign: JOSH1 162 • Hallo, Ello
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-163-all-abort/](https://www.inprnt.com/gallery/joshuadenouden/josh1-163-all-abort/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-162-hallo-ello/](https://www.inprnt.com/gallery/joshuadenouden/josh1-162-hallo-ello/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 163 • All Abort](https://cdn.inprnt.com/thumbs/64/69/6469dcd07de7a26827926a1631b6f0e9@2x.jpg)
+![JOSH1 162 • Hallo, Ello](https://cdn.inprnt.com/thumbs/78/60/7860f7a980a43c449ce837c3a5a4bffb@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 163 • All Abort | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 162 • Hallo, Ello | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 163 • All Abort'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-163-all-abort/ • #INPRNT #MinimalistPhotography #ContemporaryCollector #ArtCollector
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 162 • Hallo, Ello'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-162-hallo-ello/ • #Industrial #OnChainArt #FineArtPrint #ArchitecturalPhotography
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 163 • All Abort 」
+「 JOSH1 162 • Hallo, Ello 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#StreetPhotography #MinimalistPhotography #SolanaArt #PhygitalArt
+#JOSHSHOOTPRINTS #SolanaNFT #INPRNT #ContemporaryCollector
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 163 • All Abort')
+• Slide 1: Full high res photograph ('JOSH1 162 • Hallo, Ello')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 163 • All Abort
+JOSH1 162 • Hallo, Ello
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 51.2 (Grade D • Rotterdam)
+  DRiP Provenance: Score 52.4 (Grade D • Rotterdam)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -57,23 +57,23 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 Collect the archive via link in bio
 📸 Archival Capture / Digital
 📍 Rotterdam (RTM) 🇳🇱
-💎 DRiP Score: 51.2 | Grade: D
+💎 DRiP Score: 52.4 | Grade: D
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#ArchitecturalPhotography #JOSHSHOOTPRINTS #PhygitalArt #BrutalistArchitecture
+#Industrial #StreetPhotography #UrbanGeometry #PhygitalArt
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 163 • All Abort`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 162 • Hallo, Ello`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 163 • All Abort"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 162 • Hallo, Ello"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-163-all-abort/"><img src="https://cdn.inprnt.com/thumbs/64/69/6469dcd07de7a26827926a1631b6f0e9@2x.jpg" alt="JOSH1 163 • All Abort" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-162-hallo-ello/"><img src="https://cdn.inprnt.com/thumbs/78/60/7860f7a980a43c449ce837c3a5a4bffb@2x.jpg" alt="JOSH1 162 • Hallo, Ello" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 163 • All Abort` |
+| **Title** | `JOSH1 162 • Hallo, Ello` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-163-all-abort/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-162-hallo-ello/)**
 ```

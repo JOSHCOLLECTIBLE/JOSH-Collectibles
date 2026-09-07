@@ -34,9 +34,10 @@
     "josh1-166-the-2nd-symmetry-photography",
     "josh1-165-the-eras-bridge",
     "josh1-164-greetings-to-me",
-    "josh1-163-all-abort"
+    "josh1-163-all-abort",
+    "josh1-162-hallo-ello"
   ],
-  "last_promoted_date": "2026-09-06T16:46:22.901603",
+  "last_promoted_date": "2026-09-07T18:38:59.577796",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -289,6 +290,13 @@
       "title": "JOSH1-163: All Abort",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-163-all-abort/",
       "image_url": "https://cdn.inprnt.com/thumbs/64/69/6469dcd07de7a26827926a1631b6f0e9@2x.jpg"
+    },
+    {
+      "date": "2026-09-07 18:38:59",
+      "artwork_id": "josh1-162-hallo-ello",
+      "title": "JOSH1-162: Hallo, Ello",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-162-hallo-ello/",
+      "image_url": "https://cdn.inprnt.com/thumbs/78/60/7860f7a980a43c449ce837c3a5a4bffb@2x.jpg"
     }
   ]
 }
