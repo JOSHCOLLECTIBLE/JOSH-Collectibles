@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 162 • Hallo, Ello
+# 🎨 Marketing Campaign: JOSH1 161 • The Rotterdam Dutch
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-162-hallo-ello/](https://www.inprnt.com/gallery/joshuadenouden/josh1-162-hallo-ello/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-161-the-rotterdam-dutch/](https://www.inprnt.com/gallery/joshuadenouden/josh1-161-the-rotterdam-dutch/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 162 • Hallo, Ello](https://cdn.inprnt.com/thumbs/78/60/7860f7a980a43c449ce837c3a5a4bffb@2x.jpg)
+![JOSH1 161 • The Rotterdam Dutch](https://cdn.inprnt.com/thumbs/a0/b0/a0b01d2a390434069abf1bd2624f7de9@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 162 • Hallo, Ello | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 161 • The Rotterdam Dutch | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 162 • Hallo, Ello'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-162-hallo-ello/ • #Industrial #OnChainArt #FineArtPrint #ArchitecturalPhotography
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 161 • The Rotterdam Dutch'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-161-the-rotterdam-dutch/ • #SolanaNFT #OnChainArt #Industrial #ContemporaryCollector
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 162 • Hallo, Ello 」
+「 JOSH1 161 • The Rotterdam Dutch 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#JOSHSHOOTPRINTS #SolanaNFT #INPRNT #ContemporaryCollector
+#ArchivalPrint #JOSHSHOOTPRINTS #ArchitecturalPhotography #StreetPhotography
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 162 • Hallo, Ello')
+• Slide 1: Full high res photograph ('JOSH1 161 • The Rotterdam Dutch')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 162 • Hallo, Ello
+JOSH1 161 • The Rotterdam Dutch
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 52.4 (Grade D • Rotterdam)
+  DRiP Provenance: Score 51.5 (Grade D • Rotterdam)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -57,23 +57,23 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 Collect the archive via link in bio
 📸 Archival Capture / Digital
 📍 Rotterdam (RTM) 🇳🇱
-💎 DRiP Score: 52.4 | Grade: D
+💎 DRiP Score: 51.5 | Grade: D
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#Industrial #StreetPhotography #UrbanGeometry #PhygitalArt
+#Industrial #SolanaArt #SolanaNFT #PhygitalArt
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 162 • Hallo, Ello`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 161 • The Rotterdam Dutch`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 162 • Hallo, Ello"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 161 • The Rotterdam Dutch"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-162-hallo-ello/"><img src="https://cdn.inprnt.com/thumbs/78/60/7860f7a980a43c449ce837c3a5a4bffb@2x.jpg" alt="JOSH1 162 • Hallo, Ello" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-161-the-rotterdam-dutch/"><img src="https://cdn.inprnt.com/thumbs/a0/b0/a0b01d2a390434069abf1bd2624f7de9@2x.jpg" alt="JOSH1 161 • The Rotterdam Dutch" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 162 • Hallo, Ello` |
+| **Title** | `JOSH1 161 • The Rotterdam Dutch` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-162-hallo-ello/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-161-the-rotterdam-dutch/)**
 ```

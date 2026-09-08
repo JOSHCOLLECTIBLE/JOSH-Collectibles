@@ -35,9 +35,10 @@
     "josh1-165-the-eras-bridge",
     "josh1-164-greetings-to-me",
     "josh1-163-all-abort",
-    "josh1-162-hallo-ello"
+    "josh1-162-hallo-ello",
+    "josh1-161-the-rotterdam-dutch"
   ],
-  "last_promoted_date": "2026-09-07T18:38:59.577796",
+  "last_promoted_date": "2026-09-08T17:49:55.940383",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -297,6 +298,13 @@
       "title": "JOSH1-162: Hallo, Ello",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-162-hallo-ello/",
       "image_url": "https://cdn.inprnt.com/thumbs/78/60/7860f7a980a43c449ce837c3a5a4bffb@2x.jpg"
+    },
+    {
+      "date": "2026-09-08 17:49:55",
+      "artwork_id": "josh1-161-the-rotterdam-dutch",
+      "title": "JOSH1-161: The Rotterdam Dutch",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-161-the-rotterdam-dutch/",
+      "image_url": "https://cdn.inprnt.com/thumbs/a0/b0/a0b01d2a390434069abf1bd2624f7de9@2x.jpg"
     }
   ]
 }
