@@ -37,9 +37,10 @@
     "josh1-163-all-abort",
     "josh1-162-hallo-ello",
     "josh1-161-the-rotterdam-dutch",
-    "josh1-160-more-of-brussels"
+    "josh1-160-more-of-brussels",
+    "josh1-159-i-like-belgium"
   ],
-  "last_promoted_date": "2026-09-09T17:41:42.515316",
+  "last_promoted_date": "2026-09-10T17:34:03.625195",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -313,6 +314,13 @@
       "title": "JOSH1-160: More of Brussels",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-160-more-of-brussels/",
       "image_url": "https://cdn.inprnt.com/thumbs/b9/f9/b9f9244eb7b0df9e4512571eec33c510@2x.jpg"
+    },
+    {
+      "date": "2026-09-10 17:34:03",
+      "artwork_id": "josh1-159-i-like-belgium",
+      "title": "JOSH1-159: I Like Belgium",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-159-i-like-belgium/",
+      "image_url": "https://cdn.inprnt.com/thumbs/12/94/1294f595c9ec35ce8dae4d86b4f6e250@2x.jpg"
     }
   ]
 }
