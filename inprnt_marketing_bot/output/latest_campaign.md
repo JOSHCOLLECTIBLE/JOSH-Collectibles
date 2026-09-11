@@ -1,26 +1,26 @@
-# 🎨 Marketing Campaign: JOSH1 159 • I Like Belgium
+# 🎨 Marketing Campaign: JOSH1 158 • Inner Streets
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-159-i-like-belgium/](https://www.inprnt.com/gallery/joshuadenouden/josh1-159-i-like-belgium/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-158-inner-streets/](https://www.inprnt.com/gallery/joshuadenouden/josh1-158-inner-streets/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 159 • I Like Belgium](https://cdn.inprnt.com/thumbs/12/94/1294f595c9ec35ce8dae4d86b4f6e250@2x.jpg)
+![JOSH1 158 • Inner Streets](https://cdn.inprnt.com/thumbs/c7/74/c774eb1d3aa1e14979f3cd21a159b022@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 159 • I Like Belgium | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 158 • Inner Streets | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 159 • I Like Belgium'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-159-i-like-belgium/ • #FineArtPrint #ArchitecturalPhotography #BrutalistArchitecture #MinimalistPhotography
+Rotterdam waterfront architecture • Structural geometry along the urban harbor • Recorded for archival permanence. Common rarity asset in the JOSH¹ Archive ('JOSH1 158 • Inner Streets'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-158-inner-streets/ • #SolanaNFT #FineArtPrint #ContemporaryCollector #ArchivalPrint
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 159 • I Like Belgium 」
+「 JOSH1 158 • Inner Streets 」
 
-  Architectural geometry and urban stillness
-  Structural symmetry recorded in natural light
-  An archival record of institutional form
+  Rotterdam waterfront architecture
+  Structural geometry along the urban harbor
+  Recorded for archival permanence
 
 THE JOSH¹ ARCHIVE
 Limited Edition Phygital Art Piece
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#PhygitalArt #FineArtPrint #BrutalistArchitecture #SolanaArt
+#SolanaNFT #MinimalistPhotography #SolanaArt #ArtCollector
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 159 • I Like Belgium')
+• Slide 1: Full high res photograph ('JOSH1 158 • Inner Streets')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 159 • I Like Belgium
+JOSH1 158 • Inner Streets
 
-  Architectural geometry and urban stillness
-  Structural symmetry recorded in natural light
-  An archival record of institutional form
-  DRiP Provenance: Score 52.8 (Grade D • Brussels)
+  Rotterdam waterfront architecture
+  Structural geometry along the urban harbor
+  Recorded for archival permanence
+  DRiP Provenance: Score 53 (Grade D • Brussels)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -57,23 +57,23 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 Collect the archive via link in bio
 📸 Archival Capture / Digital
 📍 Brussels (BRU) 🇧🇪
-💎 DRiP Score: 52.8 | Grade: D
+💎 DRiP Score: 53 | Grade: D
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#PhygitalArt #JOSHSHOOTPRINTS #ContemporaryCollector #BrutalistArchitecture
+#StreetPhotography #ContemporaryCollector #UrbanGeometry #ArchitecturalPhotography
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 159 • I Like Belgium`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 158 • Inner Streets`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 159 • I Like Belgium"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 158 • Inner Streets"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-159-i-like-belgium/"><img src="https://cdn.inprnt.com/thumbs/12/94/1294f595c9ec35ce8dae4d86b4f6e250@2x.jpg" alt="JOSH1 159 • I Like Belgium" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-158-inner-streets/"><img src="https://cdn.inprnt.com/thumbs/c7/74/c774eb1d3aa1e14979f3cd21a159b022@2x.jpg" alt="JOSH1 158 • Inner Streets" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 159 • I Like Belgium` |
+| **Title** | `JOSH1 158 • Inner Streets` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-159-i-like-belgium/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-158-inner-streets/)**
 ```

@@ -38,9 +38,10 @@
     "josh1-162-hallo-ello",
     "josh1-161-the-rotterdam-dutch",
     "josh1-160-more-of-brussels",
-    "josh1-159-i-like-belgium"
+    "josh1-159-i-like-belgium",
+    "josh1-158-inner-streets"
   ],
-  "last_promoted_date": "2026-09-10T17:34:03.625195",
+  "last_promoted_date": "2026-09-11T17:38:05.532269",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -321,6 +322,13 @@
       "title": "JOSH1-159: I Like Belgium",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-159-i-like-belgium/",
       "image_url": "https://cdn.inprnt.com/thumbs/12/94/1294f595c9ec35ce8dae4d86b4f6e250@2x.jpg"
+    },
+    {
+      "date": "2026-09-11 17:38:05",
+      "artwork_id": "josh1-158-inner-streets",
+      "title": "JOSH1-158: Inner Streets",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-158-inner-streets/",
+      "image_url": "https://cdn.inprnt.com/thumbs/c7/74/c774eb1d3aa1e14979f3cd21a159b022@2x.jpg"
     }
   ]
 }
