@@ -39,9 +39,10 @@
     "josh1-161-the-rotterdam-dutch",
     "josh1-160-more-of-brussels",
     "josh1-159-i-like-belgium",
-    "josh1-158-inner-streets"
+    "josh1-158-inner-streets",
+    "josh1-157-the-brussels-inner-streets"
   ],
-  "last_promoted_date": "2026-09-11T17:38:05.532269",
+  "last_promoted_date": "2026-09-12T16:50:36.618343",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -329,6 +330,13 @@
       "title": "JOSH1-158: Inner Streets",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-158-inner-streets/",
       "image_url": "https://cdn.inprnt.com/thumbs/c7/74/c774eb1d3aa1e14979f3cd21a159b022@2x.jpg"
+    },
+    {
+      "date": "2026-09-12 16:50:36",
+      "artwork_id": "josh1-157-the-brussels-inner-streets",
+      "title": "JOSH1-157: The Brussels Skyline",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-157-the-brussels-inner-streets/",
+      "image_url": "https://cdn.inprnt.com/thumbs/7f/96/7f960d975250b9512ff57326092ce7bd@2x.jpg"
     }
   ]
 }
