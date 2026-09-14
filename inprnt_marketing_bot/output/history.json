@@ -41,9 +41,10 @@
     "josh1-159-i-like-belgium",
     "josh1-158-inner-streets",
     "josh1-157-the-brussels-inner-streets",
-    "josh1-156-brussels-graffiti"
+    "josh1-156-brussels-graffiti",
+    "josh1-155-a-couple-of-nights"
   ],
-  "last_promoted_date": "2026-09-13T17:20:23.185264",
+  "last_promoted_date": "2026-09-14T19:06:30.400755",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -345,6 +346,13 @@
       "title": "JOSH1-156: Brussels Graffiti",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-156-brussels-graffiti/",
       "image_url": "https://cdn.inprnt.com/thumbs/ba/9d/ba9d1a97827046947ce13675596714c8@2x.jpg"
+    },
+    {
+      "date": "2026-09-14 19:06:30",
+      "artwork_id": "josh1-155-a-couple-of-nights",
+      "title": "JOSH1-155: A Couple of Nights",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-155-a-couple-of-nights/",
+      "image_url": "https://cdn.inprnt.com/thumbs/a1/d4/a1d4412714b43205f019f6bf2288f833@2x.jpg"
     }
   ]
 }
