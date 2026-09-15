@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 155 • A Couple of Nights
+# 🎨 Marketing Campaign: JOSH1 154 • Sustain Ability
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-155-a-couple-of-nights/](https://www.inprnt.com/gallery/joshuadenouden/josh1-155-a-couple-of-nights/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-154-sustain-ability/](https://www.inprnt.com/gallery/joshuadenouden/josh1-154-sustain-ability/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 155 • A Couple of Nights](https://cdn.inprnt.com/thumbs/a1/d4/a1d4412714b43205f019f6bf2288f833@2x.jpg)
+![JOSH1 154 • Sustain Ability](https://cdn.inprnt.com/thumbs/e7/70/e7703e8624ac7317a3e6a2eb5b1c4442@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 155 • A Couple of Nights | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 154 • Sustain Ability | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 155 • A Couple of Nights'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-155-a-couple-of-nights/ • #WallArtDecor #UrbanGeometry #MinimalistPhotography #BrutalistArchitecture
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 154 • Sustain Ability'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-154-sustain-ability/ • #ArchitecturalPhotography #FineArtPrint #WallArtDecor #Industrial
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 155 • A Couple of Nights 」
+「 JOSH1 154 • Sustain Ability 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,47 +33,47 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#Industrial #SolanaNFT #OnChainArt #StreetPhotography
+#JOSHSHOOTPRINTS #OnChainArt #MinimalistPhotography #PhygitalArt
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 155 • A Couple of Nights')
+• Slide 1: Full high res photograph ('JOSH1 154 • Sustain Ability')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 155 • A Couple of Nights
+JOSH1 154 • Sustain Ability
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 53.4 (Grade D • Brussels)
+  DRiP Provenance: Score 50.9 (Grade D • Rotterdam)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
 Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition print via INPRNT
 
 Collect the archive via link in bio
-📸 Archival Capture / IPhone
-📍 Brussels (BRU) 🇧🇪
-💎 DRiP Score: 53.4 | Grade: D
+📸 Archival Capture / Digital
+📍 Rotterdam (RTM) 🇳🇱
+💎 DRiP Score: 50.9 | Grade: D
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#ArchitecturalPhotography #JOSHSHOOTPRINTS #SolanaNFT #BrutalistArchitecture
+#UrbanGeometry #FineArtPrint #SolanaArt #MinimalistPhotography
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 155 • A Couple of Nights`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 154 • Sustain Ability`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 155 • A Couple of Nights"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 154 • Sustain Ability"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-155-a-couple-of-nights/"><img src="https://cdn.inprnt.com/thumbs/a1/d4/a1d4412714b43205f019f6bf2288f833@2x.jpg" alt="JOSH1 155 • A Couple of Nights" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-154-sustain-ability/"><img src="https://cdn.inprnt.com/thumbs/e7/70/e7703e8624ac7317a3e6a2eb5b1c4442@2x.jpg" alt="JOSH1 154 • Sustain Ability" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 155 • A Couple of Nights` |
+| **Title** | `JOSH1 154 • Sustain Ability` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-155-a-couple-of-nights/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-154-sustain-ability/)**
 ```
