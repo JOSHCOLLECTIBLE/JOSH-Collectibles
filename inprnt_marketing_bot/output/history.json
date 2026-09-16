@@ -43,9 +43,10 @@
     "josh1-157-the-brussels-inner-streets",
     "josh1-156-brussels-graffiti",
     "josh1-155-a-couple-of-nights",
-    "josh1-154-sustain-ability"
+    "josh1-154-sustain-ability",
+    "josh1-153-blaak-station"
   ],
-  "last_promoted_date": "2026-09-15T18:02:17.935439",
+  "last_promoted_date": "2026-09-16T18:01:13.527856",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -361,6 +362,13 @@
       "title": "JOSH1-154: Sustain Ability",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-154-sustain-ability/",
       "image_url": "https://cdn.inprnt.com/thumbs/e7/70/e7703e8624ac7317a3e6a2eb5b1c4442@2x.jpg"
+    },
+    {
+      "date": "2026-09-16 18:01:13",
+      "artwork_id": "josh1-153-blaak-station",
+      "title": "JOSH1-153: Blaak Station",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-153-blaak-station/",
+      "image_url": "https://cdn.inprnt.com/thumbs/bc/bb/bcbb7d7fcdcb0de22169562273bdbc53@2x.jpg"
     }
   ]
 }
