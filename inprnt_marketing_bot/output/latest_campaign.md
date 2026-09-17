@@ -1,26 +1,26 @@
-# 🎨 Marketing Campaign: JOSH1 153 • Blaak Station
+# 🎨 Marketing Campaign: JOSH1 152 • M Logo
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-153-blaak-station/](https://www.inprnt.com/gallery/joshuadenouden/josh1-153-blaak-station/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-152-m-logo/](https://www.inprnt.com/gallery/joshuadenouden/josh1-152-m-logo/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 153 • Blaak Station](https://cdn.inprnt.com/thumbs/bc/bb/bcbb7d7fcdcb0de22169562273bdbc53@2x.jpg)
+![JOSH1 152 • M Logo](https://cdn.inprnt.com/thumbs/30/4b/304b61f6fefddec7860766b2a37db8db@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 153 • Blaak Station | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 152 • M Logo | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Urban transit and architectural scale • Kinetic movement inside modern terminals • Recorded for architectural permanence. Common rarity asset in the JOSH¹ Archive ('JOSH1 153 • Blaak Station'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-153-blaak-station/ • #WallArtDecor #Industrial #INPRNT #SolanaNFT
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 152 • M Logo'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-152-m-logo/ • #ArtCollector #INPRNT #ContemporaryCollector #JOSHSHOOTPRINTS
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 153 • Blaak Station 」
+「 JOSH1 152 • M Logo 」
 
-  Urban transit and architectural scale
-  Kinetic movement inside modern terminals
-  Recorded for architectural permanence
+  Architectural geometry and urban stillness
+  Structural symmetry recorded in natural light
+  An archival record of institutional form
 
 THE JOSH¹ ARCHIVE
 Limited Edition Phygital Art Piece
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#SolanaNFT #Industrial #ArchivalPrint #JOSHSHOOTPRINTS
+#OnChainArt #UrbanGeometry #INPRNT #ContemporaryCollector
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 153 • Blaak Station')
+• Slide 1: Full high res photograph ('JOSH1 152 • M Logo')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 153 • Blaak Station
+JOSH1 152 • M Logo
 
-  Urban transit and architectural scale
-  Kinetic movement inside modern terminals
-  Recorded for architectural permanence
-  DRiP Provenance: Score 54 (Grade D • Rotterdam)
+  Architectural geometry and urban stillness
+  Structural symmetry recorded in natural light
+  An archival record of institutional form
+  DRiP Provenance: Score 54.2 (Grade D • Rotterdam)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -57,23 +57,23 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 Collect the archive via link in bio
 📸 Archival Capture / Digital
 📍 Rotterdam (RTM) 🇳🇱
-💎 DRiP Score: 54 | Grade: D
+💎 DRiP Score: 54.2 | Grade: D
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#FineArtPrint #BrutalistArchitecture #ArchivalPrint #StreetPhotography
+#INPRNT #ContemporaryCollector #ArchitecturalPhotography #BrutalistArchitecture
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 153 • Blaak Station`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 152 • M Logo`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 153 • Blaak Station"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 152 • M Logo"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-153-blaak-station/"><img src="https://cdn.inprnt.com/thumbs/bc/bb/bcbb7d7fcdcb0de22169562273bdbc53@2x.jpg" alt="JOSH1 153 • Blaak Station" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-152-m-logo/"><img src="https://cdn.inprnt.com/thumbs/30/4b/304b61f6fefddec7860766b2a37db8db@2x.jpg" alt="JOSH1 152 • M Logo" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 153 • Blaak Station` |
+| **Title** | `JOSH1 152 • M Logo` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-153-blaak-station/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-152-m-logo/)**
 ```

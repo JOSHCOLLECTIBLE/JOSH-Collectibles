@@ -44,9 +44,10 @@
     "josh1-156-brussels-graffiti",
     "josh1-155-a-couple-of-nights",
     "josh1-154-sustain-ability",
-    "josh1-153-blaak-station"
+    "josh1-153-blaak-station",
+    "josh1-152-m-logo"
   ],
-  "last_promoted_date": "2026-09-16T18:01:13.527856",
+  "last_promoted_date": "2026-09-17T18:01:14.669237",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -369,6 +370,13 @@
       "title": "JOSH1-153: Blaak Station",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-153-blaak-station/",
       "image_url": "https://cdn.inprnt.com/thumbs/bc/bb/bcbb7d7fcdcb0de22169562273bdbc53@2x.jpg"
+    },
+    {
+      "date": "2026-09-17 18:01:14",
+      "artwork_id": "josh1-152-m-logo",
+      "title": "JOSH1-152: M Logo",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-152-m-logo/",
+      "image_url": "https://cdn.inprnt.com/thumbs/30/4b/304b61f6fefddec7860766b2a37db8db@2x.jpg"
     }
   ]
 }
