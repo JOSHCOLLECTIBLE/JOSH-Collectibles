@@ -45,9 +45,10 @@
     "josh1-155-a-couple-of-nights",
     "josh1-154-sustain-ability",
     "josh1-153-blaak-station",
-    "josh1-152-m-logo"
+    "josh1-152-m-logo",
+    "josh1-151-metro-that-way"
   ],
-  "last_promoted_date": "2026-09-17T18:01:14.669237",
+  "last_promoted_date": "2026-09-18T17:35:19.942207",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -377,6 +378,13 @@
       "title": "JOSH1-152: M Logo",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-152-m-logo/",
       "image_url": "https://cdn.inprnt.com/thumbs/30/4b/304b61f6fefddec7860766b2a37db8db@2x.jpg"
+    },
+    {
+      "date": "2026-09-18 17:35:19",
+      "artwork_id": "josh1-151-metro-that-way",
+      "title": "JOSH1-151: Metro That Way",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-151-metro-that-way/",
+      "image_url": "https://cdn.inprnt.com/thumbs/22/74/2274047ff17707742e3bfb9878383da0@2x.jpg"
     }
   ]
 }
