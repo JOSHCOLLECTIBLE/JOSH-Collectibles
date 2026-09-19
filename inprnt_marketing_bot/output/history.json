@@ -46,9 +46,10 @@
     "josh1-154-sustain-ability",
     "josh1-153-blaak-station",
     "josh1-152-m-logo",
-    "josh1-151-metro-that-way"
+    "josh1-151-metro-that-way",
+    "josh1-150-tommy-gun"
   ],
-  "last_promoted_date": "2026-09-18T17:35:19.942207",
+  "last_promoted_date": "2026-09-19T17:04:18.269529",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -385,6 +386,13 @@
       "title": "JOSH1-151: Metro That Way",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-151-metro-that-way/",
       "image_url": "https://cdn.inprnt.com/thumbs/22/74/2274047ff17707742e3bfb9878383da0@2x.jpg"
+    },
+    {
+      "date": "2026-09-19 17:04:18",
+      "artwork_id": "josh1-150-tommy-gun",
+      "title": "JOSH1-150: Tommy Gun",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-150-tommy-gun/",
+      "image_url": "https://cdn.inprnt.com/thumbs/ef/3d/ef3d2ed2f7d040f93e384e12500d4249@2x.jpg"
     }
   ]
 }
