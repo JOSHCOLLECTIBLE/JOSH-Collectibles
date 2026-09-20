@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 150 • Tommy Gun
+# 🎨 Marketing Campaign: JOSH1 149 • A Dutch Shed
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-150-tommy-gun/](https://www.inprnt.com/gallery/joshuadenouden/josh1-150-tommy-gun/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-149-a-dutch-shed/](https://www.inprnt.com/gallery/joshuadenouden/josh1-149-a-dutch-shed/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 150 • Tommy Gun](https://cdn.inprnt.com/thumbs/ef/3d/ef3d2ed2f7d040f93e384e12500d4249@2x.jpg)
+![JOSH1 149 • A Dutch Shed](https://cdn.inprnt.com/thumbs/07/12/07120a5951e6f0e01fa6c2dffb3cd0ad@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 150 • Tommy Gun | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 149 • A Dutch Shed | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 150 • Tommy Gun'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-150-tommy-gun/ • #JOSHSHOOTPRINTS #FineArtPrint #WallArtDecor #MinimalistPhotography
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 149 • A Dutch Shed'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-149-a-dutch-shed/ • #Industrial #BrutalistArchitecture #SolanaArt #FineArtPrint
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 150 • Tommy Gun 」
+「 JOSH1 149 • A Dutch Shed 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#UrbanGeometry #SolanaArt #PhygitalArt #JOSHSHOOTPRINTS
+#ArtCollector #ArchitecturalPhotography #MinimalistPhotography #OnChainArt
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 150 • Tommy Gun')
+• Slide 1: Full high res photograph ('JOSH1 149 • A Dutch Shed')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 150 • Tommy Gun
+JOSH1 149 • A Dutch Shed
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 54.5 (Grade D • Rotterdam)
+  DRiP Provenance: Score 52.8 (Grade D • Rotterdam)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -57,23 +57,23 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 Collect the archive via link in bio
 📸 Archival Capture / Digital
 📍 Rotterdam (RTM) 🇳🇱
-💎 DRiP Score: 54.5 | Grade: D
+💎 DRiP Score: 52.8 | Grade: D
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#Industrial #WallArtDecor #ArtCollector #ArchivalPrint
+#ContemporaryCollector #WallArtDecor #SolanaNFT #ArchivalPrint
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 150 • Tommy Gun`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 149 • A Dutch Shed`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 150 • Tommy Gun"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 149 • A Dutch Shed"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-150-tommy-gun/"><img src="https://cdn.inprnt.com/thumbs/ef/3d/ef3d2ed2f7d040f93e384e12500d4249@2x.jpg" alt="JOSH1 150 • Tommy Gun" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-149-a-dutch-shed/"><img src="https://cdn.inprnt.com/thumbs/07/12/07120a5951e6f0e01fa6c2dffb3cd0ad@2x.jpg" alt="JOSH1 149 • A Dutch Shed" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 150 • Tommy Gun` |
+| **Title** | `JOSH1 149 • A Dutch Shed` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-150-tommy-gun/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-149-a-dutch-shed/)**
 ```

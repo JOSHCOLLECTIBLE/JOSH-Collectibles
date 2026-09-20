@@ -47,9 +47,10 @@
     "josh1-153-blaak-station",
     "josh1-152-m-logo",
     "josh1-151-metro-that-way",
-    "josh1-150-tommy-gun"
+    "josh1-150-tommy-gun",
+    "josh1-149-a-dutch-shed"
   ],
-  "last_promoted_date": "2026-09-19T17:04:18.269529",
+  "last_promoted_date": "2026-09-20T17:20:41.128717",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -393,6 +394,13 @@
       "title": "JOSH1-150: Tommy Gun",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-150-tommy-gun/",
       "image_url": "https://cdn.inprnt.com/thumbs/ef/3d/ef3d2ed2f7d040f93e384e12500d4249@2x.jpg"
+    },
+    {
+      "date": "2026-09-20 17:20:41",
+      "artwork_id": "josh1-149-a-dutch-shed",
+      "title": "JOSH1-149: A Dutch Shed",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-149-a-dutch-shed/",
+      "image_url": "https://cdn.inprnt.com/thumbs/07/12/07120a5951e6f0e01fa6c2dffb3cd0ad@2x.jpg"
     }
   ]
 }
