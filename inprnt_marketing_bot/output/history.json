@@ -48,9 +48,10 @@
     "josh1-152-m-logo",
     "josh1-151-metro-that-way",
     "josh1-150-tommy-gun",
-    "josh1-149-a-dutch-shed"
+    "josh1-149-a-dutch-shed",
+    "josh1-148-a-dutch-picnic"
   ],
-  "last_promoted_date": "2026-09-20T17:20:41.128717",
+  "last_promoted_date": "2026-09-21T19:08:50.748768",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -401,6 +402,13 @@
       "title": "JOSH1-149: A Dutch Shed",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-149-a-dutch-shed/",
       "image_url": "https://cdn.inprnt.com/thumbs/07/12/07120a5951e6f0e01fa6c2dffb3cd0ad@2x.jpg"
+    },
+    {
+      "date": "2026-09-21 19:08:50",
+      "artwork_id": "josh1-148-a-dutch-picnic",
+      "title": "JOSH1-148: A Dutch Picnic",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-148-a-dutch-picnic/",
+      "image_url": "https://cdn.inprnt.com/thumbs/76/5e/765e2dc715e444cf4cda1fff963e77fc@2x.jpg"
     }
   ]
 }
