@@ -49,9 +49,10 @@
     "josh1-151-metro-that-way",
     "josh1-150-tommy-gun",
     "josh1-149-a-dutch-shed",
-    "josh1-148-a-dutch-picnic"
+    "josh1-148-a-dutch-picnic",
+    "josh1-147-the-middle-of-venlo"
   ],
-  "last_promoted_date": "2026-09-21T19:08:50.748768",
+  "last_promoted_date": "2026-09-22T17:59:56.615279",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -409,6 +410,13 @@
       "title": "JOSH1-148: A Dutch Picnic",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-148-a-dutch-picnic/",
       "image_url": "https://cdn.inprnt.com/thumbs/76/5e/765e2dc715e444cf4cda1fff963e77fc@2x.jpg"
+    },
+    {
+      "date": "2026-09-22 17:59:56",
+      "artwork_id": "josh1-147-the-middle-of-venlo",
+      "title": "JOSH1-147: The Middle of Venlo",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-147-the-middle-of-venlo/",
+      "image_url": "https://cdn.inprnt.com/thumbs/e6/45/e6452b6ffa09b87d894028a3eed880ea@2x.jpg"
     }
   ]
 }

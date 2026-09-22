@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 148 • A Dutch Picnic
+# 🎨 Marketing Campaign: JOSH1 147 • The Middle of Venlo
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-148-a-dutch-picnic/](https://www.inprnt.com/gallery/joshuadenouden/josh1-148-a-dutch-picnic/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-147-the-middle-of-venlo/](https://www.inprnt.com/gallery/joshuadenouden/josh1-147-the-middle-of-venlo/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 148 • A Dutch Picnic](https://cdn.inprnt.com/thumbs/76/5e/765e2dc715e444cf4cda1fff963e77fc@2x.jpg)
+![JOSH1 147 • The Middle of Venlo](https://cdn.inprnt.com/thumbs/e6/45/e6452b6ffa09b87d894028a3eed880ea@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 148 • A Dutch Picnic | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 147 • The Middle of Venlo | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 148 • A Dutch Picnic'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-148-a-dutch-picnic/ • #UrbanGeometry #SolanaArt #FineArtPrint #BrutalistArchitecture
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 147 • The Middle of Venlo'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-147-the-middle-of-venlo/ • #BrutalistArchitecture #ContemporaryCollector #SolanaArt #SolanaNFT
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 148 • A Dutch Picnic 」
+「 JOSH1 147 • The Middle of Venlo 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#JOSHSHOOTPRINTS #INPRNT #SolanaArt #PhygitalArt
+#SolanaArt #StreetPhotography #ArtCollector #SolanaNFT
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 148 • A Dutch Picnic')
+• Slide 1: Full high res photograph ('JOSH1 147 • The Middle of Venlo')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 148 • A Dutch Picnic
+JOSH1 147 • The Middle of Venlo
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 51.8 (Grade D • Rotterdam)
+  DRiP Provenance: Score 52.2 (Grade D • Rotterdam)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -57,23 +57,23 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 Collect the archive via link in bio
 📸 Archival Capture / Digital
 📍 Rotterdam (RTM) 🇳🇱
-💎 DRiP Score: 51.8 | Grade: D
+💎 DRiP Score: 52.2 | Grade: D
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#SolanaNFT #MinimalistPhotography #WallArtDecor #ArchivalPrint
+#UrbanGeometry #SolanaArt #ContemporaryCollector #PhygitalArt
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 148 • A Dutch Picnic`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 147 • The Middle of Venlo`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 148 • A Dutch Picnic"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 147 • The Middle of Venlo"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-148-a-dutch-picnic/"><img src="https://cdn.inprnt.com/thumbs/76/5e/765e2dc715e444cf4cda1fff963e77fc@2x.jpg" alt="JOSH1 148 • A Dutch Picnic" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-147-the-middle-of-venlo/"><img src="https://cdn.inprnt.com/thumbs/e6/45/e6452b6ffa09b87d894028a3eed880ea@2x.jpg" alt="JOSH1 147 • The Middle of Venlo" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 148 • A Dutch Picnic` |
+| **Title** | `JOSH1 147 • The Middle of Venlo` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-148-a-dutch-picnic/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-147-the-middle-of-venlo/)**
 ```
