@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 147 • The Middle of Venlo
+# 🎨 Marketing Campaign: JOSH1 146 • The Maastricht Square
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-147-the-middle-of-venlo/](https://www.inprnt.com/gallery/joshuadenouden/josh1-147-the-middle-of-venlo/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-146-the-maastricht-square/](https://www.inprnt.com/gallery/joshuadenouden/josh1-146-the-maastricht-square/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 147 • The Middle of Venlo](https://cdn.inprnt.com/thumbs/e6/45/e6452b6ffa09b87d894028a3eed880ea@2x.jpg)
+![JOSH1 146 • The Maastricht Square](https://cdn.inprnt.com/thumbs/e8/03/e80331d90f050ea1f5d7d2b03e0e68be@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 147 • The Middle of Venlo | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 146 • The Maastricht Square | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 147 • The Middle of Venlo'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-147-the-middle-of-venlo/ • #BrutalistArchitecture #ContemporaryCollector #SolanaArt #SolanaNFT
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 146 • The Maastricht Square'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-146-the-maastricht-square/ • #FineArtPrint #INPRNT #JOSHSHOOTPRINTS #StreetPhotography
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 147 • The Middle of Venlo 」
+「 JOSH1 146 • The Maastricht Square 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#SolanaArt #StreetPhotography #ArtCollector #SolanaNFT
+#BrutalistArchitecture #OnChainArt #ArtCollector #JOSHSHOOTPRINTS
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 147 • The Middle of Venlo')
+• Slide 1: Full high res photograph ('JOSH1 146 • The Maastricht Square')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 147 • The Middle of Venlo
+JOSH1 146 • The Maastricht Square
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 52.2 (Grade D • Rotterdam)
+  DRiP Provenance: Score 58 (Grade C • MST)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -56,24 +56,24 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 
 Collect the archive via link in bio
 📸 Archival Capture / Digital
-📍 Rotterdam (RTM) 🇳🇱
-💎 DRiP Score: 52.2 | Grade: D
+📍 MST 🌍
+💎 DRiP Score: 58 | Grade: C
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#UrbanGeometry #SolanaArt #ContemporaryCollector #PhygitalArt
+#JOSHSHOOTPRINTS #MinimalistPhotography #WallArtDecor #SolanaArt
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 147 • The Middle of Venlo`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 146 • The Maastricht Square`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 147 • The Middle of Venlo"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 146 • The Maastricht Square"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-147-the-middle-of-venlo/"><img src="https://cdn.inprnt.com/thumbs/e6/45/e6452b6ffa09b87d894028a3eed880ea@2x.jpg" alt="JOSH1 147 • The Middle of Venlo" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-146-the-maastricht-square/"><img src="https://cdn.inprnt.com/thumbs/e8/03/e80331d90f050ea1f5d7d2b03e0e68be@2x.jpg" alt="JOSH1 146 • The Maastricht Square" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 147 • The Middle of Venlo` |
+| **Title** | `JOSH1 146 • The Maastricht Square` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-147-the-middle-of-venlo/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-146-the-maastricht-square/)**
 ```
