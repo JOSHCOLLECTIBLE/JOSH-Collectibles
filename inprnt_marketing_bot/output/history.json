@@ -51,9 +51,10 @@
     "josh1-149-a-dutch-shed",
     "josh1-148-a-dutch-picnic",
     "josh1-147-the-middle-of-venlo",
-    "josh1-146-the-maastricht-square"
+    "josh1-146-the-maastricht-square",
+    "josh1-145-the-bridge-of-maastricht"
   ],
-  "last_promoted_date": "2026-09-23T18:18:46.766103",
+  "last_promoted_date": "2026-09-24T18:19:57.649222",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -425,6 +426,13 @@
       "title": "JOSH1-146: The Maastricht Square",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-146-the-maastricht-square/",
       "image_url": "https://cdn.inprnt.com/thumbs/e8/03/e80331d90f050ea1f5d7d2b03e0e68be@2x.jpg"
+    },
+    {
+      "date": "2026-09-24 18:19:57",
+      "artwork_id": "josh1-145-the-bridge-of-maastricht",
+      "title": "JOSH1-145: The Bridge of Maastricht",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-145-the-bridge-of-maastricht/",
+      "image_url": "https://cdn.inprnt.com/thumbs/11/ed/11ede5a5a3a95520cfa6af5b765dfc76@2x.jpg"
     }
   ]
 }
