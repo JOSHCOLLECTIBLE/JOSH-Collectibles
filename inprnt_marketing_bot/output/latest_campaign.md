@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 145 • The Bridge of Maastricht
+# 🎨 Marketing Campaign: JOSH1 144 • Peak Isolation
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-145-the-bridge-of-maastricht/](https://www.inprnt.com/gallery/joshuadenouden/josh1-145-the-bridge-of-maastricht/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-144-peak-isolation/](https://www.inprnt.com/gallery/joshuadenouden/josh1-144-peak-isolation/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 145 • The Bridge of Maastricht](https://cdn.inprnt.com/thumbs/11/ed/11ede5a5a3a95520cfa6af5b765dfc76@2x.jpg)
+![JOSH1 144 • Peak Isolation](https://cdn.inprnt.com/thumbs/be/10/be1014cb265ae08abe1133f845dda0b1@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 145 • The Bridge of Maastricht | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 144 • Peak Isolation | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 145 • The Bridge of Maastricht'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-145-the-bridge-of-maastricht/ • #ArchivalPrint #SolanaNFT #SolanaArt #UrbanGeometry
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 144 • Peak Isolation'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-144-peak-isolation/ • #SolanaArt #BrutalistArchitecture #JOSHSHOOTPRINTS #ArchivalPrint
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 145 • The Bridge of Maastricht 」
+「 JOSH1 144 • Peak Isolation 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#MinimalistPhotography #WallArtDecor #SolanaArt #ArchitecturalPhotography
+#ArchivalPrint #WallArtDecor #INPRNT #SolanaNFT
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 145 • The Bridge of Maastricht')
+• Slide 1: Full high res photograph ('JOSH1 144 • Peak Isolation')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 145 • The Bridge of Maastricht
+JOSH1 144 • Peak Isolation
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 56.2 (Grade C • MST)
+  DRiP Provenance: Score 55 (Grade C • Rotterdam)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -56,24 +56,24 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 
 Collect the archive via link in bio
 📸 Archival Capture / Digital
-📍 MST 🌍
-💎 DRiP Score: 56.2 | Grade: C
+📍 Rotterdam (RTM) 🇳🇱
+💎 DRiP Score: 55 | Grade: C
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#StreetPhotography #BrutalistArchitecture #INPRNT #UrbanGeometry
+#Industrial #StreetPhotography #JOSHSHOOTPRINTS #INPRNT
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 145 • The Bridge of Maastricht`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 144 • Peak Isolation`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 145 • The Bridge of Maastricht"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 144 • Peak Isolation"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-145-the-bridge-of-maastricht/"><img src="https://cdn.inprnt.com/thumbs/11/ed/11ede5a5a3a95520cfa6af5b765dfc76@2x.jpg" alt="JOSH1 145 • The Bridge of Maastricht" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-144-peak-isolation/"><img src="https://cdn.inprnt.com/thumbs/be/10/be1014cb265ae08abe1133f845dda0b1@2x.jpg" alt="JOSH1 144 • Peak Isolation" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 145 • The Bridge of Maastricht` |
+| **Title** | `JOSH1 144 • Peak Isolation` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-145-the-bridge-of-maastricht/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-144-peak-isolation/)**
 ```

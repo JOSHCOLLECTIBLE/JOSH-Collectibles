@@ -52,9 +52,10 @@
     "josh1-148-a-dutch-picnic",
     "josh1-147-the-middle-of-venlo",
     "josh1-146-the-maastricht-square",
-    "josh1-145-the-bridge-of-maastricht"
+    "josh1-145-the-bridge-of-maastricht",
+    "josh1-144-peak-isolation"
   ],
-  "last_promoted_date": "2026-09-24T18:19:57.649222",
+  "last_promoted_date": "2026-09-25T18:19:57.501204",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -433,6 +434,13 @@
       "title": "JOSH1-145: The Bridge of Maastricht",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-145-the-bridge-of-maastricht/",
       "image_url": "https://cdn.inprnt.com/thumbs/11/ed/11ede5a5a3a95520cfa6af5b765dfc76@2x.jpg"
+    },
+    {
+      "date": "2026-09-25 18:19:57",
+      "artwork_id": "josh1-144-peak-isolation",
+      "title": "JOSH1-144: Peak Isolation",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-144-peak-isolation/",
+      "image_url": "https://cdn.inprnt.com/thumbs/be/10/be1014cb265ae08abe1133f845dda0b1@2x.jpg"
     }
   ]
 }
