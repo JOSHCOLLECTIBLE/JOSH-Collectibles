@@ -54,9 +54,10 @@
     "josh1-146-the-maastricht-square",
     "josh1-145-the-bridge-of-maastricht",
     "josh1-144-peak-isolation",
-    "josh1-143-industrial-rhythm"
+    "josh1-143-industrial-rhythm",
+    "josh1-142-geometric-repetition"
   ],
-  "last_promoted_date": "2026-09-26T17:40:14.413037",
+  "last_promoted_date": "2026-09-27T18:07:49.303742",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -449,6 +450,13 @@
       "title": "JOSH1-143: Industrial Rhythm",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-143-industrial-rhythm/",
       "image_url": "https://cdn.inprnt.com/thumbs/97/88/978843be496288654d596ce63e350ffb@2x.jpg"
+    },
+    {
+      "date": "2026-09-27 18:07:49",
+      "artwork_id": "josh1-142-geometric-repetition",
+      "title": "JOSH1-142: Geometric Repetition",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-142-geometric-repetition/",
+      "image_url": "https://cdn.inprnt.com/thumbs/45/c0/45c0529136ff8b60111165ba19f1abb7@2x.jpg"
     }
   ]
 }
