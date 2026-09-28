@@ -55,9 +55,10 @@
     "josh1-145-the-bridge-of-maastricht",
     "josh1-144-peak-isolation",
     "josh1-143-industrial-rhythm",
-    "josh1-142-geometric-repetition"
+    "josh1-142-geometric-repetition",
+    "josh1-141-de-euromast"
   ],
-  "last_promoted_date": "2026-09-27T18:07:49.303742",
+  "last_promoted_date": "2026-09-28T20:25:49.708662",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -457,6 +458,13 @@
       "title": "JOSH1-142: Geometric Repetition",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-142-geometric-repetition/",
       "image_url": "https://cdn.inprnt.com/thumbs/45/c0/45c0529136ff8b60111165ba19f1abb7@2x.jpg"
+    },
+    {
+      "date": "2026-09-28 20:25:49",
+      "artwork_id": "josh1-141-de-euromast",
+      "title": "JOSH1-141: De Euromast",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-141-de-euromast/",
+      "image_url": "https://cdn.inprnt.com/thumbs/c1/cc/c1ccd0215181cd1582ba5eda453cb903@2x.jpg"
     }
   ]
 }
