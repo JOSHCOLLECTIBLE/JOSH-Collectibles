@@ -56,9 +56,10 @@
     "josh1-144-peak-isolation",
     "josh1-143-industrial-rhythm",
     "josh1-142-geometric-repetition",
-    "josh1-141-de-euromast"
+    "josh1-141-de-euromast",
+    "josh1-140-weena-ecstasy"
   ],
-  "last_promoted_date": "2026-09-28T20:25:49.708662",
+  "last_promoted_date": "2026-09-29T19:12:27.629246",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -465,6 +466,13 @@
       "title": "JOSH1-141: De Euromast",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-141-de-euromast/",
       "image_url": "https://cdn.inprnt.com/thumbs/c1/cc/c1ccd0215181cd1582ba5eda453cb903@2x.jpg"
+    },
+    {
+      "date": "2026-09-29 19:12:27",
+      "artwork_id": "josh1-140-weena-ecstasy",
+      "title": "JOSH1-140: Weena Ecstasy",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-140-weena-ecstasy/",
+      "image_url": "https://cdn.inprnt.com/thumbs/91/a9/91a9784ab51ec4ff0e3c5cb24966b219@2x.jpg"
     }
   ]
 }

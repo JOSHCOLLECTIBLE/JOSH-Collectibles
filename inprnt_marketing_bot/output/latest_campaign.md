@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 141 • De Euromast
+# 🎨 Marketing Campaign: JOSH1 140 • Weena Ecstasy
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-141-de-euromast/](https://www.inprnt.com/gallery/joshuadenouden/josh1-141-de-euromast/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-140-weena-ecstasy/](https://www.inprnt.com/gallery/joshuadenouden/josh1-140-weena-ecstasy/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 141 • De Euromast](https://cdn.inprnt.com/thumbs/c1/cc/c1ccd0215181cd1582ba5eda453cb903@2x.jpg)
+![JOSH1 140 • Weena Ecstasy](https://cdn.inprnt.com/thumbs/91/a9/91a9784ab51ec4ff0e3c5cb24966b219@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 141 • De Euromast | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 140 • Weena Ecstasy | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 141 • De Euromast'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-141-de-euromast/ • #FineArtPrint #ArtCollector #INPRNT #BrutalistArchitecture
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 140 • Weena Ecstasy'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-140-weena-ecstasy/ • #ArtCollector #JOSHSHOOTPRINTS #MinimalistPhotography #SolanaNFT
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 141 • De Euromast 」
+「 JOSH1 140 • Weena Ecstasy 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#StreetPhotography #ArchivalPrint #SolanaNFT #UrbanGeometry
+#ContemporaryCollector #ArchitecturalPhotography #BrutalistArchitecture #INPRNT
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 141 • De Euromast')
+• Slide 1: Full high res photograph ('JOSH1 140 • Weena Ecstasy')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 141 • De Euromast
+JOSH1 140 • Weena Ecstasy
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 54 (Grade D • Rotterdam)
+  DRiP Provenance: Score 54.7 (Grade D • Rotterdam)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -57,23 +57,23 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 Collect the archive via link in bio
 📸 Archival Capture / Digital
 📍 Rotterdam (RTM) 🇳🇱
-💎 DRiP Score: 54 | Grade: D
+💎 DRiP Score: 54.7 | Grade: D
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#BrutalistArchitecture #ArtCollector #SolanaNFT #ArchivalPrint
+#JOSHSHOOTPRINTS #PhygitalArt #ArchitecturalPhotography #Industrial
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 141 • De Euromast`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 140 • Weena Ecstasy`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 141 • De Euromast"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 140 • Weena Ecstasy"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-141-de-euromast/"><img src="https://cdn.inprnt.com/thumbs/c1/cc/c1ccd0215181cd1582ba5eda453cb903@2x.jpg" alt="JOSH1 141 • De Euromast" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-140-weena-ecstasy/"><img src="https://cdn.inprnt.com/thumbs/91/a9/91a9784ab51ec4ff0e3c5cb24966b219@2x.jpg" alt="JOSH1 140 • Weena Ecstasy" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 141 • De Euromast` |
+| **Title** | `JOSH1 140 • Weena Ecstasy` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-141-de-euromast/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-140-weena-ecstasy/)**
 ```
