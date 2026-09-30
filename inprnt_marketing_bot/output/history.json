@@ -57,9 +57,10 @@
     "josh1-143-industrial-rhythm",
     "josh1-142-geometric-repetition",
     "josh1-141-de-euromast",
-    "josh1-140-weena-ecstasy"
+    "josh1-140-weena-ecstasy",
+    "josh1-139-de-rotterdam"
   ],
-  "last_promoted_date": "2026-09-29T19:12:27.629246",
+  "last_promoted_date": "2026-09-30T18:55:01.967799",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -473,6 +474,13 @@
       "title": "JOSH1-140: Weena Ecstasy",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-140-weena-ecstasy/",
       "image_url": "https://cdn.inprnt.com/thumbs/91/a9/91a9784ab51ec4ff0e3c5cb24966b219@2x.jpg"
+    },
+    {
+      "date": "2026-09-30 18:55:01",
+      "artwork_id": "josh1-139-de-rotterdam",
+      "title": "JOSH1-139: De Rotterdam",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-139-de-rotterdam/",
+      "image_url": "https://cdn.inprnt.com/thumbs/38/68/38685d5001124068216ec3c8cade4b7f@2x.jpg"
     }
   ]
 }
