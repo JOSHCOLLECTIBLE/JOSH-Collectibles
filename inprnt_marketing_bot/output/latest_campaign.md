@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 139 • De Rotterdam
+# 🎨 Marketing Campaign: JOSH1 138 • And how building
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-139-de-rotterdam/](https://www.inprnt.com/gallery/joshuadenouden/josh1-139-de-rotterdam/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-138-and-how-building/](https://www.inprnt.com/gallery/joshuadenouden/josh1-138-and-how-building/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 139 • De Rotterdam](https://cdn.inprnt.com/thumbs/38/68/38685d5001124068216ec3c8cade4b7f@2x.jpg)
+![JOSH1 138 • And how building](https://cdn.inprnt.com/thumbs/6f/fb/6ffbc74d994925227a895110353b9129@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 139 • De Rotterdam | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 138 • And how building | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 139 • De Rotterdam'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-139-de-rotterdam/ • #ArtCollector #MinimalistPhotography #Industrial #ContemporaryCollector
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 138 • And how building'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-138-and-how-building/ • #SolanaNFT #WallArtDecor #Industrial #ContemporaryCollector
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 139 • De Rotterdam 」
+「 JOSH1 138 • And how building 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#ContemporaryCollector #WallArtDecor #MinimalistPhotography #ArtCollector
+#ArchivalPrint #FineArtPrint #ContemporaryCollector #ArtCollector
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 139 • De Rotterdam')
+• Slide 1: Full high res photograph ('JOSH1 138 • And how building')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 139 • De Rotterdam
+JOSH1 138 • And how building
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 54.4 (Grade D • Rotterdam)
+  DRiP Provenance: Score 53.6 (Grade D • Rotterdam)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -57,23 +57,23 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 Collect the archive via link in bio
 📸 Archival Capture / Digital
 📍 Rotterdam (RTM) 🇳🇱
-💎 DRiP Score: 54.4 | Grade: D
+💎 DRiP Score: 53.6 | Grade: D
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#ArchivalPrint #INPRNT #FineArtPrint #Industrial
+#WallArtDecor #SolanaNFT #SolanaArt #JOSHSHOOTPRINTS
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 139 • De Rotterdam`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 138 • And how building`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 139 • De Rotterdam"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 138 • And how building"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-139-de-rotterdam/"><img src="https://cdn.inprnt.com/thumbs/38/68/38685d5001124068216ec3c8cade4b7f@2x.jpg" alt="JOSH1 139 • De Rotterdam" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-138-and-how-building/"><img src="https://cdn.inprnt.com/thumbs/6f/fb/6ffbc74d994925227a895110353b9129@2x.jpg" alt="JOSH1 138 • And how building" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 139 • De Rotterdam` |
+| **Title** | `JOSH1 138 • And how building` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-139-de-rotterdam/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-138-and-how-building/)**
 ```

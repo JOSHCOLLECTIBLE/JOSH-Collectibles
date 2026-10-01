@@ -58,9 +58,10 @@
     "josh1-142-geometric-repetition",
     "josh1-141-de-euromast",
     "josh1-140-weena-ecstasy",
-    "josh1-139-de-rotterdam"
+    "josh1-139-de-rotterdam",
+    "josh1-138-and-how-building"
   ],
-  "last_promoted_date": "2026-09-30T18:55:01.967799",
+  "last_promoted_date": "2026-10-01T19:20:10.685348",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -481,6 +482,13 @@
       "title": "JOSH1-139: De Rotterdam",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-139-de-rotterdam/",
       "image_url": "https://cdn.inprnt.com/thumbs/38/68/38685d5001124068216ec3c8cade4b7f@2x.jpg"
+    },
+    {
+      "date": "2026-10-01 19:20:10",
+      "artwork_id": "josh1-138-and-how-building",
+      "title": "JOSH1-138: And how building",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-138-and-how-building/",
+      "image_url": "https://cdn.inprnt.com/thumbs/6f/fb/6ffbc74d994925227a895110353b9129@2x.jpg"
     }
   ]
 }
