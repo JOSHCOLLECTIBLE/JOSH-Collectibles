@@ -59,9 +59,10 @@
     "josh1-141-de-euromast",
     "josh1-140-weena-ecstasy",
     "josh1-139-de-rotterdam",
-    "josh1-138-and-how-building"
+    "josh1-138-and-how-building",
+    "josh1-137-only-thing-that-stuck"
   ],
-  "last_promoted_date": "2026-10-01T19:20:10.685348",
+  "last_promoted_date": "2026-10-02T19:03:20.404670",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -489,6 +490,13 @@
       "title": "JOSH1-138: And how building",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-138-and-how-building/",
       "image_url": "https://cdn.inprnt.com/thumbs/6f/fb/6ffbc74d994925227a895110353b9129@2x.jpg"
+    },
+    {
+      "date": "2026-10-02 19:03:20",
+      "artwork_id": "josh1-137-only-thing-that-stuck",
+      "title": "JOSH1-137: Only Thing that Stuck",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-137-only-thing-that-stuck/",
+      "image_url": "https://cdn.inprnt.com/thumbs/da/39/da39e4cbf720277556cd62f71de51a1d@2x.jpg"
     }
   ]
 }
