@@ -60,9 +60,10 @@
     "josh1-140-weena-ecstasy",
     "josh1-139-de-rotterdam",
     "josh1-138-and-how-building",
-    "josh1-137-only-thing-that-stuck"
+    "josh1-137-only-thing-that-stuck",
+    "josh1-136-back-to-the-reef"
   ],
-  "last_promoted_date": "2026-10-02T19:03:20.404670",
+  "last_promoted_date": "2026-10-03T17:50:31.219603",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -497,6 +498,13 @@
       "title": "JOSH1-137: Only Thing that Stuck",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-137-only-thing-that-stuck/",
       "image_url": "https://cdn.inprnt.com/thumbs/da/39/da39e4cbf720277556cd62f71de51a1d@2x.jpg"
+    },
+    {
+      "date": "2026-10-03 17:50:31",
+      "artwork_id": "josh1-136-back-to-the-reef",
+      "title": "JOSH1-136: Back to The Reef",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-136-back-to-the-reef/",
+      "image_url": "https://cdn.inprnt.com/thumbs/a2/6e/a26e4a4258eeaa1899c476bd4985d8a8@2x.jpg"
     }
   ]
 }

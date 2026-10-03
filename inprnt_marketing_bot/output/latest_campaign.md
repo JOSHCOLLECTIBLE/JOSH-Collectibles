@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 137 • Only Thing that Stuck
+# 🎨 Marketing Campaign: JOSH1 136 • Back to The Reef
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-137-only-thing-that-stuck/](https://www.inprnt.com/gallery/joshuadenouden/josh1-137-only-thing-that-stuck/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-136-back-to-the-reef/](https://www.inprnt.com/gallery/joshuadenouden/josh1-136-back-to-the-reef/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 137 • Only Thing that Stuck](https://cdn.inprnt.com/thumbs/da/39/da39e4cbf720277556cd62f71de51a1d@2x.jpg)
+![JOSH1 136 • Back to The Reef](https://cdn.inprnt.com/thumbs/a2/6e/a26e4a4258eeaa1899c476bd4985d8a8@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 137 • Only Thing that Stuck | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 136 • Back to The Reef | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 137 • Only Thing that Stuck'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-137-only-thing-that-stuck/ • #PhygitalArt #StreetPhotography #FineArtPrint #UrbanGeometry
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 136 • Back to The Reef'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-136-back-to-the-reef/ • #ArchivalPrint #JOSHSHOOTPRINTS #UrbanGeometry #FineArtPrint
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 137 • Only Thing that Stuck 」
+「 JOSH1 136 • Back to The Reef 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#PhygitalArt #MinimalistPhotography #Industrial #BrutalistArchitecture
+#ContemporaryCollector #SolanaArt #INPRNT #JOSHSHOOTPRINTS
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 137 • Only Thing that Stuck')
+• Slide 1: Full high res photograph ('JOSH1 136 • Back to The Reef')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 137 • Only Thing that Stuck
+JOSH1 136 • Back to The Reef
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 53.7 (Grade D • Rotterdam)
+  DRiP Provenance: Score 55.2 (Grade C • Rotterdam)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -57,23 +57,23 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 Collect the archive via link in bio
 📸 Archival Capture / Digital
 📍 Rotterdam (RTM) 🇳🇱
-💎 DRiP Score: 53.7 | Grade: D
+💎 DRiP Score: 55.2 | Grade: C
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#SolanaNFT #INPRNT #OnChainArt #BrutalistArchitecture
+#UrbanGeometry #FineArtPrint #Industrial #ArchivalPrint
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 137 • Only Thing that Stuck`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 136 • Back to The Reef`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 137 • Only Thing that Stuck"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 136 • Back to The Reef"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-137-only-thing-that-stuck/"><img src="https://cdn.inprnt.com/thumbs/da/39/da39e4cbf720277556cd62f71de51a1d@2x.jpg" alt="JOSH1 137 • Only Thing that Stuck" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-136-back-to-the-reef/"><img src="https://cdn.inprnt.com/thumbs/a2/6e/a26e4a4258eeaa1899c476bd4985d8a8@2x.jpg" alt="JOSH1 136 • Back to The Reef" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 137 • Only Thing that Stuck` |
+| **Title** | `JOSH1 136 • Back to The Reef` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-137-only-thing-that-stuck/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-136-back-to-the-reef/)**
 ```
