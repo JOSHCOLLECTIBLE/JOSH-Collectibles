@@ -61,9 +61,10 @@
     "josh1-139-de-rotterdam",
     "josh1-138-and-how-building",
     "josh1-137-only-thing-that-stuck",
-    "josh1-136-back-to-the-reef"
+    "josh1-136-back-to-the-reef",
+    "josh1-135-worth-the-wait"
   ],
-  "last_promoted_date": "2026-10-03T17:50:31.219603",
+  "last_promoted_date": "2026-10-04T18:02:32.672254",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -505,6 +506,13 @@
       "title": "JOSH1-136: Back to The Reef",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-136-back-to-the-reef/",
       "image_url": "https://cdn.inprnt.com/thumbs/a2/6e/a26e4a4258eeaa1899c476bd4985d8a8@2x.jpg"
+    },
+    {
+      "date": "2026-10-04 18:02:32",
+      "artwork_id": "josh1-135-worth-the-wait",
+      "title": "JOSH1-135: Worth The Wait",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-135-worth-the-wait/",
+      "image_url": "https://cdn.inprnt.com/thumbs/72/13/72139c895acd965c2d1224cc17f2b206@2x.jpg"
     }
   ]
 }
