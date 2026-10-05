@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 135 • Worth The Wait
+# 🎨 Marketing Campaign: JOSH1 134 • The Hilless
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-135-worth-the-wait/](https://www.inprnt.com/gallery/joshuadenouden/josh1-135-worth-the-wait/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-134-the-hilless/](https://www.inprnt.com/gallery/joshuadenouden/josh1-134-the-hilless/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 135 • Worth The Wait](https://cdn.inprnt.com/thumbs/72/13/72139c895acd965c2d1224cc17f2b206@2x.jpg)
+![JOSH1 134 • The Hilless](https://cdn.inprnt.com/thumbs/06/55/06558a606074eb8bb52dfc232ba55f35@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 135 • Worth The Wait | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 134 • The Hilless | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 135 • Worth The Wait'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-135-worth-the-wait/ • #ArchivalPrint #ArtCollector #SolanaArt #WallArtDecor
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 134 • The Hilless'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-134-the-hilless/ • #JOSHSHOOTPRINTS #SolanaNFT #INPRNT #BrutalistArchitecture
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 135 • Worth The Wait 」
+「 JOSH1 134 • The Hilless 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#StreetPhotography #JOSHSHOOTPRINTS #PhygitalArt #Industrial
+#ArchitecturalPhotography #INPRNT #MinimalistPhotography #WallArtDecor
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 135 • Worth The Wait')
+• Slide 1: Full high res photograph ('JOSH1 134 • The Hilless')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 135 • Worth The Wait
+JOSH1 134 • The Hilless
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 57 (Grade C • Rotterdam)
+  DRiP Provenance: Score 54.2 (Grade D • Rotterdam)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -57,23 +57,23 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 Collect the archive via link in bio
 📸 Archival Capture / Digital
 📍 Rotterdam (RTM) 🇳🇱
-💎 DRiP Score: 57 | Grade: C
+💎 DRiP Score: 54.2 | Grade: D
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#ArchitecturalPhotography #ContemporaryCollector #StreetPhotography #JOSHSHOOTPRINTS
+#BrutalistArchitecture #SolanaArt #WallArtDecor #JOSHSHOOTPRINTS
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 135 • Worth The Wait`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 134 • The Hilless`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 135 • Worth The Wait"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 134 • The Hilless"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-135-worth-the-wait/"><img src="https://cdn.inprnt.com/thumbs/72/13/72139c895acd965c2d1224cc17f2b206@2x.jpg" alt="JOSH1 135 • Worth The Wait" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-134-the-hilless/"><img src="https://cdn.inprnt.com/thumbs/06/55/06558a606074eb8bb52dfc232ba55f35@2x.jpg" alt="JOSH1 134 • The Hilless" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 135 • Worth The Wait` |
+| **Title** | `JOSH1 134 • The Hilless` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-135-worth-the-wait/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-134-the-hilless/)**
 ```

@@ -62,9 +62,10 @@
     "josh1-138-and-how-building",
     "josh1-137-only-thing-that-stuck",
     "josh1-136-back-to-the-reef",
-    "josh1-135-worth-the-wait"
+    "josh1-135-worth-the-wait",
+    "josh1-134-the-hilless"
   ],
-  "last_promoted_date": "2026-10-04T18:02:32.672254",
+  "last_promoted_date": "2026-10-05T21:25:06.018345",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -513,6 +514,13 @@
       "title": "JOSH1-135: Worth The Wait",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-135-worth-the-wait/",
       "image_url": "https://cdn.inprnt.com/thumbs/72/13/72139c895acd965c2d1224cc17f2b206@2x.jpg"
+    },
+    {
+      "date": "2026-10-05 21:25:06",
+      "artwork_id": "josh1-134-the-hilless",
+      "title": "JOSH1-134: The Hilless",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-134-the-hilless/",
+      "image_url": "https://cdn.inprnt.com/thumbs/06/55/06558a606074eb8bb52dfc232ba55f35@2x.jpg"
     }
   ]
 }
