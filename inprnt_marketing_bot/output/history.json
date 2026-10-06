@@ -63,9 +63,10 @@
     "josh1-137-only-thing-that-stuck",
     "josh1-136-back-to-the-reef",
     "josh1-135-worth-the-wait",
-    "josh1-134-the-hilless"
+    "josh1-134-the-hilless",
+    "josh1-133-dam-housing-crisis"
   ],
-  "last_promoted_date": "2026-10-05T21:25:06.018345",
+  "last_promoted_date": "2026-10-06T19:20:59.883243",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -521,6 +522,13 @@
       "title": "JOSH1-134: The Hilless",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-134-the-hilless/",
       "image_url": "https://cdn.inprnt.com/thumbs/06/55/06558a606074eb8bb52dfc232ba55f35@2x.jpg"
+    },
+    {
+      "date": "2026-10-06 19:20:59",
+      "artwork_id": "josh1-133-dam-housing-crisis",
+      "title": "JOSH1-133: Dam Housing Crisis",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-133-dam-housing-crisis/",
+      "image_url": "https://cdn.inprnt.com/thumbs/af/51/af515a740e4e4565a914d61c2f34cb7b@2x.jpg"
     }
   ]
 }
