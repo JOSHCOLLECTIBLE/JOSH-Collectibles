@@ -64,9 +64,10 @@
     "josh1-136-back-to-the-reef",
     "josh1-135-worth-the-wait",
     "josh1-134-the-hilless",
-    "josh1-133-dam-housing-crisis"
+    "josh1-133-dam-housing-crisis",
+    "josh1-132-what-does-blaak-mean"
   ],
-  "last_promoted_date": "2026-10-06T19:20:59.883243",
+  "last_promoted_date": "2026-10-07T19:48:10.967013",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -529,6 +530,13 @@
       "title": "JOSH1-133: Dam Housing Crisis",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-133-dam-housing-crisis/",
       "image_url": "https://cdn.inprnt.com/thumbs/af/51/af515a740e4e4565a914d61c2f34cb7b@2x.jpg"
+    },
+    {
+      "date": "2026-10-07 19:48:10",
+      "artwork_id": "josh1-132-what-does-blaak-mean",
+      "title": "JOSH1-132: What does Blaak Mean?",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-132-what-does-blaak-mean/",
+      "image_url": "https://cdn.inprnt.com/thumbs/9d/19/9d190f44099573569d725367d2e88b7f@2x.jpg"
     }
   ]
 }
