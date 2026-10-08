@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 132 • What does Blaak Mean?
+# 🎨 Marketing Campaign: JOSH1 131 • The Forum
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-132-what-does-blaak-mean/](https://www.inprnt.com/gallery/joshuadenouden/josh1-132-what-does-blaak-mean/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-131-the-forum/](https://www.inprnt.com/gallery/joshuadenouden/josh1-131-the-forum/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 132 • What does Blaak Mean?](https://cdn.inprnt.com/thumbs/9d/19/9d190f44099573569d725367d2e88b7f@2x.jpg)
+![JOSH1 131 • The Forum](https://cdn.inprnt.com/thumbs/2b/9c/2b9cf244511e040d0168eea12553b4c0@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 132 • What does Blaak Mean? | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 131 • The Forum | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 132 • What does Blaak Mean?'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-132-what-does-blaak-mean/ • #ContemporaryCollector #OnChainArt #INPRNT #SolanaArt
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 131 • The Forum'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-131-the-forum/ • #WallArtDecor #FineArtPrint #PhygitalArt #ContemporaryCollector
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 132 • What does Blaak Mean? 」
+「 JOSH1 131 • The Forum 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#MinimalistPhotography #WallArtDecor #Industrial #ArchitecturalPhotography
+#BrutalistArchitecture #ArchivalPrint #WallArtDecor #FineArtPrint
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 132 • What does Blaak Mean?')
+• Slide 1: Full high res photograph ('JOSH1 131 • The Forum')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 132 • What does Blaak Mean?
+JOSH1 131 • The Forum
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 58.2 (Grade C • Rotterdam)
+  DRiP Provenance: Score 53 (Grade D • Rotterdam)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -57,23 +57,23 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 Collect the archive via link in bio
 📸 Archival Capture / Digital
 📍 Rotterdam (RTM) 🇳🇱
-💎 DRiP Score: 58.2 | Grade: C
+💎 DRiP Score: 53 | Grade: D
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#MinimalistPhotography #JOSHSHOOTPRINTS #StreetPhotography #ArchitecturalPhotography
+#OnChainArt #ArchitecturalPhotography #MinimalistPhotography #SolanaNFT
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 132 • What does Blaak Mean?`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 131 • The Forum`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 132 • What does Blaak Mean?"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 131 • The Forum"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-132-what-does-blaak-mean/"><img src="https://cdn.inprnt.com/thumbs/9d/19/9d190f44099573569d725367d2e88b7f@2x.jpg" alt="JOSH1 132 • What does Blaak Mean?" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-131-the-forum/"><img src="https://cdn.inprnt.com/thumbs/2b/9c/2b9cf244511e040d0168eea12553b4c0@2x.jpg" alt="JOSH1 131 • The Forum" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 132 • What does Blaak Mean?` |
+| **Title** | `JOSH1 131 • The Forum` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-132-what-does-blaak-mean/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-131-the-forum/)**
 ```

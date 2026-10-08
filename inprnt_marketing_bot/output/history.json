@@ -65,9 +65,10 @@
     "josh1-135-worth-the-wait",
     "josh1-134-the-hilless",
     "josh1-133-dam-housing-crisis",
-    "josh1-132-what-does-blaak-mean"
+    "josh1-132-what-does-blaak-mean",
+    "josh1-131-the-forum"
   ],
-  "last_promoted_date": "2026-10-07T19:48:10.967013",
+  "last_promoted_date": "2026-10-08T19:43:26.520307",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -537,6 +538,13 @@
       "title": "JOSH1-132: What does Blaak Mean?",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-132-what-does-blaak-mean/",
       "image_url": "https://cdn.inprnt.com/thumbs/9d/19/9d190f44099573569d725367d2e88b7f@2x.jpg"
+    },
+    {
+      "date": "2026-10-08 19:43:26",
+      "artwork_id": "josh1-131-the-forum",
+      "title": "JOSH1-131: The Forum",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-131-the-forum/",
+      "image_url": "https://cdn.inprnt.com/thumbs/2b/9c/2b9cf244511e040d0168eea12553b4c0@2x.jpg"
     }
   ]
 }
