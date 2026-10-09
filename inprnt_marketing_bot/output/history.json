@@ -66,9 +66,10 @@
     "josh1-134-the-hilless",
     "josh1-133-dam-housing-crisis",
     "josh1-132-what-does-blaak-mean",
-    "josh1-131-the-forum"
+    "josh1-131-the-forum",
+    "josh1-130-the-beurs-dis"
   ],
-  "last_promoted_date": "2026-10-08T19:43:26.520307",
+  "last_promoted_date": "2026-10-09T19:20:26.837370",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -545,6 +546,13 @@
       "title": "JOSH1-131: The Forum",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-131-the-forum/",
       "image_url": "https://cdn.inprnt.com/thumbs/2b/9c/2b9cf244511e040d0168eea12553b4c0@2x.jpg"
+    },
+    {
+      "date": "2026-10-09 19:20:26",
+      "artwork_id": "josh1-130-the-beurs-dis",
+      "title": "JOSH1-130: The Beurs Dis",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-130-the-beurs-dis/",
+      "image_url": "https://cdn.inprnt.com/thumbs/0d/63/0d635d497f18769d83cf2277c9ea57c8@2x.jpg"
     }
   ]
 }
