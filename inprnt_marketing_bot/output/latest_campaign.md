@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 130 • The Beurs Dis
+# 🎨 Marketing Campaign: JOSH1 128 • The Two Bikes
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-130-the-beurs-dis/](https://www.inprnt.com/gallery/joshuadenouden/josh1-130-the-beurs-dis/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-128-the-two-bikes/](https://www.inprnt.com/gallery/joshuadenouden/josh1-128-the-two-bikes/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 130 • The Beurs Dis](https://cdn.inprnt.com/thumbs/0d/63/0d635d497f18769d83cf2277c9ea57c8@2x.jpg)
+![JOSH1 128 • The Two Bikes](https://cdn.inprnt.com/thumbs/80/3e/803ed488ec1636e79617d2aff3cde106@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 130 • The Beurs Dis | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 128 • The Two Bikes | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 130 • The Beurs Dis'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-130-the-beurs-dis/ • #ArtCollector #SolanaArt #Industrial #UrbanGeometry
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 128 • The Two Bikes'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-128-the-two-bikes/ • #SolanaArt #ContemporaryCollector #MinimalistPhotography #ArchivalPrint
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 130 • The Beurs Dis 」
+「 JOSH1 128 • The Two Bikes 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#WallArtDecor #OnChainArt #UrbanGeometry #SolanaArt
+#ArchitecturalPhotography #Industrial #FineArtPrint #ArchivalPrint
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 130 • The Beurs Dis')
+• Slide 1: Full high res photograph ('JOSH1 128 • The Two Bikes')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 130 • The Beurs Dis
+JOSH1 128 • The Two Bikes
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 56 (Grade C • Rotterdam)
+  DRiP Provenance: Score 58.2 (Grade C • Rotterdam)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -57,23 +57,23 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 Collect the archive via link in bio
 📸 Archival Capture / Digital
 📍 Rotterdam (RTM) 🇳🇱
-💎 DRiP Score: 56 | Grade: C
+💎 DRiP Score: 58.2 | Grade: C
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#INPRNT #PhygitalArt #UrbanGeometry #MinimalistPhotography
+#WallArtDecor #INPRNT #OnChainArt #PhygitalArt
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 130 • The Beurs Dis`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 128 • The Two Bikes`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 130 • The Beurs Dis"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 128 • The Two Bikes"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-130-the-beurs-dis/"><img src="https://cdn.inprnt.com/thumbs/0d/63/0d635d497f18769d83cf2277c9ea57c8@2x.jpg" alt="JOSH1 130 • The Beurs Dis" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-128-the-two-bikes/"><img src="https://cdn.inprnt.com/thumbs/80/3e/803ed488ec1636e79617d2aff3cde106@2x.jpg" alt="JOSH1 128 • The Two Bikes" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 130 • The Beurs Dis` |
+| **Title** | `JOSH1 128 • The Two Bikes` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-130-the-beurs-dis/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-128-the-two-bikes/)**
 ```

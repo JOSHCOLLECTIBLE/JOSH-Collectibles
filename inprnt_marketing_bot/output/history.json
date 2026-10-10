@@ -67,9 +67,10 @@
     "josh1-133-dam-housing-crisis",
     "josh1-132-what-does-blaak-mean",
     "josh1-131-the-forum",
-    "josh1-130-the-beurs-dis"
+    "josh1-130-the-beurs-dis",
+    "josh1-128-the-two-bikes"
   ],
-  "last_promoted_date": "2026-10-09T19:20:26.837370",
+  "last_promoted_date": "2026-10-10T18:18:27.240941",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -553,6 +554,13 @@
       "title": "JOSH1-130: The Beurs Dis",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-130-the-beurs-dis/",
       "image_url": "https://cdn.inprnt.com/thumbs/0d/63/0d635d497f18769d83cf2277c9ea57c8@2x.jpg"
+    },
+    {
+      "date": "2026-10-10 18:18:27",
+      "artwork_id": "josh1-128-the-two-bikes",
+      "title": "JOSH1-128: The Two Bikes",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-128-the-two-bikes/",
+      "image_url": "https://cdn.inprnt.com/thumbs/80/3e/803ed488ec1636e79617d2aff3cde106@2x.jpg"
     }
   ]
 }
