@@ -68,9 +68,10 @@
     "josh1-132-what-does-blaak-mean",
     "josh1-131-the-forum",
     "josh1-130-the-beurs-dis",
-    "josh1-128-the-two-bikes"
+    "josh1-128-the-two-bikes",
+    "josh1-127-canal-grafitti"
   ],
-  "last_promoted_date": "2026-10-10T18:18:27.240941",
+  "last_promoted_date": "2026-10-11T18:42:02.094777",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -561,6 +562,13 @@
       "title": "JOSH1-128: The Two Bikes",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-128-the-two-bikes/",
       "image_url": "https://cdn.inprnt.com/thumbs/80/3e/803ed488ec1636e79617d2aff3cde106@2x.jpg"
+    },
+    {
+      "date": "2026-10-11 18:42:02",
+      "artwork_id": "josh1-127-canal-grafitti",
+      "title": "JOSH1-127: Canal Grafitti",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-127-canal-grafitti/",
+      "image_url": "https://cdn.inprnt.com/thumbs/e0/57/e0573c33bffab0a78be92dc2cb55ab04@2x.jpg"
     }
   ]
 }
