@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 127 • Canal Grafitti
+# 🎨 Marketing Campaign: JOSH1 126 • Kalverstraat 2020
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-127-canal-grafitti/](https://www.inprnt.com/gallery/joshuadenouden/josh1-127-canal-grafitti/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-126-kalverstraat-2020/](https://www.inprnt.com/gallery/joshuadenouden/josh1-126-kalverstraat-2020/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 127 • Canal Grafitti](https://cdn.inprnt.com/thumbs/e0/57/e0573c33bffab0a78be92dc2cb55ab04@2x.jpg)
+![JOSH1 126 • Kalverstraat 2020](https://cdn.inprnt.com/thumbs/b2/70/b270264c887e38d4d2d7bf723e84fd4b@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 127 • Canal Grafitti | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 126 • Kalverstraat 2020 | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 127 • Canal Grafitti'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-127-canal-grafitti/ • #FineArtPrint #ArtCollector #BrutalistArchitecture #ContemporaryCollector
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 126 • Kalverstraat 2020'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-126-kalverstraat-2020/ • #OnChainArt #JOSHSHOOTPRINTS #Industrial #StreetPhotography
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 127 • Canal Grafitti 」
+「 JOSH1 126 • Kalverstraat 2020 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#ContemporaryCollector #ArchivalPrint #INPRNT #UrbanGeometry
+#ArchivalPrint #StreetPhotography #MinimalistPhotography #ArchitecturalPhotography
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 127 • Canal Grafitti')
+• Slide 1: Full high res photograph ('JOSH1 126 • Kalverstraat 2020')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 127 • Canal Grafitti
+JOSH1 126 • Kalverstraat 2020
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 60.2 (Grade C • Amsterdam)
+  DRiP Provenance: Score 58.3 (Grade C • Amsterdam)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -57,23 +57,23 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 Collect the archive via link in bio
 📸 Archival Capture / Digital
 📍 Amsterdam (AMS) 🇳🇱
-💎 DRiP Score: 60.2 | Grade: C
+💎 DRiP Score: 58.3 | Grade: C
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#JOSHSHOOTPRINTS #ArchivalPrint #PhygitalArt #WallArtDecor
+#BrutalistArchitecture #StreetPhotography #WallArtDecor #UrbanGeometry
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 127 • Canal Grafitti`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 126 • Kalverstraat 2020`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 127 • Canal Grafitti"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 126 • Kalverstraat 2020"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-127-canal-grafitti/"><img src="https://cdn.inprnt.com/thumbs/e0/57/e0573c33bffab0a78be92dc2cb55ab04@2x.jpg" alt="JOSH1 127 • Canal Grafitti" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-126-kalverstraat-2020/"><img src="https://cdn.inprnt.com/thumbs/b2/70/b270264c887e38d4d2d7bf723e84fd4b@2x.jpg" alt="JOSH1 126 • Kalverstraat 2020" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 127 • Canal Grafitti` |
+| **Title** | `JOSH1 126 • Kalverstraat 2020` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-127-canal-grafitti/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-126-kalverstraat-2020/)**
 ```

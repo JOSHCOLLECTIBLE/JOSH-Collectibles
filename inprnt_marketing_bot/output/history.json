@@ -69,9 +69,10 @@
     "josh1-131-the-forum",
     "josh1-130-the-beurs-dis",
     "josh1-128-the-two-bikes",
-    "josh1-127-canal-grafitti"
+    "josh1-127-canal-grafitti",
+    "josh1-126-kalverstraat-2020"
   ],
-  "last_promoted_date": "2026-10-11T18:42:02.094777",
+  "last_promoted_date": "2026-10-12T22:00:37.280263",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -569,6 +570,13 @@
       "title": "JOSH1-127: Canal Grafitti",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-127-canal-grafitti/",
       "image_url": "https://cdn.inprnt.com/thumbs/e0/57/e0573c33bffab0a78be92dc2cb55ab04@2x.jpg"
+    },
+    {
+      "date": "2026-10-12 22:00:37",
+      "artwork_id": "josh1-126-kalverstraat-2020",
+      "title": "JOSH1-126: Kalverstraat 2020",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-126-kalverstraat-2020/",
+      "image_url": "https://cdn.inprnt.com/thumbs/b2/70/b270264c887e38d4d2d7bf723e84fd4b@2x.jpg"
     }
   ]
 }
