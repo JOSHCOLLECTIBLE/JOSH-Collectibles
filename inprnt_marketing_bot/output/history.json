@@ -71,9 +71,10 @@
     "josh1-128-the-two-bikes",
     "josh1-127-canal-grafitti",
     "josh1-126-kalverstraat-2020",
-    "josh1-125-something-about"
+    "josh1-125-something-about",
+    "josh1-124-the-hague-centraal"
   ],
-  "last_promoted_date": "2026-10-13T20:07:56.106606",
+  "last_promoted_date": "2026-10-14T18:23:50.294290",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -585,6 +586,13 @@
       "title": "JOSH1-125: Something about",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-125-something-about/",
       "image_url": "https://cdn.inprnt.com/thumbs/fc/33/fc338fe6d9878dc4c3bfd2c80f5a3123@2x.jpg"
+    },
+    {
+      "date": "2026-10-14 18:23:50",
+      "artwork_id": "josh1-124-the-hague-centraal",
+      "title": "JOSH1-124: The Hague Centraal",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-124-the-hague-centraal/",
+      "image_url": "https://cdn.inprnt.com/thumbs/32/e9/32e9949e239759b08d4548e0b258dd94@2x.jpg"
     }
   ]
 }
