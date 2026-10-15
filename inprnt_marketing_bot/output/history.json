@@ -72,9 +72,10 @@
     "josh1-127-canal-grafitti",
     "josh1-126-kalverstraat-2020",
     "josh1-125-something-about",
-    "josh1-124-the-hague-centraal"
+    "josh1-124-the-hague-centraal",
+    "josh1-123-north-side-river"
   ],
-  "last_promoted_date": "2026-10-14T18:23:50.294290",
+  "last_promoted_date": "2026-10-15T18:06:21.706587",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -593,6 +594,13 @@
       "title": "JOSH1-124: The Hague Centraal",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-124-the-hague-centraal/",
       "image_url": "https://cdn.inprnt.com/thumbs/32/e9/32e9949e239759b08d4548e0b258dd94@2x.jpg"
+    },
+    {
+      "date": "2026-10-15 18:06:21",
+      "artwork_id": "josh1-123-north-side-river",
+      "title": "JOSH1-123: North Side River",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-123-north-side-river/",
+      "image_url": "https://cdn.inprnt.com/thumbs/97/a2/97a28d21a9e2b5060ea2419a24e0cc3e@2x.jpg"
     }
   ]
 }
