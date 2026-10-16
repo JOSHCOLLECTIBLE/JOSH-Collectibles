@@ -73,9 +73,10 @@
     "josh1-126-kalverstraat-2020",
     "josh1-125-something-about",
     "josh1-124-the-hague-centraal",
-    "josh1-123-north-side-river"
+    "josh1-123-north-side-river",
+    "josh1-122-droppin"
   ],
-  "last_promoted_date": "2026-10-15T18:06:21.706587",
+  "last_promoted_date": "2026-10-16T17:52:02.764142",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -601,6 +602,13 @@
       "title": "JOSH1-123: North Side River",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-123-north-side-river/",
       "image_url": "https://cdn.inprnt.com/thumbs/97/a2/97a28d21a9e2b5060ea2419a24e0cc3e@2x.jpg"
+    },
+    {
+      "date": "2026-10-16 17:52:02",
+      "artwork_id": "josh1-122-droppin",
+      "title": "JOSH1-122: Droppin",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-122-droppin/",
+      "image_url": "https://cdn.inprnt.com/thumbs/fd/14/fd149c473a0fef8acdf9d041d30c5cee@2x.jpg"
     }
   ]
 }
