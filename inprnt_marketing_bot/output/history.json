@@ -74,9 +74,10 @@
     "josh1-125-something-about",
     "josh1-124-the-hague-centraal",
     "josh1-123-north-side-river",
-    "josh1-122-droppin"
+    "josh1-122-droppin",
+    "josh1-121-a-dutch-ferris-wheel"
   ],
-  "last_promoted_date": "2026-10-16T17:52:02.764142",
+  "last_promoted_date": "2026-10-17T16:54:42.427624",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -609,6 +610,13 @@
       "title": "JOSH1-122: Droppin",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-122-droppin/",
       "image_url": "https://cdn.inprnt.com/thumbs/fd/14/fd149c473a0fef8acdf9d041d30c5cee@2x.jpg"
+    },
+    {
+      "date": "2026-10-17 16:54:42",
+      "artwork_id": "josh1-121-a-dutch-ferris-wheel",
+      "title": "JOSH1-121: A Dutch Ferris Wheel",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-121-a-dutch-ferris-wheel/",
+      "image_url": "https://cdn.inprnt.com/thumbs/c8/90/c890978a8a5ee8a39703482f1879eff4@2x.jpg"
     }
   ]
 }
