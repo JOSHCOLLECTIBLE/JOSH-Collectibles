@@ -75,9 +75,10 @@
     "josh1-124-the-hague-centraal",
     "josh1-123-north-side-river",
     "josh1-122-droppin",
-    "josh1-121-a-dutch-ferris-wheel"
+    "josh1-121-a-dutch-ferris-wheel",
+    "josh1-120-the-hague-beach"
   ],
-  "last_promoted_date": "2026-10-17T16:54:42.427624",
+  "last_promoted_date": "2026-10-18T17:09:36.245300",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -617,6 +618,13 @@
       "title": "JOSH1-121: A Dutch Ferris Wheel",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-121-a-dutch-ferris-wheel/",
       "image_url": "https://cdn.inprnt.com/thumbs/c8/90/c890978a8a5ee8a39703482f1879eff4@2x.jpg"
+    },
+    {
+      "date": "2026-10-18 17:09:36",
+      "artwork_id": "josh1-120-the-hague-beach",
+      "title": "JOSH1-120: The Hague Beach",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-120-the-hague-beach/",
+      "image_url": "https://cdn.inprnt.com/thumbs/ad/c0/adc09bfc862f5fd8da40ca0bec07c80b@2x.jpg"
     }
   ]
 }

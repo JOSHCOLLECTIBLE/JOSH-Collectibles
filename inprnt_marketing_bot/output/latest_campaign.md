@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 121 • A Dutch Ferris Wheel
+# 🎨 Marketing Campaign: JOSH1 120 • The Hague Beach
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-121-a-dutch-ferris-wheel/](https://www.inprnt.com/gallery/joshuadenouden/josh1-121-a-dutch-ferris-wheel/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-120-the-hague-beach/](https://www.inprnt.com/gallery/joshuadenouden/josh1-120-the-hague-beach/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 121 • A Dutch Ferris Wheel](https://cdn.inprnt.com/thumbs/c8/90/c890978a8a5ee8a39703482f1879eff4@2x.jpg)
+![JOSH1 120 • The Hague Beach](https://cdn.inprnt.com/thumbs/ad/c0/adc09bfc862f5fd8da40ca0bec07c80b@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 121 • A Dutch Ferris Wheel | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 120 • The Hague Beach | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 121 • A Dutch Ferris Wheel'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-121-a-dutch-ferris-wheel/ • #ArtCollector #WallArtDecor #OnChainArt #ContemporaryCollector
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 120 • The Hague Beach'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-120-the-hague-beach/ • #SolanaArt #Industrial #SolanaNFT #ArtCollector
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 121 • A Dutch Ferris Wheel 」
+「 JOSH1 120 • The Hague Beach 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#Industrial #StreetPhotography #JOSHSHOOTPRINTS #MinimalistPhotography
+#OnChainArt #ContemporaryCollector #PhygitalArt #MinimalistPhotography
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 121 • A Dutch Ferris Wheel')
+• Slide 1: Full high res photograph ('JOSH1 120 • The Hague Beach')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 121 • A Dutch Ferris Wheel
+JOSH1 120 • The Hague Beach
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 54.6 (Grade D • Rotterdam)
+  DRiP Provenance: Score 55.2 (Grade C • Rotterdam)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -57,23 +57,23 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 Collect the archive via link in bio
 📸 Archival Capture / Digital
 📍 Rotterdam (RTM) 🇳🇱
-💎 DRiP Score: 54.6 | Grade: D
+💎 DRiP Score: 55.2 | Grade: C
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#FineArtPrint #SolanaNFT #UrbanGeometry #ContemporaryCollector
+#BrutalistArchitecture #ArchitecturalPhotography #ArtCollector #INPRNT
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 121 • A Dutch Ferris Wheel`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 120 • The Hague Beach`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 121 • A Dutch Ferris Wheel"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 120 • The Hague Beach"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-121-a-dutch-ferris-wheel/"><img src="https://cdn.inprnt.com/thumbs/c8/90/c890978a8a5ee8a39703482f1879eff4@2x.jpg" alt="JOSH1 121 • A Dutch Ferris Wheel" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-120-the-hague-beach/"><img src="https://cdn.inprnt.com/thumbs/ad/c0/adc09bfc862f5fd8da40ca0bec07c80b@2x.jpg" alt="JOSH1 120 • The Hague Beach" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 121 • A Dutch Ferris Wheel` |
+| **Title** | `JOSH1 120 • The Hague Beach` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-121-a-dutch-ferris-wheel/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-120-the-hague-beach/)**
 ```
