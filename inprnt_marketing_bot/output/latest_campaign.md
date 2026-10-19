@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 120 • The Hague Beach
+# 🎨 Marketing Campaign: JOSH1 119 • Cash In Cash Out
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-120-the-hague-beach/](https://www.inprnt.com/gallery/joshuadenouden/josh1-120-the-hague-beach/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-119-cash-in-cash-out/](https://www.inprnt.com/gallery/joshuadenouden/josh1-119-cash-in-cash-out/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 120 • The Hague Beach](https://cdn.inprnt.com/thumbs/ad/c0/adc09bfc862f5fd8da40ca0bec07c80b@2x.jpg)
+![JOSH1 119 • Cash In Cash Out](https://cdn.inprnt.com/thumbs/f8/8a/f88ad6d8fc7367410dfb98e72cb1a769@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 120 • The Hague Beach | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 119 • Cash In Cash Out | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 120 • The Hague Beach'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-120-the-hague-beach/ • #SolanaArt #Industrial #SolanaNFT #ArtCollector
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 119 • Cash In Cash Out'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-119-cash-in-cash-out/ • #BrutalistArchitecture #MinimalistPhotography #WallArtDecor #INPRNT
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 120 • The Hague Beach 」
+「 JOSH1 119 • Cash In Cash Out 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#OnChainArt #ContemporaryCollector #PhygitalArt #MinimalistPhotography
+#UrbanGeometry #SolanaNFT #MinimalistPhotography #INPRNT
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 120 • The Hague Beach')
+• Slide 1: Full high res photograph ('JOSH1 119 • Cash In Cash Out')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 120 • The Hague Beach
+JOSH1 119 • Cash In Cash Out
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 55.2 (Grade C • Rotterdam)
+  DRiP Provenance: Score 54.9 (Grade D • Abu)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -56,24 +56,24 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 
 Collect the archive via link in bio
 📸 Archival Capture / Digital
-📍 Rotterdam (RTM) 🇳🇱
-💎 DRiP Score: 55.2 | Grade: C
+📍 Abu Dhabi (AUH) 🇦🇪
+💎 DRiP Score: 54.9 | Grade: D
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#BrutalistArchitecture #ArchitecturalPhotography #ArtCollector #INPRNT
+#UrbanGeometry #PhygitalArt #MinimalistPhotography #SolanaArt
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 120 • The Hague Beach`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 119 • Cash In Cash Out`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 120 • The Hague Beach"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 119 • Cash In Cash Out"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-120-the-hague-beach/"><img src="https://cdn.inprnt.com/thumbs/ad/c0/adc09bfc862f5fd8da40ca0bec07c80b@2x.jpg" alt="JOSH1 120 • The Hague Beach" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-119-cash-in-cash-out/"><img src="https://cdn.inprnt.com/thumbs/f8/8a/f88ad6d8fc7367410dfb98e72cb1a769@2x.jpg" alt="JOSH1 119 • Cash In Cash Out" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 120 • The Hague Beach` |
+| **Title** | `JOSH1 119 • Cash In Cash Out` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-120-the-hague-beach/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-119-cash-in-cash-out/)**
 ```
