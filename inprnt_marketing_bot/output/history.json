@@ -77,9 +77,10 @@
     "josh1-122-droppin",
     "josh1-121-a-dutch-ferris-wheel",
     "josh1-120-the-hague-beach",
-    "josh1-119-cash-in-cash-out"
+    "josh1-119-cash-in-cash-out",
+    "josh1-118-cee-clinic"
   ],
-  "last_promoted_date": "2026-10-19T19:42:59.119491",
+  "last_promoted_date": "2026-10-20T18:24:07.656072",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -633,6 +634,13 @@
       "title": "JOSH1-119: Cash In Cash Out",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-119-cash-in-cash-out/",
       "image_url": "https://cdn.inprnt.com/thumbs/f8/8a/f88ad6d8fc7367410dfb98e72cb1a769@2x.jpg"
+    },
+    {
+      "date": "2026-10-20 18:24:07",
+      "artwork_id": "josh1-118-cee-clinic",
+      "title": "JOSH1-118: Cee-Clinic",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-118-cee-clinic/",
+      "image_url": "https://cdn.inprnt.com/thumbs/7b/22/7b2287caa5b50e1ebb11593be35254b0@2x.jpg"
     }
   ]
 }
