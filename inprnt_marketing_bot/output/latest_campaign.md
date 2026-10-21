@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 118 • Cee Clinic
+# 🎨 Marketing Campaign: JOSH1 117 • Type of Fishing
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-118-cee-clinic/](https://www.inprnt.com/gallery/joshuadenouden/josh1-118-cee-clinic/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-117-type-of-fishing/](https://www.inprnt.com/gallery/joshuadenouden/josh1-117-type-of-fishing/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 118 • Cee Clinic](https://cdn.inprnt.com/thumbs/7b/22/7b2287caa5b50e1ebb11593be35254b0@2x.jpg)
+![JOSH1 117 • Type of Fishing](https://cdn.inprnt.com/thumbs/15/2d/152d121b726be74bc19774c37bef6c01@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 118 • Cee Clinic | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 117 • Type of Fishing | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 118 • Cee Clinic'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-118-cee-clinic/ • #ArchitecturalPhotography #ArtCollector #BrutalistArchitecture #PhygitalArt
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 117 • Type of Fishing'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-117-type-of-fishing/ • #OnChainArt #UrbanGeometry #ArtCollector #SolanaNFT
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 118 • Cee Clinic 」
+「 JOSH1 117 • Type of Fishing 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#MinimalistPhotography #StreetPhotography #ArchitecturalPhotography #SolanaNFT
+#WallArtDecor #ArchivalPrint #SolanaNFT #FineArtPrint
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 118 • Cee Clinic')
+• Slide 1: Full high res photograph ('JOSH1 117 • Type of Fishing')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 118 • Cee Clinic
+JOSH1 117 • Type of Fishing
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 57.3 (Grade C • Abu)
+  DRiP Provenance: Score 59.2 (Grade C • Abu)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -57,23 +57,23 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 Collect the archive via link in bio
 📸 Archival Capture / Digital
 📍 Abu Dhabi (AUH) 🇦🇪
-💎 DRiP Score: 57.3 | Grade: C
+💎 DRiP Score: 59.2 | Grade: C
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#OnChainArt #ArchitecturalPhotography #ArchivalPrint #PhygitalArt
+#JOSHSHOOTPRINTS #StreetPhotography #FineArtPrint #ArtCollector
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 118 • Cee Clinic`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 117 • Type of Fishing`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 118 • Cee Clinic"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 117 • Type of Fishing"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-118-cee-clinic/"><img src="https://cdn.inprnt.com/thumbs/7b/22/7b2287caa5b50e1ebb11593be35254b0@2x.jpg" alt="JOSH1 118 • Cee Clinic" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-117-type-of-fishing/"><img src="https://cdn.inprnt.com/thumbs/15/2d/152d121b726be74bc19774c37bef6c01@2x.jpg" alt="JOSH1 117 • Type of Fishing" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 118 • Cee Clinic` |
+| **Title** | `JOSH1 117 • Type of Fishing` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-118-cee-clinic/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-117-type-of-fishing/)**
 ```

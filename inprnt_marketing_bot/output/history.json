@@ -78,9 +78,10 @@
     "josh1-121-a-dutch-ferris-wheel",
     "josh1-120-the-hague-beach",
     "josh1-119-cash-in-cash-out",
-    "josh1-118-cee-clinic"
+    "josh1-118-cee-clinic",
+    "josh1-117-type-of-fishing"
   ],
-  "last_promoted_date": "2026-10-20T18:24:07.656072",
+  "last_promoted_date": "2026-10-21T18:29:29.715823",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -641,6 +642,13 @@
       "title": "JOSH1-118: Cee-Clinic",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-118-cee-clinic/",
       "image_url": "https://cdn.inprnt.com/thumbs/7b/22/7b2287caa5b50e1ebb11593be35254b0@2x.jpg"
+    },
+    {
+      "date": "2026-10-21 18:29:29",
+      "artwork_id": "josh1-117-type-of-fishing",
+      "title": "JOSH1-117: Type of Fishing",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-117-type-of-fishing/",
+      "image_url": "https://cdn.inprnt.com/thumbs/15/2d/152d121b726be74bc19774c37bef6c01@2x.jpg"
     }
   ]
 }
