@@ -79,9 +79,10 @@
     "josh1-120-the-hague-beach",
     "josh1-119-cash-in-cash-out",
     "josh1-118-cee-clinic",
-    "josh1-117-type-of-fishing"
+    "josh1-117-type-of-fishing",
+    "josh1-116-somewhere-in-arlon"
   ],
-  "last_promoted_date": "2026-10-21T18:29:29.715823",
+  "last_promoted_date": "2026-10-22T18:24:40.991033",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -649,6 +650,13 @@
       "title": "JOSH1-117: Type of Fishing",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-117-type-of-fishing/",
       "image_url": "https://cdn.inprnt.com/thumbs/15/2d/152d121b726be74bc19774c37bef6c01@2x.jpg"
+    },
+    {
+      "date": "2026-10-22 18:24:40",
+      "artwork_id": "josh1-116-somewhere-in-arlon",
+      "title": "JOSH1-116: Somewhere in Arlon",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-116-somewhere-in-arlon/",
+      "image_url": "https://cdn.inprnt.com/thumbs/f4/1b/f41b9cb14adbfbe6d89d3f520f9c2ef2@2x.jpg"
     }
   ]
 }
