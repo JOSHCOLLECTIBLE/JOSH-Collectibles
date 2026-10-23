@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 116 • Somewhere in Arlon
+# 🎨 Marketing Campaign: JOSH1 115 • Al Wahda Stadium
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-116-somewhere-in-arlon/](https://www.inprnt.com/gallery/joshuadenouden/josh1-116-somewhere-in-arlon/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-115-al-wahda-stadium/](https://www.inprnt.com/gallery/joshuadenouden/josh1-115-al-wahda-stadium/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 116 • Somewhere in Arlon](https://cdn.inprnt.com/thumbs/f4/1b/f41b9cb14adbfbe6d89d3f520f9c2ef2@2x.jpg)
+![JOSH1 115 • Al Wahda Stadium](https://cdn.inprnt.com/thumbs/fa/a1/faa1fc770b62a4a932eda691094d1f4b@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 116 • Somewhere in Arlon | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 115 • Al Wahda Stadium | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 116 • Somewhere in Arlon'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-116-somewhere-in-arlon/ • #OnChainArt #JOSHSHOOTPRINTS #ContemporaryCollector #SolanaNFT
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 115 • Al Wahda Stadium'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-115-al-wahda-stadium/ • #ContemporaryCollector #ArtCollector #SolanaArt #JOSHSHOOTPRINTS
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 116 • Somewhere in Arlon 」
+「 JOSH1 115 • Al Wahda Stadium 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#UrbanGeometry #Industrial #SolanaNFT #ArchitecturalPhotography
+#SolanaArt #SolanaNFT #UrbanGeometry #FineArtPrint
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 116 • Somewhere in Arlon')
+• Slide 1: Full high res photograph ('JOSH1 115 • Al Wahda Stadium')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 116 • Somewhere in Arlon
+JOSH1 115 • Al Wahda Stadium
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 55.6 (Grade C • Rotterdam)
+  DRiP Provenance: Score 58 (Grade C • Abu)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -56,24 +56,24 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 
 Collect the archive via link in bio
 📸 Archival Capture / Digital
-📍 Rotterdam (RTM) 🇳🇱
-💎 DRiP Score: 55.6 | Grade: C
+📍 Abu Dhabi (AUH) 🇦🇪
+💎 DRiP Score: 58 | Grade: C
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#ArtCollector #PhygitalArt #ArchivalPrint #WallArtDecor
+#SolanaNFT #JOSHSHOOTPRINTS #FineArtPrint #INPRNT
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 116 • Somewhere in Arlon`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 115 • Al Wahda Stadium`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 116 • Somewhere in Arlon"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 115 • Al Wahda Stadium"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-116-somewhere-in-arlon/"><img src="https://cdn.inprnt.com/thumbs/f4/1b/f41b9cb14adbfbe6d89d3f520f9c2ef2@2x.jpg" alt="JOSH1 116 • Somewhere in Arlon" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-115-al-wahda-stadium/"><img src="https://cdn.inprnt.com/thumbs/fa/a1/faa1fc770b62a4a932eda691094d1f4b@2x.jpg" alt="JOSH1 115 • Al Wahda Stadium" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 116 • Somewhere in Arlon` |
+| **Title** | `JOSH1 115 • Al Wahda Stadium` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-116-somewhere-in-arlon/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-115-al-wahda-stadium/)**
 ```
