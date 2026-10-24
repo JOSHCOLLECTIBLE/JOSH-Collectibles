@@ -81,9 +81,10 @@
     "josh1-118-cee-clinic",
     "josh1-117-type-of-fishing",
     "josh1-116-somewhere-in-arlon",
-    "josh1-115-al-wahda-stadium"
+    "josh1-115-al-wahda-stadium",
+    "josh1-114-random-building-ad-1"
   ],
-  "last_promoted_date": "2026-10-23T18:11:10.363536",
+  "last_promoted_date": "2026-10-24T17:15:52.209318",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -665,6 +666,13 @@
       "title": "JOSH1-115: Al Wahda Stadium",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-115-al-wahda-stadium/",
       "image_url": "https://cdn.inprnt.com/thumbs/fa/a1/faa1fc770b62a4a932eda691094d1f4b@2x.jpg"
+    },
+    {
+      "date": "2026-10-24 17:15:52",
+      "artwork_id": "josh1-114-random-building-ad-1",
+      "title": "JOSH1-114: Random Building AD 1",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-114-random-building-ad-1/",
+      "image_url": "https://cdn.inprnt.com/thumbs/4c/7f/4c7f020f83e9c83d08137091bb510d3c@2x.jpg"
     }
   ]
 }
