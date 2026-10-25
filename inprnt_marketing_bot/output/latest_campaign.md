@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 114 • Random Building AD 1
+# 🎨 Marketing Campaign: JOSH1 113 • As All
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-114-random-building-ad-1/](https://www.inprnt.com/gallery/joshuadenouden/josh1-114-random-building-ad-1/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-113-as-all/](https://www.inprnt.com/gallery/joshuadenouden/josh1-113-as-all/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 114 • Random Building AD 1](https://cdn.inprnt.com/thumbs/4c/7f/4c7f020f83e9c83d08137091bb510d3c@2x.jpg)
+![JOSH1 113 • As All](https://cdn.inprnt.com/thumbs/ed/c2/edc232712b6d8951623a6e218185a2ab@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 114 • Random Building AD 1 | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 113 • As All | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 114 • Random Building AD 1'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-114-random-building-ad-1/ • #FineArtPrint #WallArtDecor #Industrial #ArtCollector
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 113 • As All'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-113-as-all/ • #UrbanGeometry #Industrial #PhygitalArt #INPRNT
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 114 • Random Building AD 1 」
+「 JOSH1 113 • As All 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#FineArtPrint #ArchitecturalPhotography #SolanaArt #UrbanGeometry
+#JOSHSHOOTPRINTS #INPRNT #ContemporaryCollector #StreetPhotography
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 114 • Random Building AD 1')
+• Slide 1: Full high res photograph ('JOSH1 113 • As All')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 114 • Random Building AD 1
+JOSH1 113 • As All
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 58.8 (Grade C • Abu)
+  DRiP Provenance: Score 57.9 (Grade C • Abu)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -57,23 +57,23 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 Collect the archive via link in bio
 📸 Archival Capture / Digital
 📍 Abu Dhabi (AUH) 🇦🇪
-💎 DRiP Score: 58.8 | Grade: C
+💎 DRiP Score: 57.9 | Grade: C
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#UrbanGeometry #SolanaNFT #PhygitalArt #SolanaArt
+#SolanaArt #StreetPhotography #ContemporaryCollector #MinimalistPhotography
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 114 • Random Building AD 1`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 113 • As All`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 114 • Random Building AD 1"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 113 • As All"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-114-random-building-ad-1/"><img src="https://cdn.inprnt.com/thumbs/4c/7f/4c7f020f83e9c83d08137091bb510d3c@2x.jpg" alt="JOSH1 114 • Random Building AD 1" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-113-as-all/"><img src="https://cdn.inprnt.com/thumbs/ed/c2/edc232712b6d8951623a6e218185a2ab@2x.jpg" alt="JOSH1 113 • As All" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 114 • Random Building AD 1` |
+| **Title** | `JOSH1 113 • As All` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-114-random-building-ad-1/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-113-as-all/)**
 ```

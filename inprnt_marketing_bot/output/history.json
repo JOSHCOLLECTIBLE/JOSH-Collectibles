@@ -82,9 +82,10 @@
     "josh1-117-type-of-fishing",
     "josh1-116-somewhere-in-arlon",
     "josh1-115-al-wahda-stadium",
-    "josh1-114-random-building-ad-1"
+    "josh1-114-random-building-ad-1",
+    "josh1-113-as-all"
   ],
-  "last_promoted_date": "2026-10-24T17:15:52.209318",
+  "last_promoted_date": "2026-10-25T17:29:32.707519",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -673,6 +674,13 @@
       "title": "JOSH1-114: Random Building AD 1",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-114-random-building-ad-1/",
       "image_url": "https://cdn.inprnt.com/thumbs/4c/7f/4c7f020f83e9c83d08137091bb510d3c@2x.jpg"
+    },
+    {
+      "date": "2026-10-25 17:29:32",
+      "artwork_id": "josh1-113-as-all",
+      "title": "JOSH1-113: As All",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-113-as-all/",
+      "image_url": "https://cdn.inprnt.com/thumbs/ed/c2/edc232712b6d8951623a6e218185a2ab@2x.jpg"
     }
   ]
 }
