@@ -85,9 +85,10 @@
     "josh1-114-random-building-ad-1",
     "josh1-113-as-all",
     "josh1-112-people-and-place",
-    "josh1-111-the-baqala"
+    "josh1-111-the-baqala",
+    "josh1-110-brutalism-in-the-philippines"
   ],
-  "last_promoted_date": "2026-10-27T19:17:33.273631",
+  "last_promoted_date": "2026-10-28T19:24:23.969105",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -697,6 +698,13 @@
       "title": "JOSH1-111: The Baqala",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-111-the-baqala/",
       "image_url": "https://cdn.inprnt.com/thumbs/d6/37/d637b3bbd28f130322b4e616933d97ce@2x.jpg"
+    },
+    {
+      "date": "2026-10-28 19:24:23",
+      "artwork_id": "josh1-110-brutalism-in-the-philippines",
+      "title": "JOSH1-110: Brutalism in The Philippines",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-110-brutalism-in-the-philippines/",
+      "image_url": "https://cdn.inprnt.com/thumbs/7a/eb/7aeb387dda201f07f80a5943e6bff3e8@2x.jpg"
     }
   ]
 }
