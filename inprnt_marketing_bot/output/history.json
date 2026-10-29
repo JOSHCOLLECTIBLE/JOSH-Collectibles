@@ -86,9 +86,10 @@
     "josh1-113-as-all",
     "josh1-112-people-and-place",
     "josh1-111-the-baqala",
-    "josh1-110-brutalism-in-the-philippines"
+    "josh1-110-brutalism-in-the-philippines",
+    "josh1-109-the-abandoned-buildings"
   ],
-  "last_promoted_date": "2026-10-28T19:24:23.969105",
+  "last_promoted_date": "2026-10-29T19:27:29.152578",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -705,6 +706,13 @@
       "title": "JOSH1-110: Brutalism in The Philippines",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-110-brutalism-in-the-philippines/",
       "image_url": "https://cdn.inprnt.com/thumbs/7a/eb/7aeb387dda201f07f80a5943e6bff3e8@2x.jpg"
+    },
+    {
+      "date": "2026-10-29 19:27:29",
+      "artwork_id": "josh1-109-the-abandoned-buildings",
+      "title": "JOSH1-109: The Abandoned Buildings",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-109-the-abandoned-buildings/",
+      "image_url": "https://cdn.inprnt.com/thumbs/41/f2/41f2d0bc178b1c9a762fbabee1391390@2x.jpg"
     }
   ]
 }
