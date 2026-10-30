@@ -87,9 +87,10 @@
     "josh1-112-people-and-place",
     "josh1-111-the-baqala",
     "josh1-110-brutalism-in-the-philippines",
-    "josh1-109-the-abandoned-buildings"
+    "josh1-109-the-abandoned-buildings",
+    "josh1-108-drill-baby"
   ],
-  "last_promoted_date": "2026-10-29T19:27:29.152578",
+  "last_promoted_date": "2026-10-30T19:02:28.767476",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -713,6 +714,13 @@
       "title": "JOSH1-109: The Abandoned Buildings",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-109-the-abandoned-buildings/",
       "image_url": "https://cdn.inprnt.com/thumbs/41/f2/41f2d0bc178b1c9a762fbabee1391390@2x.jpg"
+    },
+    {
+      "date": "2026-10-30 19:02:28",
+      "artwork_id": "josh1-108-drill-baby",
+      "title": "JOSH1-108: Drill Baby",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-108-drill-baby/",
+      "image_url": "https://cdn.inprnt.com/thumbs/df/d5/dfd59fe46f57a93b8f59b8f4eacbc7ff@2x.jpg"
     }
   ]
 }

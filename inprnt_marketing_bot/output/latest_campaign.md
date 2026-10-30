@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 109 • The Abandoned Buildings
+# 🎨 Marketing Campaign: JOSH1 108 • Drill Baby
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-109-the-abandoned-buildings/](https://www.inprnt.com/gallery/joshuadenouden/josh1-109-the-abandoned-buildings/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-108-drill-baby/](https://www.inprnt.com/gallery/joshuadenouden/josh1-108-drill-baby/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 109 • The Abandoned Buildings](https://cdn.inprnt.com/thumbs/41/f2/41f2d0bc178b1c9a762fbabee1391390@2x.jpg)
+![JOSH1 108 • Drill Baby](https://cdn.inprnt.com/thumbs/df/d5/dfd59fe46f57a93b8f59b8f4eacbc7ff@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 109 • The Abandoned Buildings | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 108 • Drill Baby | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 109 • The Abandoned Buildings'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-109-the-abandoned-buildings/ • #UrbanGeometry #ArtCollector #MinimalistPhotography #ArchivalPrint
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 108 • Drill Baby'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-108-drill-baby/ • #INPRNT #OnChainArt #PhygitalArt #ArchitecturalPhotography
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 109 • The Abandoned Buildings 」
+「 JOSH1 108 • Drill Baby 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#UrbanGeometry #JOSHSHOOTPRINTS #Industrial #BrutalistArchitecture
+#SolanaArt #INPRNT #BrutalistArchitecture #MinimalistPhotography
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 109 • The Abandoned Buildings')
+• Slide 1: Full high res photograph ('JOSH1 108 • Drill Baby')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 109 • The Abandoned Buildings
+JOSH1 108 • Drill Baby
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 58.9 (Grade C • Abu)
+  DRiP Provenance: Score 60.5 (Grade C • Abu)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -57,23 +57,23 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 Collect the archive via link in bio
 📸 Archival Capture / Digital
 📍 Abu Dhabi (AUH) 🇦🇪
-💎 DRiP Score: 58.9 | Grade: C
+💎 DRiP Score: 60.5 | Grade: C
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#WallArtDecor #MinimalistPhotography #ArtCollector #PhygitalArt
+#StreetPhotography #JOSHSHOOTPRINTS #SolanaNFT #INPRNT
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 109 • The Abandoned Buildings`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 108 • Drill Baby`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 109 • The Abandoned Buildings"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 108 • Drill Baby"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-109-the-abandoned-buildings/"><img src="https://cdn.inprnt.com/thumbs/41/f2/41f2d0bc178b1c9a762fbabee1391390@2x.jpg" alt="JOSH1 109 • The Abandoned Buildings" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-108-drill-baby/"><img src="https://cdn.inprnt.com/thumbs/df/d5/dfd59fe46f57a93b8f59b8f4eacbc7ff@2x.jpg" alt="JOSH1 108 • Drill Baby" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 109 • The Abandoned Buildings` |
+| **Title** | `JOSH1 108 • Drill Baby` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-109-the-abandoned-buildings/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-108-drill-baby/)**
 ```
