@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 108 • Drill Baby
+# 🎨 Marketing Campaign: JOSH1 107 • Wahda Bus
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-108-drill-baby/](https://www.inprnt.com/gallery/joshuadenouden/josh1-108-drill-baby/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-107-wahda-bus/](https://www.inprnt.com/gallery/joshuadenouden/josh1-107-wahda-bus/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 108 • Drill Baby](https://cdn.inprnt.com/thumbs/df/d5/dfd59fe46f57a93b8f59b8f4eacbc7ff@2x.jpg)
+![JOSH1 107 • Wahda Bus](https://cdn.inprnt.com/thumbs/2e/d3/2ed32d462e2e21eaeccd76f683fa47fa@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 108 • Drill Baby | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 107 • Wahda Bus | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 108 • Drill Baby'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-108-drill-baby/ • #INPRNT #OnChainArt #PhygitalArt #ArchitecturalPhotography
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 107 • Wahda Bus'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-107-wahda-bus/ • #FineArtPrint #UrbanGeometry #SolanaArt #ArtCollector
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 108 • Drill Baby 」
+「 JOSH1 107 • Wahda Bus 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#SolanaArt #INPRNT #BrutalistArchitecture #MinimalistPhotography
+#JOSHSHOOTPRINTS #ContemporaryCollector #StreetPhotography #OnChainArt
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 108 • Drill Baby')
+• Slide 1: Full high res photograph ('JOSH1 107 • Wahda Bus')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 108 • Drill Baby
+JOSH1 107 • Wahda Bus
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 60.5 (Grade C • Abu)
+  DRiP Provenance: Score 59.2 (Grade C • Abu)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -57,23 +57,23 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 Collect the archive via link in bio
 📸 Archival Capture / Digital
 📍 Abu Dhabi (AUH) 🇦🇪
-💎 DRiP Score: 60.5 | Grade: C
+💎 DRiP Score: 59.2 | Grade: C
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#StreetPhotography #JOSHSHOOTPRINTS #SolanaNFT #INPRNT
+#ContemporaryCollector #ArchitecturalPhotography #UrbanGeometry #PhygitalArt
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 108 • Drill Baby`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 107 • Wahda Bus`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 108 • Drill Baby"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 107 • Wahda Bus"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-108-drill-baby/"><img src="https://cdn.inprnt.com/thumbs/df/d5/dfd59fe46f57a93b8f59b8f4eacbc7ff@2x.jpg" alt="JOSH1 108 • Drill Baby" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-107-wahda-bus/"><img src="https://cdn.inprnt.com/thumbs/2e/d3/2ed32d462e2e21eaeccd76f683fa47fa@2x.jpg" alt="JOSH1 107 • Wahda Bus" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 108 • Drill Baby` |
+| **Title** | `JOSH1 107 • Wahda Bus` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-108-drill-baby/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-107-wahda-bus/)**
 ```
