@@ -89,9 +89,10 @@
     "josh1-110-brutalism-in-the-philippines",
     "josh1-109-the-abandoned-buildings",
     "josh1-108-drill-baby",
-    "josh1-107-wahda-bus"
+    "josh1-107-wahda-bus",
+    "josh1-106-w-pe-ns"
   ],
-  "last_promoted_date": "2026-10-31T18:21:17.477122",
+  "last_promoted_date": "2026-11-01T18:47:11.237970",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -729,6 +730,13 @@
       "title": "JOSH1-107: Wahda Bus",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-107-wahda-bus/",
       "image_url": "https://cdn.inprnt.com/thumbs/2e/d3/2ed32d462e2e21eaeccd76f683fa47fa@2x.jpg"
+    },
+    {
+      "date": "2026-11-01 18:47:11",
+      "artwork_id": "josh1-106-w-pe-ns",
+      "title": "JOSH1-106: W P.E N*S",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-106-w-pe-ns/",
+      "image_url": "https://cdn.inprnt.com/thumbs/39/ac/39acd366b98b5592eee081e7354d3c24@2x.jpg"
     }
   ]
 }
