@@ -90,9 +90,10 @@
     "josh1-109-the-abandoned-buildings",
     "josh1-108-drill-baby",
     "josh1-107-wahda-bus",
-    "josh1-106-w-pe-ns"
+    "josh1-106-w-pe-ns",
+    "josh1-105-the-tourist-club"
   ],
-  "last_promoted_date": "2026-11-01T18:47:11.237970",
+  "last_promoted_date": "2026-11-02T22:38:20.348763",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -737,6 +738,13 @@
       "title": "JOSH1-106: W P.E N*S",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-106-w-pe-ns/",
       "image_url": "https://cdn.inprnt.com/thumbs/39/ac/39acd366b98b5592eee081e7354d3c24@2x.jpg"
+    },
+    {
+      "date": "2026-11-02 22:38:20",
+      "artwork_id": "josh1-105-the-tourist-club",
+      "title": "JOSH1-105: The Tourist Club",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-105-the-tourist-club/",
+      "image_url": "https://cdn.inprnt.com/thumbs/ed/e9/ede953db6a15a69faa1afd10f2cab038@2x.jpg"
     }
   ]
 }

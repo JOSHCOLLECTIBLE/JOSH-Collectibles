@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 106 • W P.E N*S
+# 🎨 Marketing Campaign: JOSH1 105 • The Tourist Club
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-106-w-pe-ns/](https://www.inprnt.com/gallery/joshuadenouden/josh1-106-w-pe-ns/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-105-the-tourist-club/](https://www.inprnt.com/gallery/joshuadenouden/josh1-105-the-tourist-club/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 106 • W P.E N*S](https://cdn.inprnt.com/thumbs/39/ac/39acd366b98b5592eee081e7354d3c24@2x.jpg)
+![JOSH1 105 • The Tourist Club](https://cdn.inprnt.com/thumbs/ed/e9/ede953db6a15a69faa1afd10f2cab038@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 106 • W P.E N*S | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 105 • The Tourist Club | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 106 • W P.E N*S'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-106-w-pe-ns/ • #FineArtPrint #Industrial #StreetPhotography #MinimalistPhotography
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 105 • The Tourist Club'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-105-the-tourist-club/ • #SolanaNFT #WallArtDecor #ArchitecturalPhotography #FineArtPrint
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 106 • W P.E N*S 」
+「 JOSH1 105 • The Tourist Club 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#StreetPhotography #SolanaNFT #SolanaArt #JOSHSHOOTPRINTS
+#SolanaArt #StreetPhotography #ArchitecturalPhotography #FineArtPrint
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 106 • W P.E N*S')
+• Slide 1: Full high res photograph ('JOSH1 105 • The Tourist Club')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 106 • W P.E N*S
+JOSH1 105 • The Tourist Club
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 58 (Grade C • Abu)
+  DRiP Provenance: Score 59.2 (Grade C • Abu)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -57,23 +57,23 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 Collect the archive via link in bio
 📸 Archival Capture / Digital
 📍 Abu Dhabi (AUH) 🇦🇪
-💎 DRiP Score: 58 | Grade: C
+💎 DRiP Score: 59.2 | Grade: C
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#INPRNT #Industrial #ArchitecturalPhotography #BrutalistArchitecture
+#UrbanGeometry #FineArtPrint #WallArtDecor #ContemporaryCollector
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 106 • W P.E N*S`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 105 • The Tourist Club`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 106 • W P.E N*S"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 105 • The Tourist Club"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-106-w-pe-ns/"><img src="https://cdn.inprnt.com/thumbs/39/ac/39acd366b98b5592eee081e7354d3c24@2x.jpg" alt="JOSH1 106 • W P.E N*S" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-105-the-tourist-club/"><img src="https://cdn.inprnt.com/thumbs/ed/e9/ede953db6a15a69faa1afd10f2cab038@2x.jpg" alt="JOSH1 105 • The Tourist Club" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 106 • W P.E N*S` |
+| **Title** | `JOSH1 105 • The Tourist Club` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-106-w-pe-ns/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-105-the-tourist-club/)**
 ```
