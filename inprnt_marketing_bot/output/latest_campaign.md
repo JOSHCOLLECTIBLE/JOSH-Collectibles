@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 105 • The Tourist Club
+# 🎨 Marketing Campaign: JOSH1 104 • Claim your Build
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-105-the-tourist-club/](https://www.inprnt.com/gallery/joshuadenouden/josh1-105-the-tourist-club/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-104-claim-your-build/](https://www.inprnt.com/gallery/joshuadenouden/josh1-104-claim-your-build/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 105 • The Tourist Club](https://cdn.inprnt.com/thumbs/ed/e9/ede953db6a15a69faa1afd10f2cab038@2x.jpg)
+![JOSH1 104 • Claim your Build](https://cdn.inprnt.com/thumbs/5b/38/5b384691b1464f3858471d6cde04896c@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 105 • The Tourist Club | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 104 • Claim your Build | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 105 • The Tourist Club'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-105-the-tourist-club/ • #SolanaNFT #WallArtDecor #ArchitecturalPhotography #FineArtPrint
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 104 • Claim your Build'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-104-claim-your-build/ • #ArchitecturalPhotography #OnChainArt #UrbanGeometry #ContemporaryCollector
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 105 • The Tourist Club 」
+「 JOSH1 104 • Claim your Build 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,17 +33,17 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#SolanaArt #StreetPhotography #ArchitecturalPhotography #FineArtPrint
+#ContemporaryCollector #StreetPhotography #UrbanGeometry #BrutalistArchitecture
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 105 • The Tourist Club')
+• Slide 1: Full high res photograph ('JOSH1 104 • Claim your Build')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 105 • The Tourist Club
+JOSH1 104 • Claim your Build
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -63,17 +63,17 @@ Collect the archive via link in bio
 .
 .
 .
-#UrbanGeometry #FineArtPrint #WallArtDecor #ContemporaryCollector
+#OnChainArt #JOSHSHOOTPRINTS #INPRNT #ArchitecturalPhotography
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 105 • The Tourist Club`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 104 • Claim your Build`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 105 • The Tourist Club"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 104 • Claim your Build"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-105-the-tourist-club/"><img src="https://cdn.inprnt.com/thumbs/ed/e9/ede953db6a15a69faa1afd10f2cab038@2x.jpg" alt="JOSH1 105 • The Tourist Club" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-104-claim-your-build/"><img src="https://cdn.inprnt.com/thumbs/5b/38/5b384691b1464f3858471d6cde04896c@2x.jpg" alt="JOSH1 104 • Claim your Build" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 105 • The Tourist Club` |
+| **Title** | `JOSH1 104 • Claim your Build` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-105-the-tourist-club/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-104-claim-your-build/)**
 ```

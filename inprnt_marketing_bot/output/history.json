@@ -91,9 +91,10 @@
     "josh1-108-drill-baby",
     "josh1-107-wahda-bus",
     "josh1-106-w-pe-ns",
-    "josh1-105-the-tourist-club"
+    "josh1-105-the-tourist-club",
+    "josh1-104-claim-your-build"
   ],
-  "last_promoted_date": "2026-11-02T22:38:20.348763",
+  "last_promoted_date": "2026-11-03T20:29:23.296598",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -745,6 +746,13 @@
       "title": "JOSH1-105: The Tourist Club",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-105-the-tourist-club/",
       "image_url": "https://cdn.inprnt.com/thumbs/ed/e9/ede953db6a15a69faa1afd10f2cab038@2x.jpg"
+    },
+    {
+      "date": "2026-11-03 20:29:23",
+      "artwork_id": "josh1-104-claim-your-build",
+      "title": "JOSH1-104: Claim your Build",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-104-claim-your-build/",
+      "image_url": "https://cdn.inprnt.com/thumbs/5b/38/5b384691b1464f3858471d6cde04896c@2x.jpg"
     }
   ]
 }
