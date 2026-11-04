@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 104 • Claim your Build
+# 🎨 Marketing Campaign: JOSH1 103 • In my Room
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-104-claim-your-build/](https://www.inprnt.com/gallery/joshuadenouden/josh1-104-claim-your-build/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-103-in-my-room/](https://www.inprnt.com/gallery/joshuadenouden/josh1-103-in-my-room/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 104 • Claim your Build](https://cdn.inprnt.com/thumbs/5b/38/5b384691b1464f3858471d6cde04896c@2x.jpg)
+![JOSH1 103 • In my Room](https://cdn.inprnt.com/thumbs/fb/b3/fbb38e811bdd5f5f1c65404f4865cddf@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 104 • Claim your Build | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 103 • In my Room | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 104 • Claim your Build'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-104-claim-your-build/ • #ArchitecturalPhotography #OnChainArt #UrbanGeometry #ContemporaryCollector
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 103 • In my Room'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-103-in-my-room/ • #ArtCollector #Industrial #WallArtDecor #UrbanGeometry
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 104 • Claim your Build 」
+「 JOSH1 103 • In my Room 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#ContemporaryCollector #StreetPhotography #UrbanGeometry #BrutalistArchitecture
+#ArchivalPrint #ArtCollector #SolanaArt #INPRNT
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 104 • Claim your Build')
+• Slide 1: Full high res photograph ('JOSH1 103 • In my Room')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 104 • Claim your Build
+JOSH1 103 • In my Room
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 59.2 (Grade C • Abu)
+  DRiP Provenance: Score 59.5 (Grade C • Abu)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -57,23 +57,23 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 Collect the archive via link in bio
 📸 Archival Capture / Digital
 📍 Abu Dhabi (AUH) 🇦🇪
-💎 DRiP Score: 59.2 | Grade: C
+💎 DRiP Score: 59.5 | Grade: C
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#OnChainArt #JOSHSHOOTPRINTS #INPRNT #ArchitecturalPhotography
+#SolanaNFT #JOSHSHOOTPRINTS #ArchitecturalPhotography #ArtCollector
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 104 • Claim your Build`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 103 • In my Room`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 104 • Claim your Build"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 103 • In my Room"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-104-claim-your-build/"><img src="https://cdn.inprnt.com/thumbs/5b/38/5b384691b1464f3858471d6cde04896c@2x.jpg" alt="JOSH1 104 • Claim your Build" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-103-in-my-room/"><img src="https://cdn.inprnt.com/thumbs/fb/b3/fbb38e811bdd5f5f1c65404f4865cddf@2x.jpg" alt="JOSH1 103 • In my Room" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 104 • Claim your Build` |
+| **Title** | `JOSH1 103 • In my Room` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-104-claim-your-build/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-103-in-my-room/)**
 ```

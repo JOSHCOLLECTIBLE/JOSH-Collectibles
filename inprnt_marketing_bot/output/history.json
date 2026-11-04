@@ -92,9 +92,10 @@
     "josh1-107-wahda-bus",
     "josh1-106-w-pe-ns",
     "josh1-105-the-tourist-club",
-    "josh1-104-claim-your-build"
+    "josh1-104-claim-your-build",
+    "josh1-103-in-my-room"
   ],
-  "last_promoted_date": "2026-11-03T20:29:23.296598",
+  "last_promoted_date": "2026-11-04T20:41:50.493672",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -753,6 +754,13 @@
       "title": "JOSH1-104: Claim your Build",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-104-claim-your-build/",
       "image_url": "https://cdn.inprnt.com/thumbs/5b/38/5b384691b1464f3858471d6cde04896c@2x.jpg"
+    },
+    {
+      "date": "2026-11-04 20:41:50",
+      "artwork_id": "josh1-103-in-my-room",
+      "title": "JOSH1-103: In my Room",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-103-in-my-room/",
+      "image_url": "https://cdn.inprnt.com/thumbs/fb/b3/fbb38e811bdd5f5f1c65404f4865cddf@2x.jpg"
     }
   ]
 }
