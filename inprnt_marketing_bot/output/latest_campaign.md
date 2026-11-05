@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 103 • In my Room
+# 🎨 Marketing Campaign: JOSH1 102 • The Butterfly
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-103-in-my-room/](https://www.inprnt.com/gallery/joshuadenouden/josh1-103-in-my-room/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-102-the-butterfly/](https://www.inprnt.com/gallery/joshuadenouden/josh1-102-the-butterfly/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 103 • In my Room](https://cdn.inprnt.com/thumbs/fb/b3/fbb38e811bdd5f5f1c65404f4865cddf@2x.jpg)
+![JOSH1 102 • The Butterfly](https://cdn.inprnt.com/thumbs/87/7d/877df991fbe552af8f76054d18c02781@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 103 • In my Room | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 102 • The Butterfly | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 103 • In my Room'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-103-in-my-room/ • #ArtCollector #Industrial #WallArtDecor #UrbanGeometry
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 102 • The Butterfly'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-102-the-butterfly/ • #PhygitalArt #ArtCollector #WallArtDecor #ArchivalPrint
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 103 • In my Room 」
+「 JOSH1 102 • The Butterfly 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#ArchivalPrint #ArtCollector #SolanaArt #INPRNT
+#ContemporaryCollector #MinimalistPhotography #SolanaArt #ArtCollector
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 103 • In my Room')
+• Slide 1: Full high res photograph ('JOSH1 102 • The Butterfly')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 103 • In my Room
+JOSH1 102 • The Butterfly
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 59.5 (Grade C • Abu)
+  DRiP Provenance: Score 56.4 (Grade C • Rotterdam)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -56,24 +56,24 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 
 Collect the archive via link in bio
 📸 Archival Capture / Digital
-📍 Abu Dhabi (AUH) 🇦🇪
-💎 DRiP Score: 59.5 | Grade: C
+📍 Rotterdam (RTM) 🇳🇱
+💎 DRiP Score: 56.4 | Grade: C
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#SolanaNFT #JOSHSHOOTPRINTS #ArchitecturalPhotography #ArtCollector
+#PhygitalArt #ArchivalPrint #JOSHSHOOTPRINTS #FineArtPrint
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 103 • In my Room`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 102 • The Butterfly`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 103 • In my Room"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 102 • The Butterfly"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-103-in-my-room/"><img src="https://cdn.inprnt.com/thumbs/fb/b3/fbb38e811bdd5f5f1c65404f4865cddf@2x.jpg" alt="JOSH1 103 • In my Room" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-102-the-butterfly/"><img src="https://cdn.inprnt.com/thumbs/87/7d/877df991fbe552af8f76054d18c02781@2x.jpg" alt="JOSH1 102 • The Butterfly" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 103 • In my Room` |
+| **Title** | `JOSH1 102 • The Butterfly` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-103-in-my-room/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-102-the-butterfly/)**
 ```
