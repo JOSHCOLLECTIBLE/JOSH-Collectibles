@@ -94,9 +94,10 @@
     "josh1-105-the-tourist-club",
     "josh1-104-claim-your-build",
     "josh1-103-in-my-room",
-    "josh1-102-the-butterfly"
+    "josh1-102-the-butterfly",
+    "josh1-101-blues-hay"
   ],
-  "last_promoted_date": "2026-11-05T20:57:47.567080",
+  "last_promoted_date": "2026-11-06T20:17:47.122491",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -769,6 +770,13 @@
       "title": "JOSH1-102: The Butterfly",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-102-the-butterfly/",
       "image_url": "https://cdn.inprnt.com/thumbs/87/7d/877df991fbe552af8f76054d18c02781@2x.jpg"
+    },
+    {
+      "date": "2026-11-06 20:17:47",
+      "artwork_id": "josh1-101-blues-hay",
+      "title": "JOSH1-101: Blues Hay",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-101-blues-hay/",
+      "image_url": "https://cdn.inprnt.com/thumbs/1d/52/1d5217dc39f0267eff77f528d43ab924@2x.jpg"
     }
   ]
 }

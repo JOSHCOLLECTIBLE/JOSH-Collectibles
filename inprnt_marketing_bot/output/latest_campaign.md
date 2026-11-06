@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 102 • The Butterfly
+# 🎨 Marketing Campaign: JOSH1 101 • Blues Hay
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-102-the-butterfly/](https://www.inprnt.com/gallery/joshuadenouden/josh1-102-the-butterfly/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-101-blues-hay/](https://www.inprnt.com/gallery/joshuadenouden/josh1-101-blues-hay/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 102 • The Butterfly](https://cdn.inprnt.com/thumbs/87/7d/877df991fbe552af8f76054d18c02781@2x.jpg)
+![JOSH1 101 • Blues Hay](https://cdn.inprnt.com/thumbs/1d/52/1d5217dc39f0267eff77f528d43ab924@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 102 • The Butterfly | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 101 • Blues Hay | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 102 • The Butterfly'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-102-the-butterfly/ • #PhygitalArt #ArtCollector #WallArtDecor #ArchivalPrint
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 101 • Blues Hay'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-101-blues-hay/ • #ArchivalPrint #Industrial #ArtCollector #ArchitecturalPhotography
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 102 • The Butterfly 」
+「 JOSH1 101 • Blues Hay 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#ContemporaryCollector #MinimalistPhotography #SolanaArt #ArtCollector
+#PhygitalArt #Industrial #FineArtPrint #BrutalistArchitecture
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 102 • The Butterfly')
+• Slide 1: Full high res photograph ('JOSH1 101 • Blues Hay')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 102 • The Butterfly
+JOSH1 101 • Blues Hay
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 56.4 (Grade C • Rotterdam)
+  DRiP Provenance: Score 55.6 (Grade C • Rotterdam)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -57,23 +57,23 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 Collect the archive via link in bio
 📸 Archival Capture / Digital
 📍 Rotterdam (RTM) 🇳🇱
-💎 DRiP Score: 56.4 | Grade: C
+💎 DRiP Score: 55.6 | Grade: C
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#PhygitalArt #ArchivalPrint #JOSHSHOOTPRINTS #FineArtPrint
+#MinimalistPhotography #ArtCollector #SolanaArt #ArchivalPrint
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 102 • The Butterfly`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 101 • Blues Hay`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 102 • The Butterfly"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 101 • Blues Hay"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-102-the-butterfly/"><img src="https://cdn.inprnt.com/thumbs/87/7d/877df991fbe552af8f76054d18c02781@2x.jpg" alt="JOSH1 102 • The Butterfly" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-101-blues-hay/"><img src="https://cdn.inprnt.com/thumbs/1d/52/1d5217dc39f0267eff77f528d43ab924@2x.jpg" alt="JOSH1 101 • Blues Hay" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 102 • The Butterfly` |
+| **Title** | `JOSH1 101 • Blues Hay` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-102-the-butterfly/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-101-blues-hay/)**
 ```
