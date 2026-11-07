@@ -95,9 +95,10 @@
     "josh1-104-claim-your-build",
     "josh1-103-in-my-room",
     "josh1-102-the-butterfly",
-    "josh1-101-blues-hay"
+    "josh1-101-blues-hay",
+    "josh1-100-dutch-gossip"
   ],
-  "last_promoted_date": "2026-11-06T20:17:47.122491",
+  "last_promoted_date": "2026-11-07T18:31:11.601350",
   "history_log": [
     {
       "date": "2026-08-04 16:30:00",
@@ -777,6 +778,13 @@
       "title": "JOSH1-101: Blues Hay",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-101-blues-hay/",
       "image_url": "https://cdn.inprnt.com/thumbs/1d/52/1d5217dc39f0267eff77f528d43ab924@2x.jpg"
+    },
+    {
+      "date": "2026-11-07 18:31:11",
+      "artwork_id": "josh1-100-dutch-gossip",
+      "title": "JOSH1-100: Dutch Gossip",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-100-dutch-gossip/",
+      "image_url": "https://cdn.inprnt.com/thumbs/e3/19/e319dc254f7400be25b6e5e0c1e9a354@2x.jpg"
     }
   ]
 }
