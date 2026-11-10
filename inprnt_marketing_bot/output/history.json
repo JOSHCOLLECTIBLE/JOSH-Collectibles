@@ -98,17 +98,11 @@
     "josh1-101-blues-hay",
     "josh1-100-dutch-gossip",
     "josh1-99-the-lady-in-red",
-    "josh1-98-a-dutch-hand"
+    "josh1-98-a-dutch-hand",
+    "josh1-97-omani-mountains"
   ],
-  "last_promoted_date": "2026-11-09T23:18:49.528039",
+  "last_promoted_date": "2026-11-10T20:43:53.240525",
   "history_log": [
-    {
-      "date": "2026-08-04 16:30:00",
-      "artwork_id": "josh1-197-maritime-museum-rotterdam",
-      "title": "JOSH1-197: Maritime Museum, Rotterdam",
-      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-197-maritime-museum-rotterdam/",
-      "image_url": "https://cdn.inprnt.com/thumbs/0c/2b/0c2b504067590379c2c6e9866a469358@2x.jpg"
-    },
     {
       "date": "2026-08-05 16:30:00",
       "artwork_id": "josh1-196-damstraatjes-amsterdam",
@@ -801,6 +795,13 @@
       "title": "JOSH1-98: A Dutch Hand",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-98-a-dutch-hand/",
       "image_url": "https://cdn.inprnt.com/thumbs/4f/3e/4f3ea603598c7ec54c83bf05f56445f5@2x.jpg"
+    },
+    {
+      "date": "2026-11-10 20:43:53",
+      "artwork_id": "josh1-97-omani-mountains",
+      "title": "JOSH1-97: Omani Mountains",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-97-omani-mountains/",
+      "image_url": "https://cdn.inprnt.com/thumbs/64/0b/640bff80e8ee55940afe365ad9de038f@2x.jpg"
     }
   ]
 }
