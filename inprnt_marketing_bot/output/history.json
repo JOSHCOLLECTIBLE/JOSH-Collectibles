@@ -99,17 +99,11 @@
     "josh1-100-dutch-gossip",
     "josh1-99-the-lady-in-red",
     "josh1-98-a-dutch-hand",
-    "josh1-97-omani-mountains"
+    "josh1-97-omani-mountains",
+    "josh1-96-the-man-with-a-hand"
   ],
-  "last_promoted_date": "2026-11-10T20:43:53.240525",
+  "last_promoted_date": "2026-11-11T21:07:23.896925",
   "history_log": [
-    {
-      "date": "2026-08-05 16:30:00",
-      "artwork_id": "josh1-196-damstraatjes-amsterdam",
-      "title": "JOSH1-196: Damstraatjes, Amsterdam",
-      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-196-damstraatjes-amsterdam/",
-      "image_url": "https://cdn.inprnt.com/thumbs/74/bc/74bc117ec749aaf2cd9e2513870b6ed8@2x.jpg"
-    },
     {
       "date": "2026-08-06 16:30:00",
       "artwork_id": "josh1-195-scheepmakerskade-135",
@@ -802,6 +796,13 @@
       "title": "JOSH1-97: Omani Mountains",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-97-omani-mountains/",
       "image_url": "https://cdn.inprnt.com/thumbs/64/0b/640bff80e8ee55940afe365ad9de038f@2x.jpg"
+    },
+    {
+      "date": "2026-11-11 21:07:23",
+      "artwork_id": "josh1-96-the-man-with-a-hand",
+      "title": "JOSH1-96: The Man with a hand",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-96-the-man-with-a-hand/",
+      "image_url": "https://cdn.inprnt.com/thumbs/c4/56/c4569b0d9713ecb9b5f6e8246dbe9c64@2x.jpg"
     }
   ]
 }

@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 97 • Omani Mountains
+# 🎨 Marketing Campaign: JOSH1 96 • The Man with a hand
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-97-omani-mountains/](https://www.inprnt.com/gallery/joshuadenouden/josh1-97-omani-mountains/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-96-the-man-with-a-hand/](https://www.inprnt.com/gallery/joshuadenouden/josh1-96-the-man-with-a-hand/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 97 • Omani Mountains](https://cdn.inprnt.com/thumbs/64/0b/640bff80e8ee55940afe365ad9de038f@2x.jpg)
+![JOSH1 96 • The Man with a hand](https://cdn.inprnt.com/thumbs/c4/56/c4569b0d9713ecb9b5f6e8246dbe9c64@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 97 • Omani Mountains | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 96 • The Man with a hand | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 97 • Omani Mountains'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-97-omani-mountains/ • #Industrial #ContemporaryCollector #BrutalistArchitecture #ArtCollector
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 96 • The Man with a hand'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-96-the-man-with-a-hand/ • #ArchivalPrint #StreetPhotography #OnChainArt #ArchitecturalPhotography
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 97 • Omani Mountains 」
+「 JOSH1 96 • The Man with a hand 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#JOSHSHOOTPRINTS #ArchivalPrint #Industrial #ContemporaryCollector
+#ContemporaryCollector #ArchitecturalPhotography #BrutalistArchitecture #FineArtPrint
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 97 • Omani Mountains')
+• Slide 1: Full high res photograph ('JOSH1 96 • The Man with a hand')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 97 • Omani Mountains
+JOSH1 96 • The Man with a hand
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 50.6 (Grade D • Rotterdam)
+  DRiP Provenance: Score 52.7 (Grade D • MNL)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -56,24 +56,24 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 
 Collect the archive via link in bio
 📸 Archival Capture / Digital
-📍 Rotterdam (RTM) 🇳🇱
-💎 DRiP Score: 50.6 | Grade: D
+📍 MNL 🌍
+💎 DRiP Score: 52.7 | Grade: D
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#StreetPhotography #SolanaNFT #UrbanGeometry #JOSHSHOOTPRINTS
+#SolanaArt #OnChainArt #JOSHSHOOTPRINTS #ArtCollector
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 97 • Omani Mountains`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 96 • The Man with a hand`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 97 • Omani Mountains"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 96 • The Man with a hand"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-97-omani-mountains/"><img src="https://cdn.inprnt.com/thumbs/64/0b/640bff80e8ee55940afe365ad9de038f@2x.jpg" alt="JOSH1 97 • Omani Mountains" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-96-the-man-with-a-hand/"><img src="https://cdn.inprnt.com/thumbs/c4/56/c4569b0d9713ecb9b5f6e8246dbe9c64@2x.jpg" alt="JOSH1 96 • The Man with a hand" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 97 • Omani Mountains` |
+| **Title** | `JOSH1 96 • The Man with a hand` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-97-omani-mountains/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-96-the-man-with-a-hand/)**
 ```
