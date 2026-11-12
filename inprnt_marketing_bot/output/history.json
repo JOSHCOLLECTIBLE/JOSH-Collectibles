@@ -100,17 +100,11 @@
     "josh1-99-the-lady-in-red",
     "josh1-98-a-dutch-hand",
     "josh1-97-omani-mountains",
-    "josh1-96-the-man-with-a-hand"
+    "josh1-96-the-man-with-a-hand",
+    "josh1-95-parking-dat-way"
   ],
-  "last_promoted_date": "2026-11-11T21:07:23.896925",
+  "last_promoted_date": "2026-11-12T21:21:25.261596",
   "history_log": [
-    {
-      "date": "2026-08-06 16:30:00",
-      "artwork_id": "josh1-195-scheepmakerskade-135",
-      "title": "JOSH1-195: Scheepmakerskade 135",
-      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-195-scheepmakerskade-135/",
-      "image_url": "https://cdn.inprnt.com/thumbs/d1/54/d154d7c400b4d2f5cf3b9bafccb0f182@2x.jpg"
-    },
     {
       "date": "2026-08-07 00:35:49",
       "artwork_id": "josh1-194-van-gogh-museum",
@@ -803,6 +797,13 @@
       "title": "JOSH1-96: The Man with a hand",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-96-the-man-with-a-hand/",
       "image_url": "https://cdn.inprnt.com/thumbs/c4/56/c4569b0d9713ecb9b5f6e8246dbe9c64@2x.jpg"
+    },
+    {
+      "date": "2026-11-12 21:21:25",
+      "artwork_id": "josh1-95-parking-dat-way",
+      "title": "JOSH1-95: Parking Dat Way",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-95-parking-dat-way/",
+      "image_url": "https://cdn.inprnt.com/thumbs/7f/21/7f21ebab2d2abb89692462be448edd22@2x.jpg"
     }
   ]
 }
