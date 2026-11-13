@@ -101,17 +101,11 @@
     "josh1-98-a-dutch-hand",
     "josh1-97-omani-mountains",
     "josh1-96-the-man-with-a-hand",
-    "josh1-95-parking-dat-way"
+    "josh1-95-parking-dat-way",
+    "josh1-94-a-dutch-date-in-rotterdam"
   ],
-  "last_promoted_date": "2026-11-12T21:21:25.261596",
+  "last_promoted_date": "2026-11-13T20:47:59.123322",
   "history_log": [
-    {
-      "date": "2026-08-07 00:35:49",
-      "artwork_id": "josh1-194-van-gogh-museum",
-      "title": "JOSH1-194: Van Gogh Museum",
-      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-194-van-gogh-museum/",
-      "image_url": "https://cdn.inprnt.com/thumbs/ca/8f/ca8fd3f6c99535f43d2d5a6ba3bfa46f@2x.jpg"
-    },
     {
       "date": "2026-08-08 14:34:40",
       "artwork_id": "josh1-192-mono-closing-party-22",
@@ -804,6 +798,13 @@
       "title": "JOSH1-95: Parking Dat Way",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-95-parking-dat-way/",
       "image_url": "https://cdn.inprnt.com/thumbs/7f/21/7f21ebab2d2abb89692462be448edd22@2x.jpg"
+    },
+    {
+      "date": "2026-11-13 20:47:59",
+      "artwork_id": "josh1-94-a-dutch-date-in-rotterdam",
+      "title": "JOSH1-94: A Dutch Date in Rotterdam",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-94-a-dutch-date-in-rotterdam/",
+      "image_url": "https://cdn.inprnt.com/thumbs/8c/b4/8cb47a778272f9dffac961de02ee032d@2x.jpg"
     }
   ]
 }
