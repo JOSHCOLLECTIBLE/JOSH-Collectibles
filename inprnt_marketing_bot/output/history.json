@@ -103,17 +103,11 @@
     "josh1-96-the-man-with-a-hand",
     "josh1-95-parking-dat-way",
     "josh1-94-a-dutch-date-in-rotterdam",
-    "josh1-93-the-bohemia-style-street"
+    "josh1-93-the-bohemia-style-street",
+    "josh1-92-to-guard"
   ],
-  "last_promoted_date": "2026-11-14T18:58:28.338156",
+  "last_promoted_date": "2026-11-15T19:37:53.101260",
   "history_log": [
-    {
-      "date": "2026-08-09 07:00:32",
-      "artwork_id": "josh1-191-as-station",
-      "title": "JOSH1-191: A's Station",
-      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-191-as-station/",
-      "image_url": "https://cdn.inprnt.com/thumbs/80/3c/803c399de7acca585ff3f764089424d6@2x.jpg"
-    },
     {
       "date": "2026-08-09 07:13:30",
       "artwork_id": "josh1-192-mono-closing-party-22",
@@ -806,6 +800,13 @@
       "title": "JOSH1-93: The Bohemia Style Street",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-93-the-bohemia-style-street/",
       "image_url": "https://cdn.inprnt.com/thumbs/c0/72/c0721549e77f7eb6e704f2802d011441@2x.jpg"
+    },
+    {
+      "date": "2026-11-15 19:37:53",
+      "artwork_id": "josh1-92-to-guard",
+      "title": "JOSH1-92: To Guard",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-92-to-guard/",
+      "image_url": "https://cdn.inprnt.com/thumbs/56/b7/56b74f1694f5048e5e77902a437fe290@2x.jpg"
     }
   ]
 }

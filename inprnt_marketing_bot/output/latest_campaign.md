@@ -1,26 +1,26 @@
-# 🎨 Marketing Campaign: JOSH1 93 • The Bohemia Style Street
+# 🎨 Marketing Campaign: JOSH1 92 • To Guard
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-93-the-bohemia-style-street/](https://www.inprnt.com/gallery/joshuadenouden/josh1-93-the-bohemia-style-street/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-92-to-guard/](https://www.inprnt.com/gallery/joshuadenouden/josh1-92-to-guard/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 93 • The Bohemia Style Street](https://cdn.inprnt.com/thumbs/c0/72/c0721549e77f7eb6e704f2802d011441@2x.jpg)
+![JOSH1 92 • To Guard](https://cdn.inprnt.com/thumbs/56/b7/56b74f1694f5048e5e77902a437fe290@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 93 • The Bohemia Style Street | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 92 • To Guard | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Rotterdam waterfront architecture • Structural geometry along the urban harbor • Recorded for archival permanence. Common rarity asset in the JOSH¹ Archive ('JOSH1 93 • The Bohemia Style Street'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-93-the-bohemia-style-street/ • #ArchivalPrint #ContemporaryCollector #OnChainArt #ArchitecturalPhotography
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 92 • To Guard'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-92-to-guard/ • #ArchivalPrint #BrutalistArchitecture #MinimalistPhotography #FineArtPrint
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 93 • The Bohemia Style Street 」
+「 JOSH1 92 • To Guard 」
 
-  Rotterdam waterfront architecture
-  Structural geometry along the urban harbor
-  Recorded for archival permanence
+  Architectural geometry and urban stillness
+  Structural symmetry recorded in natural light
+  An archival record of institutional form
 
 THE JOSH¹ ARCHIVE
 Limited Edition Phygital Art Piece
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#MinimalistPhotography #FineArtPrint #StreetPhotography #ArchitecturalPhotography
+#WallArtDecor #MinimalistPhotography #SolanaNFT #JOSHSHOOTPRINTS
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 93 • The Bohemia Style Street')
+• Slide 1: Full high res photograph ('JOSH1 92 • To Guard')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 93 • The Bohemia Style Street
+JOSH1 92 • To Guard
 
-  Rotterdam waterfront architecture
-  Structural geometry along the urban harbor
-  Recorded for archival permanence
-  DRiP Provenance: Score 53.4 (Grade D • PRG)
+  Architectural geometry and urban stillness
+  Structural symmetry recorded in natural light
+  An archival record of institutional form
+  DRiP Provenance: Score 54.1 (Grade D • PRG)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -57,23 +57,23 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 Collect the archive via link in bio
 📸 Archival Capture / IPhone
 📍 PRG 🌍
-💎 DRiP Score: 53.4 | Grade: D
+💎 DRiP Score: 54.1 | Grade: D
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#ArchivalPrint #ArtCollector #Industrial #StreetPhotography
+#OnChainArt #SolanaNFT #MinimalistPhotography #JOSHSHOOTPRINTS
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 93 • The Bohemia Style Street`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 92 • To Guard`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 93 • The Bohemia Style Street"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 92 • To Guard"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-93-the-bohemia-style-street/"><img src="https://cdn.inprnt.com/thumbs/c0/72/c0721549e77f7eb6e704f2802d011441@2x.jpg" alt="JOSH1 93 • The Bohemia Style Street" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-92-to-guard/"><img src="https://cdn.inprnt.com/thumbs/56/b7/56b74f1694f5048e5e77902a437fe290@2x.jpg" alt="JOSH1 92 • To Guard" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 93 • The Bohemia Style Street` |
+| **Title** | `JOSH1 92 • To Guard` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-93-the-bohemia-style-street/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-92-to-guard/)**
 ```
