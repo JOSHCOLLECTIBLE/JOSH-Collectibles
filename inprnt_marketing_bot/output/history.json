@@ -104,17 +104,11 @@
     "josh1-95-parking-dat-way",
     "josh1-94-a-dutch-date-in-rotterdam",
     "josh1-93-the-bohemia-style-street",
-    "josh1-92-to-guard"
+    "josh1-92-to-guard",
+    "josh1-91-prague-from-the-castle"
   ],
-  "last_promoted_date": "2026-11-15T19:37:53.101260",
+  "last_promoted_date": "2026-11-16T23:15:26.766577",
   "history_log": [
-    {
-      "date": "2026-08-09 07:13:30",
-      "artwork_id": "josh1-192-mono-closing-party-22",
-      "title": "JOSH1-192: Mono Closing Party 22'",
-      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-192-mono-closing-party-22/",
-      "image_url": "https://cdn.inprnt.com/thumbs/a9/3c/a93cf3d0c8a257a61f72519f122664fb@2x.jpg"
-    },
     {
       "date": "2026-08-09 14:37:58",
       "artwork_id": "josh1-191-as-station",
@@ -807,6 +801,13 @@
       "title": "JOSH1-92: To Guard",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-92-to-guard/",
       "image_url": "https://cdn.inprnt.com/thumbs/56/b7/56b74f1694f5048e5e77902a437fe290@2x.jpg"
+    },
+    {
+      "date": "2026-11-16 23:15:26",
+      "artwork_id": "josh1-91-prague-from-the-castle",
+      "title": "JOSH1-91: Prague from The Castle",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-91-prague-from-the-castle/",
+      "image_url": "https://cdn.inprnt.com/thumbs/33/b2/33b22383a235becad81dd5c5396f86e7@2x.jpg"
     }
   ]
 }
