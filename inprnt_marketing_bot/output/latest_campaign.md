@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 91 • Prague from The Castle
+# 🎨 Marketing Campaign: JOSH1 90 • Calma BB
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-91-prague-from-the-castle/](https://www.inprnt.com/gallery/joshuadenouden/josh1-91-prague-from-the-castle/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-90-calma-bb/](https://www.inprnt.com/gallery/joshuadenouden/josh1-90-calma-bb/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 91 • Prague from The Castle](https://cdn.inprnt.com/thumbs/33/b2/33b22383a235becad81dd5c5396f86e7@2x.jpg)
+![JOSH1 90 • Calma BB](https://cdn.inprnt.com/thumbs/7d/90/7d9022063a2f79ae060162ee8bd33f06@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 91 • Prague from The Castle | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 90 • Calma BB | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 91 • Prague from The Castle'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-91-prague-from-the-castle/ • #BrutalistArchitecture #FineArtPrint #PhygitalArt #OnChainArt
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 90 • Calma BB'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-90-calma-bb/ • #ArtCollector #ArchitecturalPhotography #SolanaArt #MinimalistPhotography
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 91 • Prague from The Castle 」
+「 JOSH1 90 • Calma BB 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,22 +33,22 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#WallArtDecor #OnChainArt #ArtCollector #JOSHSHOOTPRINTS
+#ArtCollector #PhygitalArt #Industrial #WallArtDecor
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 91 • Prague from The Castle')
+• Slide 1: Full high res photograph ('JOSH1 90 • Calma BB')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 91 • Prague from The Castle
+JOSH1 90 • Calma BB
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 75.1 (Grade A • PRG)
+  DRiP Provenance: Score 52.6 (Grade D • PRG)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
@@ -57,23 +57,23 @@ Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition pr
 Collect the archive via link in bio
 📸 Archival Capture / IPhone
 📍 PRG 🌍
-💎 DRiP Score: 75.1 | Grade: A
+💎 DRiP Score: 52.6 | Grade: D
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#ContemporaryCollector #FineArtPrint #WallArtDecor #PhygitalArt
+#INPRNT #OnChainArt #UrbanGeometry #SolanaNFT
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 91 • Prague from The Castle`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 90 • Calma BB`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 91 • Prague from The Castle"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 90 • Calma BB"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-91-prague-from-the-castle/"><img src="https://cdn.inprnt.com/thumbs/33/b2/33b22383a235becad81dd5c5396f86e7@2x.jpg" alt="JOSH1 91 • Prague from The Castle" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-90-calma-bb/"><img src="https://cdn.inprnt.com/thumbs/7d/90/7d9022063a2f79ae060162ee8bd33f06@2x.jpg" alt="JOSH1 90 • Calma BB" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 91 • Prague from The Castle` |
+| **Title** | `JOSH1 90 • Calma BB` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-91-prague-from-the-castle/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-90-calma-bb/)**
 ```

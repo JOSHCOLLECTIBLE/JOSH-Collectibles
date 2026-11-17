@@ -105,17 +105,11 @@
     "josh1-94-a-dutch-date-in-rotterdam",
     "josh1-93-the-bohemia-style-street",
     "josh1-92-to-guard",
-    "josh1-91-prague-from-the-castle"
+    "josh1-91-prague-from-the-castle",
+    "josh1-90-calma-bb"
   ],
-  "last_promoted_date": "2026-11-16T23:15:26.766577",
+  "last_promoted_date": "2026-11-17T22:05:56.852148",
   "history_log": [
-    {
-      "date": "2026-08-09 14:37:58",
-      "artwork_id": "josh1-191-as-station",
-      "title": "JOSH1-191: A's Station",
-      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-191-as-station/",
-      "image_url": "https://cdn.inprnt.com/thumbs/80/3c/803c399de7acca585ff3f764089424d6@2x.jpg"
-    },
     {
       "date": "2026-08-10 15:01:53",
       "artwork_id": "josh1-190-leeds-university",
@@ -808,6 +802,13 @@
       "title": "JOSH1-91: Prague from The Castle",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-91-prague-from-the-castle/",
       "image_url": "https://cdn.inprnt.com/thumbs/33/b2/33b22383a235becad81dd5c5396f86e7@2x.jpg"
+    },
+    {
+      "date": "2026-11-17 22:05:56",
+      "artwork_id": "josh1-90-calma-bb",
+      "title": "JOSH1-90: Calma BB",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-90-calma-bb/",
+      "image_url": "https://cdn.inprnt.com/thumbs/7d/90/7d9022063a2f79ae060162ee8bd33f06@2x.jpg"
     }
   ]
 }
