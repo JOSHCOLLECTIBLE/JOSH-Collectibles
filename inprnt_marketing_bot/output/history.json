@@ -106,17 +106,11 @@
     "josh1-93-the-bohemia-style-street",
     "josh1-92-to-guard",
     "josh1-91-prague-from-the-castle",
-    "josh1-90-calma-bb"
+    "josh1-90-calma-bb",
+    "josh1-89-no-peps-no-coc"
   ],
-  "last_promoted_date": "2026-11-17T22:05:56.852148",
+  "last_promoted_date": "2026-11-18T21:44:38.987251",
   "history_log": [
-    {
-      "date": "2026-08-10 15:01:53",
-      "artwork_id": "josh1-190-leeds-university",
-      "title": "JOSH1-190: Leeds University",
-      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-190-leeds-university/",
-      "image_url": "https://cdn.inprnt.com/thumbs/cf/81/cf815e5dceefd6359ede7173c6efe4dd@2x.jpg"
-    },
     {
       "date": "2026-08-11 15:01:00",
       "artwork_id": "josh1-189-waterloo-station",
@@ -809,6 +803,13 @@
       "title": "JOSH1-90: Calma BB",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-90-calma-bb/",
       "image_url": "https://cdn.inprnt.com/thumbs/7d/90/7d9022063a2f79ae060162ee8bd33f06@2x.jpg"
+    },
+    {
+      "date": "2026-11-18 21:44:38",
+      "artwork_id": "josh1-89-no-peps-no-coc",
+      "title": "JOSH1-89: No Peps, No Coc",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-89-no-peps-no-coc/",
+      "image_url": "https://cdn.inprnt.com/thumbs/6b/14/6b14c7f6ce169243425debff19f4ca33@2x.jpg"
     }
   ]
 }
