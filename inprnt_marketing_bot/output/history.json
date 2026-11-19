@@ -107,17 +107,11 @@
     "josh1-92-to-guard",
     "josh1-91-prague-from-the-castle",
     "josh1-90-calma-bb",
-    "josh1-89-no-peps-no-coc"
+    "josh1-89-no-peps-no-coc",
+    "josh1-88-cigar-by-tamino"
   ],
-  "last_promoted_date": "2026-11-18T21:44:38.987251",
+  "last_promoted_date": "2026-11-19T22:00:34.145900",
   "history_log": [
-    {
-      "date": "2026-08-11 15:01:00",
-      "artwork_id": "josh1-189-waterloo-station",
-      "title": "JOSH1-189: Waterloo Station",
-      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-189-waterloo-station/",
-      "image_url": "https://cdn.inprnt.com/thumbs/22/e7/22e7f6a271082f11ef6ae19b8eb72d69@2x.jpg"
-    },
     {
       "date": "2026-08-12 15:00:15",
       "artwork_id": "josh1-188-a-2222-2022",
@@ -810,6 +804,13 @@
       "title": "JOSH1-89: No Peps, No Coc",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-89-no-peps-no-coc/",
       "image_url": "https://cdn.inprnt.com/thumbs/6b/14/6b14c7f6ce169243425debff19f4ca33@2x.jpg"
+    },
+    {
+      "date": "2026-11-19 22:00:34",
+      "artwork_id": "josh1-88-cigar-by-tamino",
+      "title": "JOSH1-88: Cigar",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-88-cigar-by-tamino/",
+      "image_url": "https://cdn.inprnt.com/thumbs/6e/c5/6ec51b1b64cc063a3d0841c571dddafc@2x.jpg"
     }
   ]
 }
