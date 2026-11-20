@@ -108,17 +108,11 @@
     "josh1-91-prague-from-the-castle",
     "josh1-90-calma-bb",
     "josh1-89-no-peps-no-coc",
-    "josh1-88-cigar-by-tamino"
+    "josh1-88-cigar-by-tamino",
+    "josh1-87-the-main-square-in-frankfurt"
   ],
-  "last_promoted_date": "2026-11-19T22:00:34.145900",
+  "last_promoted_date": "2026-11-20T21:43:11.291981",
   "history_log": [
-    {
-      "date": "2026-08-12 15:00:15",
-      "artwork_id": "josh1-188-a-2222-2022",
-      "title": "JOSH1-188: A 2222 2022",
-      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-188-a-2222-2022/",
-      "image_url": "https://cdn.inprnt.com/thumbs/84/03/8403c6dfa2930fa70f862abf9336558f@2x.jpg"
-    },
     {
       "date": "2026-08-13 15:01:04",
       "artwork_id": "josh1-187-nieuwe-mass",
@@ -811,6 +805,13 @@
       "title": "JOSH1-88: Cigar",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-88-cigar-by-tamino/",
       "image_url": "https://cdn.inprnt.com/thumbs/6e/c5/6ec51b1b64cc063a3d0841c571dddafc@2x.jpg"
+    },
+    {
+      "date": "2026-11-20 21:43:11",
+      "artwork_id": "josh1-87-the-main-square-in-frankfurt",
+      "title": "JOSH1-87: The Main Square",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-87-the-main-square-in-frankfurt/",
+      "image_url": "https://cdn.inprnt.com/thumbs/2d/d9/2dd998b165550dd987c4094b56889b8e@2x.jpg"
     }
   ]
 }
