@@ -109,17 +109,11 @@
     "josh1-90-calma-bb",
     "josh1-89-no-peps-no-coc",
     "josh1-88-cigar-by-tamino",
-    "josh1-87-the-main-square-in-frankfurt"
+    "josh1-87-the-main-square-in-frankfurt",
+    "josh1-86-german-quality"
   ],
-  "last_promoted_date": "2026-11-20T21:43:11.291981",
+  "last_promoted_date": "2026-11-21T20:24:30.051139",
   "history_log": [
-    {
-      "date": "2026-08-13 15:01:04",
-      "artwork_id": "josh1-187-nieuwe-mass",
-      "title": "JOSH1-187: Nieuwe Mass",
-      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-187-nieuwe-mass/",
-      "image_url": "https://cdn.inprnt.com/thumbs/d0/56/d056092519b22ff0a348477665b98698@2x.jpg"
-    },
     {
       "date": "2026-08-14 14:54:58",
       "artwork_id": "josh1-186-shooting-with-jom",
@@ -812,6 +806,13 @@
       "title": "JOSH1-87: The Main Square",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-87-the-main-square-in-frankfurt/",
       "image_url": "https://cdn.inprnt.com/thumbs/2d/d9/2dd998b165550dd987c4094b56889b8e@2x.jpg"
+    },
+    {
+      "date": "2026-11-21 20:24:30",
+      "artwork_id": "josh1-86-german-quality",
+      "title": "JOSH1-86: German Quality",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-86-german-quality/",
+      "image_url": "https://cdn.inprnt.com/thumbs/d4/b9/d4b9ae1529df8b8f0f059894d90da3e7@2x.jpg"
     }
   ]
 }
