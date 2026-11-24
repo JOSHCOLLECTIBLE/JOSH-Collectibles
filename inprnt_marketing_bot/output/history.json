@@ -111,17 +111,11 @@
     "josh1-88-cigar-by-tamino",
     "josh1-87-the-main-square-in-frankfurt",
     "josh1-86-german-quality",
-    "josh1-85-the-zalmhaven"
+    "josh1-85-the-zalmhaven",
+    "josh1-84-milan-and-his-guitar"
   ],
-  "last_promoted_date": "2026-11-22T20:37:01.388913",
+  "last_promoted_date": "2026-11-24T01:31:37.650884",
   "history_log": [
-    {
-      "date": "2026-08-15 14:26:22",
-      "artwork_id": "josh1-185-in-joms-room",
-      "title": "JOSH1-185: In JOM's Room",
-      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-185-in-joms-room/",
-      "image_url": "https://cdn.inprnt.com/thumbs/0e/09/0e0987061efad496c7687d1a300f050f@2x.jpg"
-    },
     {
       "date": "2026-08-16 14:26:44",
       "artwork_id": "josh1-184-taste-of-bengal",
@@ -814,6 +808,13 @@
       "title": "JOSH1-85: The Zalmhaven",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-85-the-zalmhaven/",
       "image_url": "https://cdn.inprnt.com/thumbs/74/7f/747f89358da4aab284c08d5a2aeda6b4@2x.jpg"
+    },
+    {
+      "date": "2026-11-24 01:31:37",
+      "artwork_id": "josh1-84-milan-and-his-guitar",
+      "title": "JOSH1-84: Milan and his Guitar",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-84-milan-and-his-guitar/",
+      "image_url": "https://cdn.inprnt.com/thumbs/f8/db/f8dbd3090c9ea2a63340a462d1db773a@2x.jpg"
     }
   ]
 }
