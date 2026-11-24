@@ -112,17 +112,11 @@
     "josh1-87-the-main-square-in-frankfurt",
     "josh1-86-german-quality",
     "josh1-85-the-zalmhaven",
-    "josh1-84-milan-and-his-guitar"
+    "josh1-84-milan-and-his-guitar",
+    "josh1-83-wooden-pencil"
   ],
-  "last_promoted_date": "2026-11-24T01:31:37.650884",
+  "last_promoted_date": "2026-11-24T23:25:17.671314",
   "history_log": [
-    {
-      "date": "2026-08-16 14:26:44",
-      "artwork_id": "josh1-184-taste-of-bengal",
-      "title": "JOSH1-184: Taste of Bengal",
-      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-184-taste-of-bengal/",
-      "image_url": "https://cdn.inprnt.com/thumbs/29/81/298159654f8645778720436ef15cd160@2x.jpg"
-    },
     {
       "date": "2026-08-17 14:31:07",
       "artwork_id": "josh1-183-rotterdam-blaak-station",
@@ -815,6 +809,13 @@
       "title": "JOSH1-84: Milan and his Guitar",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-84-milan-and-his-guitar/",
       "image_url": "https://cdn.inprnt.com/thumbs/f8/db/f8dbd3090c9ea2a63340a462d1db773a@2x.jpg"
+    },
+    {
+      "date": "2026-11-24 23:25:17",
+      "artwork_id": "josh1-83-wooden-pencil",
+      "title": "JOSH1-83: Wooden Pencil",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-83-wooden-pencil/",
+      "image_url": "https://cdn.inprnt.com/thumbs/6f/55/6f55ea29e3d70195478bc9364f883ac6@2x.jpg"
     }
   ]
 }
