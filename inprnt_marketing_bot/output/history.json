@@ -113,17 +113,11 @@
     "josh1-86-german-quality",
     "josh1-85-the-zalmhaven",
     "josh1-84-milan-and-his-guitar",
-    "josh1-83-wooden-pencil"
+    "josh1-83-wooden-pencil",
+    "josh1-82-the-belgian-galleries"
   ],
-  "last_promoted_date": "2026-11-24T23:25:17.671314",
+  "last_promoted_date": "2026-11-25T22:59:14.135851",
   "history_log": [
-    {
-      "date": "2026-08-17 14:31:07",
-      "artwork_id": "josh1-183-rotterdam-blaak-station",
-      "title": "JOSH1-183: Rotterdam Blaak Station",
-      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-183-rotterdam-blaak-station/",
-      "image_url": "https://cdn.inprnt.com/thumbs/82/13/82135266e327d231b3240379c3990774@2x.jpg"
-    },
     {
       "date": "2026-08-18 14:36:50",
       "artwork_id": "josh1-182-the-rotterdam-public-library",
@@ -816,6 +810,13 @@
       "title": "JOSH1-83: Wooden Pencil",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-83-wooden-pencil/",
       "image_url": "https://cdn.inprnt.com/thumbs/6f/55/6f55ea29e3d70195478bc9364f883ac6@2x.jpg"
+    },
+    {
+      "date": "2026-11-25 22:59:14",
+      "artwork_id": "josh1-82-the-belgian-galleries",
+      "title": "JOSH1-82: The Belgian Galleries",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-82-the-belgian-galleries/",
+      "image_url": "https://cdn.inprnt.com/thumbs/14/80/148061c50154298150c1e0353e850055@2x.jpg"
     }
   ]
 }
