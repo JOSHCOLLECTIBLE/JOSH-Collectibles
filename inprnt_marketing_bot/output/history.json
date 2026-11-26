@@ -114,17 +114,11 @@
     "josh1-85-the-zalmhaven",
     "josh1-84-milan-and-his-guitar",
     "josh1-83-wooden-pencil",
-    "josh1-82-the-belgian-galleries"
+    "josh1-82-the-belgian-galleries",
+    "josh1-81-the-mormons-are-back-the-mormons-are-back"
   ],
-  "last_promoted_date": "2026-11-25T22:59:14.135851",
+  "last_promoted_date": "2026-11-26T22:52:50.449688",
   "history_log": [
-    {
-      "date": "2026-08-18 14:36:50",
-      "artwork_id": "josh1-182-the-rotterdam-public-library",
-      "title": "JOSH1-182: The Rotterdam Public Library",
-      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-182-the-rotterdam-public-library/",
-      "image_url": "https://cdn.inprnt.com/thumbs/e3/dc/e3dc21eb9744b005208209ed70daf652@2x.jpg"
-    },
     {
       "date": "2026-08-19 14:37:21",
       "artwork_id": "josh1-181-wtf-is-that",
@@ -817,6 +811,13 @@
       "title": "JOSH1-82: The Belgian Galleries",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-82-the-belgian-galleries/",
       "image_url": "https://cdn.inprnt.com/thumbs/14/80/148061c50154298150c1e0353e850055@2x.jpg"
+    },
+    {
+      "date": "2026-11-26 22:52:50",
+      "artwork_id": "josh1-81-the-mormons-are-back-the-mormons-are-back",
+      "title": "JOSH1-81: The Mormons are Back",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-81-the-mormons-are-back-the-mormons-are-back/",
+      "image_url": "https://cdn.inprnt.com/thumbs/cd/f5/cdf5dc88a3d419926829d00b02a8b8d3@2x.jpg"
     }
   ]
 }
