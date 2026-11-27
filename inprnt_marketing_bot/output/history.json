@@ -115,17 +115,11 @@
     "josh1-84-milan-and-his-guitar",
     "josh1-83-wooden-pencil",
     "josh1-82-the-belgian-galleries",
-    "josh1-81-the-mormons-are-back-the-mormons-are-back"
+    "josh1-81-the-mormons-are-back-the-mormons-are-back",
+    "josh1-80-glimpses-inside"
   ],
-  "last_promoted_date": "2026-11-26T22:52:50.449688",
+  "last_promoted_date": "2026-11-27T22:33:02.492269",
   "history_log": [
-    {
-      "date": "2026-08-19 14:37:21",
-      "artwork_id": "josh1-181-wtf-is-that",
-      "title": "JOSH1-181: WTF is that?",
-      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-181-wtf-is-that/",
-      "image_url": "https://cdn.inprnt.com/thumbs/fb/f1/fbf18f69dc74f201d7856e50a3f8a57f@2x.jpg"
-    },
     {
       "date": "2026-08-20 14:39:02",
       "artwork_id": "josh1-180-fifty-two",
@@ -818,6 +812,13 @@
       "title": "JOSH1-81: The Mormons are Back",
       "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-81-the-mormons-are-back-the-mormons-are-back/",
       "image_url": "https://cdn.inprnt.com/thumbs/cd/f5/cdf5dc88a3d419926829d00b02a8b8d3@2x.jpg"
+    },
+    {
+      "date": "2026-11-27 22:33:02",
+      "artwork_id": "josh1-80-glimpses-inside",
+      "title": "JOSH1-80: Glimpses Inside",
+      "url": "https://www.inprnt.com/gallery/joshuadenouden/josh1-80-glimpses-inside/",
+      "image_url": "https://cdn.inprnt.com/thumbs/7f/8c/7f8cab51a4cbe374cc1fc6fd441bd0d0@2x.jpg"
     }
   ]
 }

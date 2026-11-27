@@ -1,22 +1,22 @@
-# 🎨 Marketing Campaign: JOSH1 81 • The Mormons are Back
+# 🎨 Marketing Campaign: JOSH1 80 • Glimpses Inside
 
-**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-81-the-mormons-are-back-the-mormons-are-back/](https://www.inprnt.com/gallery/joshuadenouden/josh1-81-the-mormons-are-back-the-mormons-are-back/)
+**Artwork URL:** [https://www.inprnt.com/gallery/joshuadenouden/josh1-80-glimpses-inside/](https://www.inprnt.com/gallery/joshuadenouden/josh1-80-glimpses-inside/)
 **Current Price:** $12.00 (20% OFF Limited Archival Release ($12.00 regular $15.00))
 **Rarity:** `💎 Common` | **Origin:** `📍 Rotterdam (RTM) 🇳🇱` | **Device:** `📸 iPhone 12 / Archival Capture`
 
-![JOSH1 81 • The Mormons are Back](https://cdn.inprnt.com/thumbs/cd/f5/cdf5dc88a3d419926829d00b02a8b8d3@2x.jpg)
+![JOSH1 80 • Glimpses Inside](https://cdn.inprnt.com/thumbs/7f/8c/7f8cab51a4cbe374cc1fc6fd441bd0d0@2x.jpg)
 
 ## 📌 Pinterest Pin Copy
-- **Title:** `JOSH1 81 • The Mormons are Back | JOSH¹ Archive Brutalist Photography`
+- **Title:** `JOSH1 80 • Glimpses Inside | JOSH¹ Archive Brutalist Photography`
 - **Board:** `JOSH¹ Archive // Phygital Photography Prints`
 - **Description:**
 ```text
-Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 81 • The Mormons are Back'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-81-the-mormons-are-back-the-mormons-are-back/ • #ArchitecturalPhotography #FineArtPrint #JOSHSHOOTPRINTS #SolanaArt
+Architectural geometry and urban stillness • Structural symmetry recorded in natural light • An archival record of institutional form. Common rarity asset in the JOSH¹ Archive ('JOSH1 80 • Glimpses Inside'). Exclusively available as a limited edition Phygital Art piece, bridging Solana blockchain provenance (JOSHSHOOT.SOL) and a gallery quality physical print. Captured in Rotterdam (RTM) 🇳🇱. Crafted on museum grade 300gsm 100% cotton rag archival paper with custom pigment inks for lifetime color permanence via INPRNT. Explore global shipping: https://www.inprnt.com/gallery/joshuadenouden/josh1-80-glimpses-inside/ • #FineArtPrint #INPRNT #ContemporaryCollector #StreetPhotography
 ```
 
 ## 🐦 Twitter / X & Bluesky Post
 ```text
-「 JOSH1 81 • The Mormons are Back 」
+「 JOSH1 80 • Glimpses Inside 」
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
@@ -33,47 +33,47 @@ Collect the archive via INPRNT (link in bio)
 💎 Rarity: Common
 ⚡ On Chain: JOSHSHOOT.SOL
 
-#UrbanGeometry #MinimalistPhotography #BrutalistArchitecture #PhygitalArt
+#ArtCollector #Industrial #MinimalistPhotography #ContemporaryCollector
 ```
 
 ## 📸 Instagram / Threads (Stagnant Account Revival Strategy)
 > **Carousel Note:** 📌 CAROUSEL REVIVAL STRATEGY (Algorithmic reach hook):
-• Slide 1: Full high res photograph ('JOSH1 81 • The Mormons are Back')
+• Slide 1: Full high res photograph ('JOSH1 80 • Glimpses Inside')
 • Slide 2: Zoomed in crop showing cotton rag texture OR brutalist detail
 • Slide 3: On chain provenance graphic ('💎 Rarity: Common | 📍 Rotterdam (RTM) 🇳🇱 | JOSHSHOOT.SOL')
 
 ```text
-JOSH1 81 • The Mormons are Back
+JOSH1 80 • Glimpses Inside
 
   Architectural geometry and urban stillness
   Structural symmetry recorded in natural light
   An archival record of institutional form
-  DRiP Provenance: Score 76.2 (Grade A • Leeds)
+  DRiP Provenance: Score 72.8 (Grade B • Abu)
 
 JOSH SHOOT // EXCLUSIVE 222 COLLECTIBLES
 Edition: 100% Cotton Rag Archival Fine Art Print (300gsm)
 Provenance: Solana Blockchain verified (JOSHSHOOT.SOL) to Physical exhibition print via INPRNT
 
 Collect the archive via link in bio
-📸 Archival Capture / IPhone
-📍 Leeds (LBA) 🇬🇧
-💎 DRiP Score: 76.2 | Grade: A
+📸 Archival Capture / Digital
+📍 Abu Dhabi (AUH) 🇦🇪
+💎 DRiP Score: 72.8 | Grade: B
 ⚡ On Chain: JOSHSHOOT.SOL
 
 .
 .
 .
-#StreetPhotography #SolanaNFT #ArtCollector #UrbanGeometry
+#SolanaNFT #BrutalistArchitecture #JOSHSHOOTPRINTS #Industrial
 ```
 
 ## 📂 GitHub Archive Journal (README & Releases Feature)
-- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 81 • The Mormons are Back`
+- **Suggested Title:** `JOSH¹ Asset Release: JOSH1 80 • Glimpses Inside`
 - **Markdown Block:**
 ```markdown
-## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 81 • The Mormons are Back"
+## 🏛️ JOSH¹ Archive Featured Asset: "JOSH1 80 • Glimpses Inside"
 
 <p align="center">
-  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-81-the-mormons-are-back-the-mormons-are-back/"><img src="https://cdn.inprnt.com/thumbs/cd/f5/cdf5dc88a3d419926829d00b02a8b8d3@2x.jpg" alt="JOSH1 81 • The Mormons are Back" width="600" /></a>
+  <a href="https://www.inprnt.com/gallery/joshuadenouden/josh1-80-glimpses-inside/"><img src="https://cdn.inprnt.com/thumbs/7f/8c/7f8cab51a4cbe374cc1fc6fd441bd0d0@2x.jpg" alt="JOSH1 80 • Glimpses Inside" width="600" /></a>
 </p>
 
 > *This is a **Common** rarity asset in the **JOSH¹ Archive**. Exclusively available as a Limited Edition Phygital Art piece, bridging Solana Blockchain provenance (`JOSHSHOOT.SOL`) to a Gallery Quality physical print.*
@@ -81,7 +81,7 @@ Collect the archive via link in bio
 ### 📋 Technical Metadata
 | Asset Classification | Metadata Specification |
 | :--- | :--- |
-| **Title** | `JOSH1 81 • The Mormons are Back` |
+| **Title** | `JOSH1 80 • Glimpses Inside` |
 | **Rarity Classification** | `💎 Common` |
 | **Capture Device** | `📸 iPhone 12 / Archival Capture` |
 | **Location Origin** | `📍 Rotterdam (RTM) 🇳🇱` |
@@ -89,5 +89,5 @@ Collect the archive via link in bio
 | **Collector Release Price** | `$12.00` *(20% OFF Limited Offer)* |
 | **On Chain Provenance** | `JOSHSHOOT.SOL` &bull; [DRiP Archive](https://drip.haus/josh) |
 
-🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-81-the-mormons-are-back-the-mormons-are-back/)**
+🔗 **[Collect the archive via INPRNT &rarr;](https://www.inprnt.com/gallery/joshuadenouden/josh1-80-glimpses-inside/)**
 ```
